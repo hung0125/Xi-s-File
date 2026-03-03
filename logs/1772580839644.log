@@ -1,0 +1,1110 @@
+@General| com.umeng.commonsdk.statistics.common.MLog.d(MLog.java:225) ==> MobclickAgent
+@General| com.umeng.commonsdk.statistics.common.MLog.d(MLog.java:225) ==> 延续上一个会话: 46ECA88D0C5A8D5F05691ACAEFF7DD14
+@General| com.umeng.commonsdk.statistics.internal.PreferenceWrapper.getDefault(?:4->29) ==> umeng_general_config
+@General| com.peopletech.arms.utils.PreferenceUtils.getBoolPreference(PreferenceUtils.java:52) ==> config
+@General| com.peopletech.arms.utils.PreferenceUtils.getBoolPreference(PreferenceUtils.java:52) ==> isLogined
+@General| com.peopletech.arms.utils.ArmsUtils.obtainAppComponentFromContext(?:2) ==> %s cannot be null
+@General| com.peopletech.arms.utils.ArmsUtils.obtainAppComponentFromContext(ArmsUtils.java:450) ==> android.content.Context
+@General| com.peopletech.arms.utils.ArmsUtils.obtainAppComponentFromContext(ArmsUtils.java:450) ==> %s cannot be null
+@General| com.peopletech.arms.utils.ArmsUtils.obtainAppComponentFromContext(ArmsUtils.java:451) ==> Application does not implements App
+@General| com.peopletech.arms.base.BaseApplication.getAppComponent(BaseApplication.java:86) ==> %s cannot be null
+@General| com.peopletech.arms.base.BaseApplication.getAppComponent(BaseApplication.java:86) ==> com.peopletech.arms.base.delegate.AppDelegate
+@General| com.peopletech.arms.base.BaseApplication.getAppComponent(BaseApplication.java:87) ==> %s must be implements %s
+@General| com.peopletech.arms.base.BaseApplication.getAppComponent(BaseApplication.java:87) ==> com.peopletech.arms.base.delegate.AppDelegate
+@General| com.peopletech.arms.base.BaseApplication.getAppComponent(BaseApplication.java:87) ==> com.peopletech.arms.base.App
+@General| com.facebook.common.util.UriUtil.isLocalResourceUri(UriUtil.java:157) ==> res
+@General| com.facebook.common.util.UriUtil.isLocalAssetUri(UriUtil.java:146) ==> asset
+@General| com.facebook.common.util.UriUtil.isNetworkUri(UriUtil.java:89) ==> https
+@General| com.facebook.common.util.UriUtil.isNetworkUri(UriUtil.java:90) ==> http
+@General| com.facebook.common.util.UriUtil.isLocalFileUri(UriUtil.java:100) ==> file
+@General| com.facebook.common.util.UriUtil.isLocalContentUri(UriUtil.java:111) ==> content
+@General| com.facebook.common.util.UriUtil.isDataUri(?:2) ==> data
+@General| com.facebook.common.util.UriUtil.isQualifiedResourceUri(UriUtil.java:168) ==> android.resource
+@General| com.peopletech.mine.manager.SettingsManager.getImageMode(?:2->148) ==> has_img
+@General| com.tencent.smtt.sdk.WebView.onVisibilityChanged(?:30) ==> com.tencent.mm
+@General| com.tencent.smtt.sdk.WebView.onVisibilityChanged(?:43) ==> com.tencent.mobileqq
+@General| com.peopletech.commonsdk.utils.CheckUtils.isNoEmptyStr(CheckUtils.java:58) ==> 
+@General| com.peopletech.arms.utils.NetworkUtils.isNetConnected(?:2->14) ==> connectivity
+@General| com.peopletech.main.mvp.ui.activity.MainActivity.switchTo(MainActivity.java:336) ==> pauseVideoList
+@General| com.peopletech.video.VideoProvider.doMethod(VideoProvider.java:62) ==> pauseVideoList
+@General| com.peopletech.main.mvp.ui.activity.MainActivity.switchTo(MainActivity.java:402) ==> gov
+@General| com.peopletech.gov.mvp.ui.activity.GovWebFragment.initData(GovWebFragment.java:74) ==> data
+@General| com.peopletech.gov.mvp.ui.activity.GovWebFragment.initData(GovWebFragment.java:74->75) ==> https://newrdshare.peopletech.cn/gov/#/home?_t=1772580664882
+@General| com.tencent.smtt.sdk.WebView.showDebugView(?:4) ==> https://newrdshare.peopletech.cn/gov/#/home?_t=1772580664882
+@General| com.tencent.smtt.sdk.WebView.showDebugView(?:9->12) ==> https://debugtbs.qq.com
+@General| com.tencent.smtt.sdk.WebView.showDebugView(?:58) ==> https://debugx5.qq.com
+@General| com.tencent.smtt.sdk.WebView.loadUrl(?:20) ==> https://newrdshare.peopletech.cn/gov/#/home?_t=1772580664882
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:20->23) ==> isRedirect
+@General| com.tencent.smtt.utils.i.a(?:14) ==> isRedirect
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53) ==> https://newrdshare.peopletech.cn/gov/#/home?_t=1772580664882
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:68) ==> GET
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://newrdshare.peopletech.cn/gov/#/home?_t=1772580664882
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:79) ==> GET
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://newrdshare.peopletech.cn/gov/#/home?_t=1772580664882
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://newrdshare.peopletech.cn/gov/#/home?_t=1772580664882
+@General| com.tencent.smtt.sdk.WebView.b(?:9) ==> com.tencent.mobileqq
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://newrdshare.peopletech.cn/gov/#/home?_t=1772580664882
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53) ==> https://newrdshare.peopletech.cn/gov/src/css/img/down_top@3x.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53->76) ==> https://newrdshare.peopletech.cn/gov/src/css/vendor.css
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://newrdshare.peopletech.cn/gov/src/css/img/down_top@3x.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://newrdshare.peopletech.cn/gov/src/css/vendor.css
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37) ==> https://newrdshare.peopletech.cn/gov/src/css/vendor.css
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://newrdshare.peopletech.cn/gov/src/css/img/down_top@3x.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53->76) ==> https://newrdshare.peopletech.cn/gov/src/js/vendor.js
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://newrdshare.peopletech.cn/gov/src/js/vendor.js
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://newrdshare.peopletech.cn/gov/src/js/vendor.js
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://newrdshare.peopletech.cn/gov/src/css/img/down_top@3x.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onPageStarted(?:9) ==> https://newrdshare.peopletech.cn/gov/#/home?_t=1772580664882
+@General| com.tencent.smtt.sdk.SystemWebViewClient.doUpdateVisitedHistory(?:9) ==> https://newrdshare.peopletech.cn/gov/#/home?_t=1772580664882
+@General| com.tencent.smtt.sdk.SystemWebChromeClient.onReceivedTitle(?:9) ==> 全国人大
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53->76) ==> https://newrdshare.peopletech.cn/gov/src/css/img/loadding.png
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://newrdshare.peopletech.cn/gov/src/css/img/loadding.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://newrdshare.peopletech.cn/gov/src/css/img/close1.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://newrdshare.peopletech.cn/gov/src/css/img/close1.png
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://newrdshare.peopletech.cn/gov/src/css/img/close1.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://newrdshare.peopletech.cn/gov/src/css/img/close1.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53->76) ==> https://rdapi.peopletech.cn/api/v2/wechat/getWechatInfo?shareUrl=https%3A%2F%2Fnewrdshare.peopletech.cn%2Fgov%2F
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdapi.peopletech.cn/api/v2/wechat/getWechatInfo?shareUrl=https%3A%2F%2Fnewrdshare.peopletech.cn%2Fgov%2F
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/api/home?refresh_type=0&device_size=901.875x1601.25&clientVersion=
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/api/home?refresh_type=0&device_size=901.875x1601.25&clientVersion=
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/api/home?refresh_type=0&device_size=901.875x1601.25&clientVersion=
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdapi.peopletech.cn/api/v2/wechat/getWechatInfo?shareUrl=https%3A%2F%2Fnewrdshare.peopletech.cn%2Fgov%2F
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/api/home?refresh_type=0&device_size=901.875x1601.25&clientVersion=
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onPageFinished(?:39) ==> https://newrdshare.peopletech.cn/gov/#/home?_t=1772580664882
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onPageFinished(?:47) ==> com.qzone
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onPageFinished(?:77->84) ==> SystemWebViewClient
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:11) ==> com.tencent.mtt
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:16) ==> com.tencent.mm
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:21) ==> com.tencent.mobileqq
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:26) ==> com.tencent.mtt.sdk.test
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:31) ==> com.qzone
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:40) ==> DEMO
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:45) ==> QB
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:50) ==> WX
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:55) ==> QQ
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:60) ==> TEST
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:65) ==> QZ
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:168->171) ==> app_extra pid:
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:189) ==> ; APP_TAG:OTHER!
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:199) ==> SystemWebViewClient
+@General| com.tencent.smtt.utils.TbsLog.app_extra(?:202) ==> app_extra pid:3733; APP_TAG:OTHER!
+@General| com.tencent.smtt.utils.TbsLog.i(?:14->17) ==> TBS:
+@General| com.tencent.smtt.utils.TbsLog.i(?:33) ==> TBS:app_extra pid:3733; APP_TAG:OTHER!
+@General| com.tencent.smtt.utils.TbsLog.i(?:36) ==> SystemWebViewClient
+@General| com.tencent.smtt.utils.TbsLog.i(?:39) ==> TBS:app_extra pid:3733; APP_TAG:OTHER!
+@General| com.tencent.smtt.utils.TbsLog.i(?:54->57) ==> (I)-
+@General| com.tencent.smtt.utils.TbsLog.i(?:71->74) ==> -TBS:
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-SystemWebViewClient-TBS:app_extra pid:3733; APP_TAG:OTHER!
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:24->27) ==>  pid=
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:45) ==>  tid=
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-SystemWebViewClient-TBS:app_extra pid:3733; APP_TAG:OTHER!
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:66->69) ==> 
+
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.951 pid=3733 tid=3733(I)-SystemWebViewClient-TBS:app_extra pid:3733; APP_TAG:OTHER!
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:3) ==> 1772580662958
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.951 pid=3733 tid=3733(I)-SystemWebViewClient-TBS:app_extra pid:3733; APP_TAG:OTHER!
+
+@General| com.tencent.smtt.utils.LogFileUtils.encrypt(?:2->5) ==> UTF-8
+@General| com.tencent.smtt.utils.LogFileUtils.encrypt(?:17) ==> RC4
+@General| com.tencent.smtt.utils.LogFileUtils.encrypt(?:28->31) ==> UTF-8
+@General| com.tencent.smtt.utils.LogFileUtils.encrypt(?:43) ==> RC4
+@General| com.tencent.smtt.sdk.WebView$8.run(?:8) ==> TbsNeedReboot
+@General| com.tencent.smtt.sdk.WebView$8.run(?:13) ==> WebView.updateNeeeRebootStatus--mAppContext == null
+@General| com.tencent.smtt.sdk.WebView$8.run(?:16) ==> TbsNeedReboot
+@General| com.tencent.smtt.sdk.WebView$8.run(?:19) ==> WebView.updateNeeeRebootStatus--mAppContext == null
+@General| com.tencent.smtt.utils.TbsLog.d(?:14->17) ==> TBS:
+@General| com.tencent.smtt.utils.TbsLog.d(?:33) ==> TBS:WebView.updateNeeeRebootStatus--mAppContext == null
+@General| com.tencent.smtt.utils.TbsLog.d(?:36) ==> TbsNeedReboot
+@General| com.tencent.smtt.utils.TbsLog.d(?:39) ==> TBS:WebView.updateNeeeRebootStatus--mAppContext == null
+@General| com.tencent.smtt.sdk.TbsLogReport.<init>(?:19->22) ==> TbsLogReportThread
+@General| com.tencent.smtt.sdk.TbsLogReport.b(?:60) ==> [TbsApkDownloadStat.reportDownloadStat]
+@General| com.tencent.smtt.sdk.TbsLogReport.b(?:63) ==> TbsDownload
+@General| com.tencent.smtt.sdk.TbsLogReport.b(?:66) ==> [TbsApkDownloadStat.reportDownloadStat]
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> [TbsApkDownloadStat.reportDownloadStat]
+@General| com.tencent.smtt.utils.TbsLog.i(?:33) ==> TBS:[TbsApkDownloadStat.reportDownloadStat]
+@General| com.tencent.smtt.utils.TbsLog.i(?:36) ==> TbsDownload
+@General| com.tencent.smtt.utils.TbsLog.i(?:39) ==> TBS:[TbsApkDownloadStat.reportDownloadStat]
+@General| com.tencent.smtt.utils.TbsLog.i(?:63) ==> TbsDownload
+@General| com.tencent.smtt.utils.TbsLog.i(?:80) ==> [TbsApkDownloadStat.reportDownloadStat]
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownload-TBS:[TbsApkDownloadStat.reportDownloadStat]
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsDownload-TBS:[TbsApkDownloadStat.reportDownloadStat]
+@General| com.tencent.smtt.sdk.TbsShareManager.forceLoadX5FromTBSDemo(?:17->20) ==> com.tencent.tbs
+@General| com.tencent.smtt.sdk.TbsPVConfig.isEnableNoCoreGray(?:5) ==> enable_no_share_gray
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.955 pid=3733 tid=5476(I)-TbsDownload-TBS:[TbsApkDownloadStat.reportDownloadStat]
+
+@General| com.tencent.smtt.sdk.TbsShareManager.getPackageContext(?:46) ==> com.tencent.tbs
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.955 pid=3733 tid=5476(I)-TbsDownload-TBS:[TbsApkDownloadStat.reportDownloadStat]
+
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:2) ==> TbsDownload
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:12->15) ==> needDownload,process=
+@General| com.tencent.smtt.sdk.QbSdk.getCurrentProcessName(?:15->18) ==> activity
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:28) ==> com.renda.activity
+@General| com.tencent.smtt.sdk.TbsLogReport.d(?:4) ==> tbs_download_stat
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:36) ==> stack=
+@General| com.tencent.smtt.sdk.TbsLogReport.d(?:8) ==> tbs_download_stat
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:39) ==> stack=
+@General| com.tencent.smtt.sdk.TbsLogReport.a(?:6->10) ==> tbs_download_upload
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:57) ==> java.lang.Throwable
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:47)
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:3)
+	at com.tencent.smtt.sdk.SystemWebViewClient$1.run(Unknown Source:27)
+	at java.lang.Thread.run(Thread.java:764)
+
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:67) ==> needDownload,process=com.renda.activitystack=java.lang.Throwable
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:47)
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:3)
+	at com.tencent.smtt.sdk.SystemWebViewClient$1.run(Unknown Source:27)
+	at java.lang.Thread.run(Thread.java:764)
+
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:70) ==> TbsDownload
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:73) ==> needDownload,process=com.renda.activitystack=java.lang.Throwable
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:47)
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:3)
+	at com.tencent.smtt.sdk.SystemWebViewClient$1.run(Unknown Source:27)
+	at java.lang.Thread.run(Thread.java:764)
+
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> needDownload,process=com.renda.activitystack=java.lang.Throwable
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:47)
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:3)
+	at com.tencent.smtt.sdk.SystemWebViewClient$1.run(Unknown Source:27)
+	at java.lang.Thread.run(Thread.java:764)
+
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:needDownload,process=com.renda.activitystack=java.lang.Throwable
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:47)
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:3)
+	at com.tencent.smtt.sdk.SystemWebViewClient$1.run(Unknown Source:27)
+	at java.lang.Thread.run(Thread.java:764)
+
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownload-TBS:needDownload,process=com.renda.activitystack=java.lang.Throwable
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:47)
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:3)
+	at com.tencent.smtt.sdk.SystemWebViewClient$1.run(Unknown Source:27)
+	at java.lang.Thread.run(Thread.java:764)
+
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsDownload-TBS:needDownload,process=com.renda.activitystack=java.lang.Throwable
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:47)
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:3)
+	at com.tencent.smtt.sdk.SystemWebViewClient$1.run(Unknown Source:27)
+	at java.lang.Thread.run(Thread.java:764)
+
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.956 pid=3733 tid=5475(I)-TbsDownload-TBS:needDownload,process=com.renda.activitystack=java.lang.Throwable
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:47)
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:3)
+	at com.tencent.smtt.sdk.SystemWebViewClient$1.run(Unknown Source:27)
+	at java.lang.Thread.run(Thread.java:764)
+
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.956 pid=3733 tid=5475(I)-TbsDownload-TBS:needDownload,process=com.renda.activitystack=java.lang.Throwable
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:47)
+	at com.tencent.smtt.sdk.TbsDownloader.needDownload(Unknown Source:3)
+	at com.tencent.smtt.sdk.SystemWebViewClient$1.run(Unknown Source:27)
+	at java.lang.Thread.run(Thread.java:764)
+
+
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.<init>(?:12->16) ==> tbs_download_upload
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:3) ==> TbsDownloadUpload
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:8) ==> writeTbsDownloadInfo #1
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:11) ==> TbsDownloadUpload
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:14) ==> writeTbsDownloadInfo #1
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> writeTbsDownloadInfo #1
+@General| com.tencent.smtt.utils.TbsLog.i(?:33) ==> TBS:writeTbsDownloadInfo #1
+@General| com.tencent.smtt.utils.TbsLog.i(?:36) ==> TbsDownloadUpload
+@General| com.tencent.smtt.utils.TbsLog.i(?:39) ==> TBS:writeTbsDownloadInfo #1
+@General| com.tencent.smtt.utils.TbsLog.i(?:63) ==> TbsDownloadUpload
+@General| com.tencent.smtt.utils.TbsLog.i(?:80) ==> writeTbsDownloadInfo #1
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo #1
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo #1
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.957 pid=3733 tid=5475(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo #1
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.957 pid=3733 tid=5475(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo #1
+
+@General| com.tencent.smtt.sdk.TbsLogReport.b(?:228) ==> TbsDownload
+@General| com.tencent.smtt.sdk.TbsLogReport.b(?:233) ==> [TbsApkDownloadStat.reportDownloadStat] no data
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:25->28) ==> download_upload
+@General| com.tencent.smtt.utils.b.c(?:13) ==> dalvik.system.VMRuntime
+@General| com.tencent.smtt.utils.b.c(?:25->30) ==> getRuntime
+@General| com.tencent.smtt.sdk.TbsLogReport.b(?:46) ==> [TbsApkDownloadStat.reportDownloadStat] no data
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> [TbsApkDownloadStat.reportDownloadStat] no data
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:[TbsApkDownloadStat.reportDownloadStat] no data
+@General| com.tencent.smtt.utils.TbsLog.i(?:80) ==> [TbsApkDownloadStat.reportDownloadStat] no data
+@General| com.tencent.smtt.utils.b.c(?:57) ==> is64Bit
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownload-TBS:[TbsApkDownloadStat.reportDownloadStat] no data
+@General| com.tencent.smtt.sdk.QbSdk.getTbsFolderDir(?:33) ==> tbs
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:16) ==> 2026-03-04_07:33:57.958
+@General| com.tencent.smtt.sdk.m.s(?:8->11) ==> core_private
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.958 pid=3733 tid=5476(I)-TbsDownload-TBS:[TbsApkDownloadStat.reportDownloadStat] no data
+
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.a(?:13) ==> download_upload
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.958 pid=3733 tid=5476(I)-TbsDownload-TBS:[TbsApkDownloadStat.reportDownloadStat] no data
+
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:92->95) ==> 
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:111) ==> 140
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:119) ==> TbsDownloadUpload
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:129->132) ==> writeTbsDownloadInfo key is 
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:146->149) ==>  value is 
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:165) ==> writeTbsDownloadInfo key is tbs_needdownload_code value is 140
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> writeTbsDownloadInfo key is tbs_needdownload_code value is 140
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 140
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 140
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.958 pid=3733 tid=5476(I)-TbsDownload-TBS:[TbsApkDownloadStat.reportDownloadStat] no data
+2026-03-04_07:33:57.958 pid=3733 tid=5475(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 140
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.958 pid=3733 tid=5476(I)-TbsDownload-TBS:[TbsApkDownloadStat.reportDownloadStat] no data
+2026-03-04_07:33:57.958 pid=3733 tid=5475(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 140
+
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:107) ==> TbsDownload
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:117->120) ==> [TbsDownloader.needDownload] oversea=
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:134) ==> ,isDownloadForeground=
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:147) ==> [TbsDownloader.needDownload] oversea=false,isDownloadForeground=false
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:150) ==> TbsDownload
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:153) ==> [TbsDownloader.needDownload] oversea=false,isDownloadForeground=false
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> [TbsDownloader.needDownload] oversea=false,isDownloadForeground=false
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:[TbsDownloader.needDownload] oversea=false,isDownloadForeground=false
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownload-TBS:[TbsDownloader.needDownload] oversea=false,isDownloadForeground=false
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsDownload-TBS:[TbsDownloader.needDownload] oversea=false,isDownloadForeground=false
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.960 pid=3733 tid=5475(I)-TbsDownload-TBS:[TbsDownloader.needDownload] oversea=false,isDownloadForeground=false
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.960 pid=3733 tid=5475(I)-TbsDownload-TBS:[TbsDownloader.needDownload] oversea=false,isDownloadForeground=false
+
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:234->237) ==> TbsDownload
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownload-TBS:app_extra pid:3733; APP_TAG:OTHER!
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.960 pid=3733 tid=5475(I)-TbsDownload-TBS:app_extra pid:3733; APP_TAG:OTHER!
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.960 pid=3733 tid=5475(I)-TbsDownload-TBS:app_extra pid:3733; APP_TAG:OTHER!
+
+@General| com.tencent.smtt.sdk.TbsDownloadConfig.setDownloadInterruptCode(?:9->12) ==> tbs_download_interrupt_code
+@General| com.tencent.smtt.sdk.TbsDownloadConfig.setDownloadInterruptCode(?:27) ==> tbs_download_interrupt_time
+@General| com.tencent.smtt.sdk.TbsDownloader.a(?:40->43) ==> is_oversea
+@General| com.tencent.smtt.sdk.TbsDownloader.a(?:239) ==> device_cpuabi
+@General| com.tencent.smtt.sdk.TbsDownloader.a(?:249) ==> i686
+@General| com.tencent.smtt.sdk.TbsDownloader.a(?:264->267) ==> i686|mips|x86_64
+@General| com.tencent.smtt.sdk.TbsDownloader.a(?:297) ==> can not support x86 devices!!
+@General| com.tencent.smtt.sdk.TbsDownloader.a(?:300) ==> TbsDownload
+@General| com.tencent.smtt.sdk.TbsDownloader.a(?:303) ==> can not support x86 devices!!
+@General| com.tencent.smtt.utils.TbsLog.e(?:14->17) ==> TBS:
+@General| com.tencent.smtt.utils.TbsLog.e(?:33) ==> TBS:can not support x86 devices!!
+@General| com.tencent.smtt.utils.TbsLog.e(?:36) ==> TbsDownload
+@General| com.tencent.smtt.utils.TbsLog.e(?:39) ==> TBS:can not support x86 devices!!
+@General| com.tencent.smtt.utils.TbsLog.e(?:54->57) ==> (E)-
+@General| com.tencent.smtt.utils.TbsLog.e(?:71->74) ==> -TBS:
+@General| com.tencent.smtt.utils.TbsLog.e(?:90->93) ==> (E)-TbsDownload-TBS:can not support x86 devices!!
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (E)-TbsDownload-TBS:can not support x86 devices!!
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.964 pid=3733 tid=5475(E)-TbsDownload-TBS:can not support x86 devices!!
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.964 pid=3733 tid=5475(E)-TbsDownload-TBS:can not support x86 devices!!
+
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:270) ==> TbsDownload
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:280->283) ==> [TbsDownloader.needDownload]#2,return 
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:299) ==> TbsDownload
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:302) ==> [TbsDownloader.needDownload]#2,return false
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> [TbsDownloader.needDownload]#2,return false
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:[TbsDownloader.needDownload]#2,return false
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownload-TBS:[TbsDownloader.needDownload]#2,return false
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsDownload-TBS:[TbsDownloader.needDownload]#2,return false
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.967 pid=3733 tid=5475(I)-TbsDownload-TBS:[TbsDownloader.needDownload]#2,return false
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.967 pid=3733 tid=5475(I)-TbsDownload-TBS:[TbsDownloader.needDownload]#2,return false
+
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:312) ==> tbs_needdownload_code
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:16) ==> 2026-03-04_07:33:57.968
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.968 pid=3733 tid=5475(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo #1
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.968 pid=3733 tid=5475(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo #1
+
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:111) ==> 141
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:165) ==> writeTbsDownloadInfo key is tbs_needdownload_code value is 141
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> writeTbsDownloadInfo key is tbs_needdownload_code value is 141
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 141
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 141
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 141
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.970 pid=3733 tid=5475(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 141
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.970 pid=3733 tid=5475(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 141
+
+@General| com.tencent.smtt.sdk.TbsDownloader.needDownload(?:331) ==> tbs_needdownload_return
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:16) ==> 2026-03-04_07:33:57.971
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.971 pid=3733 tid=5475(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo #1
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.971 pid=3733 tid=5475(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo #1
+
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:108) ==> tbs_needdownload_return
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:111) ==> 172
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:138) ==> tbs_needdownload_return
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:165) ==> writeTbsDownloadInfo key is tbs_needdownload_return value is 172
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> writeTbsDownloadInfo key is tbs_needdownload_return value is 172
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:writeTbsDownloadInfo key is tbs_needdownload_return value is 172
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_return value is 172
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_return value is 172
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:57.972 pid=3733 tid=5475(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_return value is 172
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:57.972 pid=3733 tid=5475(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_return value is 172
+
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53->76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/542/images/gov/category/2019/12/1576135494723.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/542/images/gov/category/2019/12/1576135494723.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/544/images/gov/category/2019/11/1572836820008.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/544/images/gov/category/2019/11/1572836820008.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/544/images/gov/category/2019/11/1572836820008.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/543/images/gov/category/2019/11/1572836457293.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/544/images/gov/category/2019/11/1572836820008.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/543/images/gov/category/2019/11/1572836457293.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/543/images/gov/category/2019/11/1572836457293.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/543/images/gov/category/2019/11/1572836457293.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/545/images/gov/category/2019/11/1572836869579.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/545/images/gov/category/2019/11/1572836869579.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/545/images/gov/category/2019/11/1572836869579.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/546/images/gov/category/2019/11/1572839471523.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/546/images/gov/category/2019/11/1572839471523.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/546/images/gov/category/2019/11/1572839471523.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/547/images/gov/category/2019/11/1572837034778.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/547/images/gov/category/2019/11/1572837034778.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/547/images/gov/category/2019/11/1572837034778.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/549/images/gov/category/2019/11/1572839508689.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/549/images/gov/category/2019/11/1572839508689.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/549/images/gov/category/2019/11/1572839508689.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/548/images/gov/category/2019/11/1572837089529.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/548/images/gov/category/2019/11/1572837089529.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/548/images/gov/category/2019/11/1572837089529.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/550/images/gov/category/2019/11/1572836690162.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/550/images/gov/category/2019/11/1572836690162.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/550/images/gov/category/2019/11/1572836690162.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/551/images/gov/category/2019/02/1549866330403.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/551/images/gov/category/2019/02/1549866330403.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/551/images/gov/category/2019/02/1549866330403.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/544/images/gov/category/2019/11/1572836820008.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/543/images/gov/category/2019/11/1572836457293.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/545/images/gov/category/2019/11/1572836869579.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/546/images/gov/category/2019/11/1572839471523.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/547/images/gov/category/2019/11/1572837034778.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/549/images/gov/category/2019/11/1572839508689.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/548/images/gov/category/2019/11/1572837089529.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/550/images/gov/category/2019/11/1572836690162.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53->76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/552/images/gov/category/2019/11/1572837138371.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/552/images/gov/category/2019/11/1572837138371.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/553/images/gov/category/2019/02/1549855464291.png
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/552/images/gov/category/2019/11/1572837138371.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/553/images/gov/category/2019/02/1549855464291.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/553/images/gov/category/2019/02/1549855464291.png
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/553/images/gov/category/2019/02/1549855464291.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/554/images/gov/category/2019/01/1547015646189.jpeg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/554/images/gov/category/2019/01/1547015646189.jpeg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/554/images/gov/category/2019/01/1547015646189.jpeg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/555/images/gov/category/2019/01/1547013928839.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/555/images/gov/category/2019/01/1547013928839.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/555/images/gov/category/2019/01/1547013928839.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/556/images/gov/category/2019/01/1547014119004.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/557/images/gov/category/2019/11/1572837380420.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/556/images/gov/category/2019/01/1547014119004.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/556/images/gov/category/2019/01/1547014119004.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/557/images/gov/category/2019/11/1572837380420.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/557/images/gov/category/2019/11/1572837380420.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/558/images/gov/category/2019/02/1549961349611.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/558/images/gov/category/2019/02/1549961349611.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/558/images/gov/category/2019/02/1549961349611.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/560/images/gov/category/2019/11/1572837184248.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/559/images/gov/category/2019/01/1547013826613.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/560/images/gov/category/2019/11/1572837184248.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/559/images/gov/category/2019/01/1547013826613.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/560/images/gov/category/2019/11/1572837184248.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/559/images/gov/category/2019/01/1547013826613.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/560/images/gov/category/2019/11/1572837184248.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:40) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/559/images/gov/category/2019/01/1547013826613.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/560/images/gov/category/2019/11/1572837184248.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53->76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/561/images/gov/category/2019/11/1572837446582.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/561/images/gov/category/2019/11/1572837446582.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/562/images/gov/category/2019/11/1572837505034.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/563/images/gov/category/2019/11/1572837580425.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/562/images/gov/category/2019/11/1572837505034.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/563/images/gov/category/2019/11/1572837580425.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/562/images/gov/category/2019/11/1572837505034.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/563/images/gov/category/2019/11/1572837580425.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/562/images/gov/category/2019/11/1572837505034.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/563/images/gov/category/2019/11/1572837580425.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/562/images/gov/category/2019/11/1572837505034.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53->76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/565/images/gov/category/2019/11/1572838960833.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/566/images/gov/category/2019/11/1572836767479.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/566/images/gov/category/2019/11/1572836767479.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/566/images/gov/category/2019/11/1572836767479.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/564/images/gov/category/2019/11/1572838802793.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/564/images/gov/category/2019/11/1572838802793.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/564/images/gov/category/2019/11/1572838802793.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/565/images/gov/category/2019/11/1572838960833.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/568/images/gov/category/2019/11/1572839054850.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/568/images/gov/category/2019/11/1572839054850.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/568/images/gov/category/2019/11/1572839054850.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/569/images/gov/category/2019/11/1572839103877.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/569/images/gov/category/2019/11/1572839103877.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/569/images/gov/category/2019/11/1572839103877.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/570/images/gov/category/2019/11/1572839249270.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/570/images/gov/category/2019/11/1572839249270.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/570/images/gov/category/2019/11/1572839249270.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/572/images/gov/category/2019/11/1572839348779.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/572/images/gov/category/2019/11/1572839348779.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/572/images/gov/category/2019/11/1572839348779.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/567/images/gov/category/2019/11/1572839007085.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/567/images/gov/category/2019/11/1572839007085.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/567/images/gov/category/2019/11/1572839007085.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/571/images/gov/category/2019/11/1572839303770.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/571/images/gov/category/2019/11/1572839303770.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/571/images/gov/category/2019/11/1572839303770.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/373/images/gov/category/2019/12/1575602110422.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/373/images/gov/category/2019/12/1575602110422.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/373/images/gov/category/2019/12/1575602110422.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://newrdshare.peopletech.cn/gov/src/css/img/pic_default_common.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://newrdshare.peopletech.cn/gov/src/css/img/pic_default_common.png
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://newrdshare.peopletech.cn/gov/src/css/img/pic_default_common.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/553/_thumbs/images/cms/article/2020/01/1579238964130.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/553/_thumbs/images/cms/article/2020/01/1579238964130.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/553/_thumbs/images/cms/article/2020/01/1579238964130.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/549/images/cms/article/2020/01/1578640256006.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/549/images/cms/article/2020/01/1578640256006.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/549/images/cms/article/2020/01/1578640256006.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/569/images/cms/article/2020/01/1578637568214.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/569/images/cms/article/2020/01/1578637568214.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/569/images/cms/article/2020/01/1578637568214.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/567/images/cms/article/2020/01/1578635207758.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/567/images/cms/article/2020/01/1578635207758.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/567/images/cms/article/2020/01/1578635207758.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/565/images/cms/article/2020/01/1578571003807.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/565/images/cms/article/2020/01/1578571003807.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/565/images/cms/article/2020/01/1578571003807.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/562/images/cms/article/2020/01/1578619595266.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/564/images/cms/article/2020/01/1578620217040.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/562/images/cms/article/2020/01/1578619595266.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/564/images/cms/article/2020/01/1578620217040.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/562/images/cms/article/2020/01/1578619595266.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/564/images/cms/article/2020/01/1578620217040.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/562/images/cms/article/2020/01/1578619595266.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/564/images/cms/article/2020/01/1578620217040.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/562/images/cms/article/2020/01/1578619595266.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/554/images/cms/article/2020/01/1578567720935.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/560/images/cms/article/2020/01/1578575409142.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/554/images/cms/article/2020/01/1578567720935.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/560/images/cms/article/2020/01/1578575409142.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/554/images/cms/article/2020/01/1578567720935.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/554/images/cms/article/2020/01/1578567720935.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/560/images/cms/article/2020/01/1578575409142.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/554/images/cms/article/2020/01/1578567720935.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/560/images/cms/article/2020/01/1578575409142.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/566/images/cms/article/2020/01/1578567328779.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:53) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/568/images/cms/article/2020/01/1578568630703.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/566/images/cms/article/2020/01/1578567328779.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/568/images/cms/article/2020/01/1578568630703.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/568/images/cms/article/2020/01/1578568630703.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/568/images/cms/article/2020/01/1578568630703.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/555/images/cms/article/2020/01/1578491171594.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/555/images/cms/article/2020/01/1578491171594.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/555/images/cms/article/2020/01/1578491171594.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.shouldInterceptRequest(?:76) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/556/images/cms/article/2020/01/1578560447582.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient$e.getUrl(?:2) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/556/images/cms/article/2020/01/1578560447582.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:37->40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/556/images/cms/article/2020/01/1578560447582.jpg
+@General| com.tencent.smtt.sdk.WebViewClient.shouldInterceptRequest(?:40) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/566/images/cms/article/2020/01/1578567328779.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/551/images/gov/category/2019/02/1549866330403.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/552/images/gov/category/2019/11/1572837138371.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/553/images/gov/category/2019/02/1549855464291.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/554/images/gov/category/2019/01/1547015646189.jpeg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/555/images/gov/category/2019/01/1547013928839.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/556/images/gov/category/2019/01/1547014119004.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/557/images/gov/category/2019/11/1572837380420.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/558/images/gov/category/2019/02/1549961349611.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/data//userfiles/559/images/gov/category/2019/01/1547013826613.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/560/images/gov/category/2019/11/1572837184248.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/561/images/gov/category/2019/11/1572837446582.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/563/images/gov/category/2019/11/1572837580425.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/562/images/gov/category/2019/11/1572837505034.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/566/images/gov/category/2019/11/1572836767479.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/564/images/gov/category/2019/11/1572838802793.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/565/images/gov/category/2019/11/1572838960833.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/568/images/gov/category/2019/11/1572839054850.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/569/images/gov/category/2019/11/1572839103877.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/570/images/gov/category/2019/11/1572839249270.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/572/images/gov/category/2019/11/1572839348779.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/567/images/gov/category/2019/11/1572839007085.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/571/images/gov/category/2019/11/1572839303770.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/373/images/gov/category/2019/12/1575602110422.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://newrdshare.peopletech.cn/gov/src/css/img/pic_default_common.png
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/553/_thumbs/images/cms/article/2020/01/1579238964130.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/549/images/cms/article/2020/01/1578640256006.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/569/images/cms/article/2020/01/1578637568214.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/567/images/cms/article/2020/01/1578635207758.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/565/images/cms/article/2020/01/1578571003807.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/562/images/cms/article/2020/01/1578619595266.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/564/images/cms/article/2020/01/1578620217040.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/554/images/cms/article/2020/01/1578567720935.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/560/images/cms/article/2020/01/1578575409142.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/568/images/cms/article/2020/01/1578568630703.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/555/images/cms/article/2020/01/1578491171594.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/556/images/cms/article/2020/01/1578560447582.jpg
+@General| com.tencent.smtt.sdk.SystemWebViewClient.onLoadResource(?:9) ==> https://rdpubliccmsapi.peopletech.cn/userfiles/566/images/cms/article/2020/01/1578567328779.jpg
+@General| com.umeng.commonsdk.statistics.common.ULog.d(ULog.java:226) ==> ULog
+@General| com.umeng.commonsdk.statistics.common.ULog.d(ULog.java:226) ==> --->>> dispatch:handleEvent: call back workEvent with msg type [ 0x1008]
+@General| com.umeng.commonsdk.statistics.common.ULog.d(ULog.java:226) ==> --->>> dispatch:handleEvent: call back workEvent with msg type [ 0x1004]
+@General| com.umeng.commonsdk.statistics.common.DataHelper.decrypt(?:2->140) ==> AES/CBC/PKCS7Padding
+@General| cn.jiguang.f.b.a(?:3->6) ==> yyyy-MM-dd_HH:mm:ss
+@General| cn.jiguang.f.b.a(?:22) ==> 2026-03-04_07:33:58
+@General| cn.jiguang.f.f.a(?:15) ==> push_stat_cache.json
+@General| com.umeng.commonsdk.statistics.common.DataHelper.encrypt(?:2) ==> AES/CBC/PKCS7Padding
+@General| cn.jiguang.f.c.a(?:10) ==> push_stat_cache.json
+@General| com.umeng.commonsdk.statistics.common.DataHelper.encrypt(DataHelper.java:124) ==> AES/CBC/PKCS7Padding
+@General| cn.jiguang.f.c.a(?:4->7) ==> UTF-8
+@General| com.peopletech.main.mvp.ui.activity.MainActivity.onPause(MainActivity.java:225) ==> pauseVideoList
+@General| com.peopletech.main.mvp.ui.activity.MainActivity.onPause(MainActivity.java:225->226) ==> pauseFloatingAudioView
+@General| com.mob.guard.impl.d.onStopped(SourceFile:1) ==> com.peopletech.main.mvp.ui.activity.MainActivity@1c623a2
+@General| com.umeng.commonsdk.statistics.common.ULog.i(ULog.java:230) ==> ULog
+@General| com.umeng.commonsdk.statistics.common.ULog.i(ULog.java:230) ==> befort ekv map, event is {"id":"$$_onUMengEnterBackground","ts":1772580838805,"__t":2049}
+@General| com.umeng.commonsdk.statistics.common.ULog.i(ULog.java:230) ==> ----->>>>>ekv event json is {"id":"$$_onUMengEnterBackground","ts":1772580838805,"__t":2049,"reason":"Normal","activityName":"com.peopletech.main.mvp.ui.activity.MainActivity@1c623a2","pid":3733,"isMainProcess":1,"pairUUID":"abcf7996-abc9-42b6-944b-78eb1a999b74","__i":"46ECA88D0C5A8D5F05691ACAEFF7DD14","ds":0,"pn":"com.renda.activity"}
+@General| com.mob.commons.a$5.onFBChanged(CltsInitializer.java:465) ==> App goes bg.
+@General| com.mob.tools.log.NLog.d(NLog.java:119->121) ==> App goes bg.
+@General| com.mob.tools.log.NLog.println(NLog.java:301) ==> (
+@General| com.mob.tools.log.NLog.println(NLog.java:301) ==> Thread-7
+@General| com.mob.tools.log.NLog.println(NLog.java:301) ==> ) 
+@General| com.igexin.push.core.i.onActivityStopped(?:35) ==> GALC|
+@General| com.mob.tools.log.NLog.println(NLog.java:301) ==> App goes bg.
+@General| com.mob.tools.log.NLog.println(NLog.java:303) ==> MOBSDK
+@General| com.igexin.push.core.i.onActivityStopped(?:38) ==> GALC|
+@General| com.mob.tools.log.NLog.println(NLog.java:306) ==> MOBSDK
+@General| com.mob.tools.log.NLog.println(NLog.java:306) ==> 3733-3769(Thread-7) App goes bg.
+@General| com.igexin.push.core.i.onActivityStopped(?:52) ==> com.peopletech.main.mvp.ui.activity.MainActivity
+@General| com.mob.commons.logcollector.DefaultLogsCollector.log(DefaultLogsCollector.java:67) ==> 3733-3769(Thread-7) App goes bg.
+@General| com.igexin.push.core.i.onActivityStopped(?:55) ==> com.peopletech.main.mvp.ui.activity.MainActivity
+@General| com.igexin.push.core.i.onActivityStopped(?:63->66) ==>  onAStopp 
+@General| com.igexin.push.core.i.onActivityStopped(?:81->86) ==> GALC|com.peopletech.main.mvp.ui.activity.MainActivity onAStopp 0
+@General| com.igexin.push.core.i.onActivityStopped(?:109) ==> GALC|>>>>>> on bg
+@General| cn.jiguang.f.f.a(?:15) ==> 8ccc860b2b7d64aa6f74e41c
+@General| cn.jiguang.f.f.a(?:15) ==> developer-default
+@General| cn.jiguang.f.f.a(?:15) ==> 2.2.6
+@General| com.mob.commons.logcollector.DefaultLogsCollector.log(DefaultLogsCollector.java:67) ==> MOBTOOLS
+@General| com.mob.commons.logcollector.DefaultLogsCollector.log(DefaultLogsCollector.java:70) ==> MOBSDK
+@General| com.mob.commons.logcollector.DefaultLogsCollector.log(DefaultLogsCollector.java:78) ==> SHARESDK
+@General| com.peopletech.main.mvp.ui.activity.MainActivity.onSaveInstanceState(MainActivity.java:562->563) ==> HOME_CURRENT_TAB_POSITION
+@General| com.tencent.smtt.sdk.WebView.onVisibilityChanged(?:76->81) ==> 
+@General| com.tencent.smtt.sdk.WebView.onVisibilityChanged(?:201) ==> onVisibilityChanged
+@General| com.tencent.smtt.sdk.WebView.onVisibilityChanged(?:211->214) ==> exception: 
+@General| com.tencent.smtt.sdk.WebView.onVisibilityChanged(?:230) ==> onVisibilityChanged
+@General| com.tencent.smtt.sdk.WebView.onVisibilityChanged(?:233) ==> exception: java.lang.NullPointerException: Attempt to invoke interface method 'com.tencent.smtt.export.external.extension.interfaces.IX5WebViewExtension com.tencent.smtt.export.external.interfaces.IX5WebViewBase.getX5WebViewExtension()' on a null object reference
+@General| com.tencent.smtt.utils.TbsLog.w(?:14->17) ==> TBS:
+@General| com.tencent.smtt.utils.TbsLog.w(?:33) ==> TBS:exception: java.lang.NullPointerException: Attempt to invoke interface method 'com.tencent.smtt.export.external.extension.interfaces.IX5WebViewExtension com.tencent.smtt.export.external.interfaces.IX5WebViewBase.getX5WebViewExtension()' on a null object reference
+@General| com.tencent.smtt.utils.TbsLog.w(?:36) ==> onVisibilityChanged
+@General| com.tencent.smtt.utils.TbsLog.w(?:39) ==> TBS:exception: java.lang.NullPointerException: Attempt to invoke interface method 'com.tencent.smtt.export.external.extension.interfaces.IX5WebViewExtension com.tencent.smtt.export.external.interfaces.IX5WebViewBase.getX5WebViewExtension()' on a null object reference
+@General| com.umeng.commonsdk.statistics.common.ULog.d(ULog.java:226) ==> --->>> dispatch:handleEvent: call back workEvent with msg type [ 0x1003]
+@General| com.tencent.smtt.utils.TbsLog.w(?:54->57) ==> (W)-
+@General| com.tencent.smtt.utils.TbsLog.w(?:71->74) ==> -TBS:
+@General| com.umeng.commonsdk.statistics.common.ULog.d(ULog.java:226) ==> --->>> dispatch:handleEvent: call back workEvent with msg type [ 0x1009]
+@General| com.tencent.smtt.utils.TbsLog.w(?:90->93) ==> (W)-onVisibilityChanged-TBS:exception: java.lang.NullPointerException: Attempt to invoke interface method 'com.tencent.smtt.export.external.extension.interfaces.IX5WebViewExtension com.tencent.smtt.export.external.interfaces.IX5WebViewBase.getX5WebViewExtension()' on a null object reference
+@General| com.umeng.commonsdk.statistics.common.ULog.d(ULog.java:226) ==> --->>> dispatch:handleEvent: call back workEvent with msg type [ 0x1103]
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (W)-onVisibilityChanged-TBS:exception: java.lang.NullPointerException: Attempt to invoke interface method 'com.tencent.smtt.export.external.extension.interfaces.IX5WebViewExtension com.tencent.smtt.export.external.interfaces.IX5WebViewBase.getX5WebViewExtension()' on a null object reference
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.809 pid=3733 tid=3733(W)-onVisibilityChanged-TBS:exception: java.lang.NullPointerException: Attempt to invoke interface method 'com.tencent.smtt.export.external.extension.interfaces.IX5WebViewExtension com.tencent.smtt.export.external.interfaces.IX5WebViewBase.getX5WebViewExtension()' on a null object reference
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.809 pid=3733 tid=3733(W)-onVisibilityChanged-TBS:exception: java.lang.NullPointerException: Attempt to invoke interface method 'com.tencent.smtt.export.external.extension.interfaces.IX5WebViewExtension com.tencent.smtt.export.external.interfaces.IX5WebViewBase.getX5WebViewExtension()' on a null object reference
+
+@General| com.tencent.smtt.sdk.WebView.onVisibilityChanged(?:250->253->256) ==> 
+@General| com.tencent.smtt.sdk.stat.b.<clinit>(?:7->10) ==> utf-8
+@General| com.tencent.smtt.sdk.stat.b.a(?:71) ==> com.tencent.mobileqq
+@General| com.tencent.smtt.utils.m.<init>(?:10) ==> https://log.tbs.qq.com/ajax?c=pu&v=2&k=
+@General| com.tencent.smtt.utils.m.<init>(?:17) ==> https://log.tbs.qq.com/ajax?c=pu&tk=
+@General| com.tencent.smtt.utils.m.<init>(?:24) ==> https://log.tbs.qq.com/ajax?c=dl&k=
+@General| com.tencent.smtt.utils.m.<init>(?:31) ==> https://cfg.imtt.qq.com/tbs?v=2&mk=
+@General| com.tencent.smtt.utils.m.<init>(?:38) ==> https://log.tbs.qq.com/ajax?c=ul&v=2&k=
+@General| com.tencent.smtt.utils.m.<init>(?:45) ==> https://mqqad.html5.qq.com/adjs
+@General| com.tencent.smtt.utils.m.<init>(?:52) ==> https://log.tbs.qq.com/ajax?c=ucfu&k=
+@General| com.tencent.smtt.utils.m.<init>(?:59) ==> TbsCommonConfig
+@General| com.tencent.smtt.utils.m.<init>(?:64) ==> TbsCommonConfig constructing...
+@General| com.tencent.smtt.utils.m.<init>(?:67) ==> TbsCommonConfig
+@General| com.tencent.smtt.utils.m.<init>(?:70) ==> TbsCommonConfig constructing...
+@General| com.tencent.smtt.utils.TbsLog.w(?:23) ==> TbsCommonConfig constructing...
+@General| com.tencent.smtt.utils.TbsLog.w(?:33) ==> TBS:TbsCommonConfig constructing...
+@General| com.tencent.smtt.utils.TbsLog.w(?:36) ==> TbsCommonConfig
+@General| com.tencent.smtt.utils.TbsLog.w(?:39) ==> TBS:TbsCommonConfig constructing...
+@General| com.tencent.smtt.utils.TbsLog.w(?:63) ==> TbsCommonConfig
+@General| com.tencent.smtt.utils.TbsLog.w(?:80) ==> TbsCommonConfig constructing...
+@General| com.tencent.smtt.utils.TbsLog.w(?:90->93) ==> (W)-TbsCommonConfig-TBS:TbsCommonConfig constructing...
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (W)-TbsCommonConfig-TBS:TbsCommonConfig constructing...
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.811 pid=3733 tid=3733(W)-TbsCommonConfig-TBS:TbsCommonConfig constructing...
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.811 pid=3733 tid=3733(W)-TbsCommonConfig-TBS:TbsCommonConfig constructing...
+
+@General| com.tencent.smtt.utils.m.h(?:33->36) ==> android.permission.READ_EXTERNAL_STORAGE
+@General| com.tencent.smtt.utils.m.h(?:61->64) ==> android.permission.WRITE_EXTERNAL_STORAGE
+@General| com.tencent.smtt.utils.m.h(?:101) ==> TbsCommonConfig
+@General| com.tencent.smtt.utils.m.h(?:106) ==> no permission,use sdcard default folder
+@General| com.tencent.smtt.utils.m.h(?:109) ==> TbsCommonConfig
+@General| com.tencent.smtt.utils.m.h(?:112) ==> no permission,use sdcard default folder
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> no permission,use sdcard default folder
+@General| com.tencent.smtt.utils.TbsLog.i(?:33) ==> TBS:no permission,use sdcard default folder
+@General| com.tencent.smtt.utils.TbsLog.i(?:36) ==> TbsCommonConfig
+@General| com.tencent.smtt.utils.TbsLog.i(?:39) ==> TBS:no permission,use sdcard default folder
+@General| com.tencent.smtt.utils.TbsLog.i(?:63) ==> TbsCommonConfig
+@General| com.tencent.smtt.utils.TbsLog.i(?:80) ==> no permission,use sdcard default folder
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsCommonConfig-TBS:no permission,use sdcard default folder
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsCommonConfig-TBS:no permission,use sdcard default folder
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.812 pid=3733 tid=3733(I)-TbsCommonConfig-TBS:no permission,use sdcard default folder
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.812 pid=3733 tid=3733(I)-TbsCommonConfig-TBS:no permission,use sdcard default folder
+
+@General| com.tencent.smtt.utils.FileUtil.a(?:7) ==> com.renda.activity
+@General| com.tencent.smtt.utils.FileUtil.a(?:10) ==> 
+@General| com.tencent.smtt.utils.FileUtil.a(?:27) ==> /
+@General| com.tencent.smtt.utils.FileUtil.a(?:196) ==> 
+@General| com.tencent.smtt.utils.FileUtil.a(?:211) ==> /storage/emulated/0/
+@General| com.tencent.smtt.utils.FileUtil.a(?:219->222) ==> tencent
+@General| com.tencent.smtt.utils.FileUtil.a(?:238->241) ==> tbs
+@General| com.tencent.smtt.utils.FileUtil.a(?:255) ==> com.renda.activity
+@General| com.tencent.smtt.utils.FileUtil.a(?:265->14) ==> /storage/emulated/0/tencent/tbs/com.renda.activity
+@General| com.tencent.smtt.utils.m.g(?:10) ==> TbsCommonConfig
+@General| com.tencent.smtt.utils.m.g(?:15) ==> Config file is null, default values will be applied
+@General| com.tencent.smtt.utils.m.g(?:18) ==> TbsCommonConfig
+@General| com.tencent.smtt.utils.m.g(?:21) ==> Config file is null, default values will be applied
+@General| com.tencent.smtt.utils.TbsLog.e(?:23) ==> Config file is null, default values will be applied
+@General| com.tencent.smtt.utils.TbsLog.e(?:33) ==> TBS:Config file is null, default values will be applied
+@General| com.tencent.smtt.utils.TbsLog.e(?:36) ==> TbsCommonConfig
+@General| com.tencent.smtt.utils.TbsLog.e(?:39) ==> TBS:Config file is null, default values will be applied
+@General| com.tencent.smtt.utils.TbsLog.e(?:63) ==> TbsCommonConfig
+@General| com.tencent.smtt.utils.TbsLog.e(?:80) ==> Config file is null, default values will be applied
+@General| com.tencent.smtt.utils.TbsLog.e(?:90->93) ==> (E)-TbsCommonConfig-TBS:Config file is null, default values will be applied
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (E)-TbsCommonConfig-TBS:Config file is null, default values will be applied
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.816 pid=3733 tid=3733(E)-TbsCommonConfig-TBS:Config file is null, default values will be applied
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.816 pid=3733 tid=3733(E)-TbsCommonConfig-TBS:Config file is null, default values will be applied
+
+@General| com.tencent.smtt.sdk.stat.b.a(?:178->181) ==> yyyy-MM-dd hh:mm:ss
+@General| com.tencent.smtt.sdk.stat.b.a(?:192) ==> GMT+08
+@General| com.tencent.smtt.utils.b.b(?:9) ==> com.renda.activity
+@General| com.tencent.smtt.sdk.stat.b.a(?:224->227) ==> com.tencent.mm.BuildInfo.CLIENT_VERSION
+@General| com.tencent.smtt.utils.b.a(?:19) ==> com.tencent.mm.BuildInfo.CLIENT_VERSION
+@General| com.tencent.smtt.utils.b.a(?:30) ==> null
+@General| com.tencent.smtt.utils.j.a(?:19) ==> 43939
+@General| com.tencent.smtt.utils.j.a(?:24) ==> 0
+@General| com.tencent.smtt.utils.j.a(?:40) ==> 43939
+@General| com.tencent.smtt.utils.j.a(?:43) ==> 0
+@General| com.tencent.smtt.utils.j.a(?:46) ==> GA
+@General| com.tencent.smtt.utils.j.a(?:49) ==> GE
+@General| com.tencent.smtt.utils.j.a(?:52) ==> 9422
+@General| com.tencent.smtt.utils.j.a(?:55) ==> 0
+@General| com.tencent.smtt.utils.j.a(?:58->2->7) ==> 
+@General| com.tencent.smtt.utils.j.b(?:2->5) ==> window
+@General| com.tencent.smtt.utils.j.a(?:37) ==> *
+@General| com.tencent.smtt.utils.j.c(?:2->5) ==> window
+@General| com.tencent.smtt.utils.j.a(?:72->101) ==> com.renda.activity
+@General| com.tencent.smtt.utils.j.a(?:19) ==> com.tencent.mobileqq
+@General| com.tencent.smtt.utils.j.a(?:36) ==> com.qzone
+@General| com.tencent.smtt.utils.j.a(?:53) ==> com.tencent.mtt
+@General| com.tencent.smtt.utils.j.a(?:70->108) ==> TRD
+@General| com.tencent.smtt.utils.j.e(?:2->5) ==> window
+@General| com.tencent.smtt.utils.j.a(?:142) ==> QV
+@General| com.tencent.smtt.utils.j.a(?:150->153) ==> =
+@General| com.tencent.smtt.utils.j.a(?:164) ==> 3
+@General| com.tencent.smtt.utils.j.a(?:172) ==> PL
+@General| com.tencent.smtt.utils.j.a(?:177) ==> ADR
+@General| com.tencent.smtt.utils.j.a(?:180) ==> PL
+@General| com.tencent.smtt.utils.j.a(?:183) ==> ADR
+@General| com.tencent.smtt.utils.j.a(?:2->5) ==> &
+@General| com.tencent.smtt.utils.j.a(?:19->22) ==> =
+@General| com.tencent.smtt.utils.j.a(?:191->194) ==> PR
+@General| com.tencent.smtt.utils.j.a(?:11) ==> PR
+@General| com.tencent.smtt.utils.j.a(?:28) ==> TRD
+@General| com.tencent.smtt.utils.j.a(?:205->208) ==> PP
+@General| com.tencent.smtt.utils.j.a(?:11) ==> PP
+@General| com.tencent.smtt.utils.j.a(?:28) ==> com.renda.activity
+@General| com.tencent.smtt.utils.j.a(?:219->222) ==> PPVN
+@General| com.tencent.smtt.utils.j.a(?:11) ==> PPVN
+@General| com.tencent.smtt.utils.j.a(?:28) ==> 2.2.6
+@General| com.tencent.smtt.utils.j.a(?:239->243) ==> TBSVC
+@General| com.tencent.smtt.utils.j.a(?:11) ==> TBSVC
+@General| com.tencent.smtt.utils.j.a(?:28) ==> 43939
+@General| com.tencent.smtt.utils.j.a(?:254) ==> CO
+@General| com.tencent.smtt.utils.j.a(?:259) ==> SYS
+@General| com.tencent.smtt.utils.j.a(?:262) ==> CO
+@General| com.tencent.smtt.utils.j.a(?:265) ==> SYS
+@General| com.tencent.smtt.utils.j.a(?:11) ==> CO
+@General| com.tencent.smtt.utils.j.a(?:28) ==> SYS
+@General| com.tencent.smtt.utils.j.a(?:279->283) ==> COVC
+@General| com.tencent.smtt.utils.j.a(?:11) ==> COVC
+@General| com.tencent.smtt.utils.j.a(?:28) ==> 0
+@General| com.tencent.smtt.utils.j.a(?:294->298) ==> PB
+@General| com.tencent.smtt.utils.j.a(?:11) ==> PB
+@General| com.tencent.smtt.utils.j.a(?:28) ==> GE
+@General| com.tencent.smtt.utils.j.a(?:309->313) ==> VE
+@General| com.tencent.smtt.utils.j.a(?:11) ==> VE
+@General| com.tencent.smtt.utils.j.a(?:28) ==> GA
+@General| com.tencent.smtt.utils.j.a(?:324->327) ==> DE
+@General| com.tencent.smtt.utils.j.a(?:11) ==> DE
+@General| com.tencent.smtt.utils.j.a(?:28) ==> PHONE
+@General| com.tencent.smtt.utils.j.a(?:338->354) ==> CHID
+@General| com.tencent.smtt.utils.j.a(?:11) ==> CHID
+@General| com.tencent.smtt.utils.j.a(?:365->369) ==> LCID
+@General| com.tencent.smtt.utils.j.a(?:11) ==> LCID
+@General| com.tencent.smtt.utils.j.a(?:28) ==> 9422
+@General| com.tencent.smtt.utils.j.a(?:7->10) ==>  
+@General| com.tencent.smtt.utils.j.a(?:25) ==> 
+@General| com.tencent.smtt.utils.j.a(?:28) ==> [ |\/|\_|\&|\|]
+@General| com.tencent.smtt.utils.j.a(?:31) ==> 
+@General| com.tencent.smtt.utils.j.a(?:38->41) ==> G011A
+@General| com.tencent.smtt.utils.j.a(?:52) ==>  
+@General| com.tencent.smtt.utils.j.a(?:62->382) ==>  G011A 
+@General| com.tencent.smtt.utils.j.a(?:392) ==> UTF-8
+@General| com.tencent.smtt.utils.j.a(?:401->404) ==> ISO8859-1
+@General| com.tencent.smtt.utils.j.a(?:422) ==> MO
+@General| com.tencent.smtt.utils.j.a(?:425) ==>  G011A 
+@General| com.tencent.smtt.utils.j.a(?:11) ==> MO
+@General| com.tencent.smtt.utils.j.a(?:28) ==>  G011A 
+@General| com.tencent.smtt.utils.j.a(?:433->436) ==> RL
+@General| com.tencent.smtt.utils.j.a(?:11) ==> RL
+@General| com.tencent.smtt.utils.j.a(?:28) ==> 900*1600
+@General| com.tencent.smtt.utils.j.a(?:451->454) ==> UTF-8
+@General| com.tencent.smtt.utils.j.a(?:466) ==> ISO8859-1
+@General| com.tencent.smtt.utils.j.a(?:481->484) ==> OS
+@General| com.tencent.smtt.utils.j.a(?:11) ==> OS
+@General| com.tencent.smtt.utils.j.a(?:28) ==> 9
+@General| com.tencent.smtt.utils.j.a(?:495) ==> API
+@General| com.tencent.smtt.utils.j.a(?:510->513) ==> 
+@General| com.tencent.smtt.utils.j.a(?:526) ==> API
+@General| com.tencent.smtt.utils.j.a(?:529) ==> 28
+@General| com.tencent.smtt.utils.j.a(?:11) ==> API
+@General| com.tencent.smtt.utils.j.a(?:28) ==> 28
+@General| com.tencent.smtt.utils.j.a(?:539->65) ==> QV=3&PL=ADR&PR=TRD&PP=com.renda.activity&PPVN=2.2.6&TBSVC=43939&CO=SYS&COVC=0&PB=GE&VE=GA&DE=PHONE&CHID=0&LCID=9422&MO= G011A &RL=900*1600&OS=9&API=28
+@General| com.tencent.smtt.utils.b.b(?:33) ==> wlan0
+@General| com.tencent.smtt.utils.b.b(?:70->81) ==> %02X:
+@General| com.tencent.smtt.utils.b.b(?:88) ==> FD:
+@General| com.tencent.smtt.utils.b.b(?:88) ==> F0:
+@General| com.tencent.smtt.utils.b.b(?:88) ==> 10:
+@General| com.tencent.smtt.utils.b.b(?:88) ==> 01:
+@General| com.tencent.smtt.utils.b.b(?:88) ==> 14:
+@General| com.tencent.smtt.utils.b.f(?:64) ==> 8C:FD:F0:10:01:14
+@General| com.tencent.smtt.utils.b.d(?:2) ==> 
+@General| com.tencent.smtt.utils.b.d(?:18->21) ==> phone
+@General| com.tencent.smtt.utils.b.e(?:18->21) ==> phone
+@General| com.tencent.smtt.utils.b.g(?:20) ==> android_id
+@General| com.tencent.smtt.sdk.stat.b.a(?:279->294->317) ==> 
+@General| com.tencent.smtt.sdk.stat.b.a(?:31->34) ==> SHA-1
+@General| com.tencent.smtt.sdk.stat.b.a(?:57) ==> 
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> 61
+@General| com.tencent.smtt.sdk.stat.b.a(?:89->92) ==> :
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> 37
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> 7E
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> 85
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> D3
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> 86
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> A8
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> DF
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> EE
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> 6B
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> 4B
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> D8
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> 5B
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> B
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> FA
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> A5
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> AF
+@General| com.tencent.smtt.sdk.stat.b.a(?:108) ==> 81
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:5) ==> TbsShareManager
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:15->18) ==> core_info mAvailableCoreVersion is 
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:34) ==>  mAvailableCorePath is 
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:50->53) ==>  mSrcPackageName is 
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:74) ==> TbsShareManager
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:77) ==> core_info mAvailableCoreVersion is 0 mAvailableCorePath is null mSrcPackageName is null
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> core_info mAvailableCoreVersion is 0 mAvailableCorePath is null mSrcPackageName is null
+@General| com.tencent.smtt.utils.TbsLog.i(?:33) ==> TBS:core_info mAvailableCoreVersion is 0 mAvailableCorePath is null mSrcPackageName is null
+@General| com.tencent.smtt.utils.TbsLog.i(?:36) ==> TbsShareManager
+@General| com.tencent.smtt.utils.TbsLog.i(?:39) ==> TBS:core_info mAvailableCoreVersion is 0 mAvailableCorePath is null mSrcPackageName is null
+@General| com.tencent.smtt.utils.TbsLog.i(?:63) ==> TbsShareManager
+@General| com.tencent.smtt.utils.TbsLog.i(?:80) ==> core_info mAvailableCoreVersion is 0 mAvailableCorePath is null mSrcPackageName is null
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsShareManager-TBS:core_info mAvailableCoreVersion is 0 mAvailableCorePath is null mSrcPackageName is null
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsShareManager-TBS:core_info mAvailableCoreVersion is 0 mAvailableCorePath is null mSrcPackageName is null
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.834 pid=3733 tid=3733(I)-TbsShareManager-TBS:core_info mAvailableCoreVersion is 0 mAvailableCorePath is null mSrcPackageName is null
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.834 pid=3733 tid=3733(I)-TbsShareManager-TBS:core_info mAvailableCoreVersion is 0 mAvailableCorePath is null mSrcPackageName is null
+
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:89) ==> TbsShareManager
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:94) ==> mSrcPackageName is null !!!
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:97) ==> TbsShareManager
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:100) ==> mSrcPackageName is null !!!
+@General| com.tencent.smtt.utils.TbsLog.e(?:23) ==> mSrcPackageName is null !!!
+@General| com.tencent.smtt.utils.TbsLog.e(?:33) ==> TBS:mSrcPackageName is null !!!
+@General| com.tencent.smtt.utils.TbsLog.e(?:36) ==> TbsShareManager
+@General| com.tencent.smtt.utils.TbsLog.e(?:39) ==> TBS:mSrcPackageName is null !!!
+@General| com.tencent.smtt.utils.TbsLog.e(?:63) ==> TbsShareManager
+@General| com.tencent.smtt.utils.TbsLog.e(?:80) ==> mSrcPackageName is null !!!
+@General| com.tencent.smtt.utils.TbsLog.e(?:90->93) ==> (E)-TbsShareManager-TBS:mSrcPackageName is null !!!
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (E)-TbsShareManager-TBS:mSrcPackageName is null !!!
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.835 pid=3733 tid=3733(E)-TbsShareManager-TBS:mSrcPackageName is null !!!
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.835 pid=3733 tid=3733(E)-TbsShareManager-TBS:mSrcPackageName is null !!!
+
+@General| com.tencent.smtt.sdk.TbsShareManager.getCoreProviderAppList(?:2) ==> com.tencent.tbs
+@General| com.tencent.smtt.sdk.TbsShareManager.getCoreProviderAppList(?:7) ==> com.tencent.mm
+@General| com.tencent.smtt.sdk.TbsShareManager.getCoreProviderAppList(?:12) ==> com.tencent.mobileqq
+@General| com.tencent.smtt.sdk.TbsShareManager.getCoreProviderAppList(?:17) ==> com.qzone
+@General| com.tencent.smtt.sdk.TbsShareManager.getCoreProviderAppList(?:22) ==> com.tencent.qqlite
+@General[]| com.tencent.smtt.sdk.TbsShareManager.l(?:12) ==> new String[]{com.tencent.tbs,com.tencent.mm,com.tencent.mobileqq,com.qzone,com.tencent.qqlite}
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:238) ==> TbsShareManager
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:243) ==> core_info error checkCoreInfo is false and checkCoreInOthers is false 
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:208) ==> TbsShareManager
+@General| com.tencent.smtt.sdk.TbsShareManager.findCoreForThirdPartyApp(?:211) ==> core_info error checkCoreInfo is false and checkCoreInOthers is false 
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> core_info error checkCoreInfo is false and checkCoreInOthers is false 
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:core_info error checkCoreInfo is false and checkCoreInOthers is false 
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsShareManager-TBS:core_info error checkCoreInfo is false and checkCoreInOthers is false 
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsShareManager-TBS:core_info error checkCoreInfo is false and checkCoreInOthers is false 
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.837 pid=3733 tid=3733(I)-TbsShareManager-TBS:core_info error checkCoreInfo is false and checkCoreInOthers is false 
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.837 pid=3733 tid=3733(I)-TbsShareManager-TBS:core_info error checkCoreInfo is false and checkCoreInOthers is false 
+
+@General| com.tencent.smtt.utils.TbsLog.addLog(?:57) ==> 
+@General| com.tencent.smtt.utils.TbsLog.addLog(?:62->104) ==> [%d][%d][%c][%d]%s
+@General| com.tencent.smtt.sdk.stat.b.a(?:7) ==> HttpUtils
+@General| com.tencent.smtt.sdk.stat.b$1.<init>(?:4) ==> HttpUtils
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:6) ==> 
+@General| com.tencent.smtt.utils.b.b(?:2) ==> 0816
+@General| com.tencent.smtt.utils.b.b(?:12->15) ==> saveGuid guid is 
+@General| com.tencent.smtt.utils.b.b(?:31) ==> saveGuid guid is 
+@General| com.tencent.smtt.utils.b.b(?:34) ==> 0816
+@General| com.tencent.smtt.utils.b.b(?:37) ==> saveGuid guid is 
+@General| com.tencent.smtt.utils.b.b(?:51) ==> tbs_guid
+@General| com.tencent.smtt.sdk.TbsDownloadConfig.commit(?:41) ==> tbs_guid
+@General| com.tencent.smtt.sdk.TbsDownloadConfig.commit(?:44) ==> 
+@General| com.tencent.smtt.utils.b.a(?:18->21) ==> getprop ro.product.cpu.abi
+@General| com.tencent.smtt.utils.b.a(?:59->62) ==> i686
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:110) ==> tbs_deskey_token
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:115) ==> 
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:118) ==> tbs_deskey_token
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:121->128->133->138) ==> 
+@General| com.tencent.smtt.utils.g.<clinit>(?:2) ==> 0123456789abcdef
+@General| com.tencent.smtt.utils.g.<init>(?:33->36) ==> 85577573
+@General| com.tencent.smtt.utils.g.<init>(?:59) ==> 18133414
+@General| com.tencent.smtt.utils.g.<init>(?:79->82) ==> 66884188
+@General| com.tencent.smtt.utils.g.<init>(?:99->114) ==> 00000000
+@General| com.tencent.smtt.utils.g.<init>(?:137) ==> 58127488
+@General| com.tencent.smtt.utils.g.<init>(?:147->114) ==> 0000000058127488
+@General| com.tencent.smtt.utils.g.<init>(?:137) ==> 82076281
+@General| com.tencent.smtt.utils.g.<init>(?:147->114) ==> 000000005812748882076281
+@General| com.tencent.smtt.utils.g.<init>(?:137) ==> 11460542
+@General| com.tencent.smtt.utils.g.<init>(?:147->114) ==> 00000000581274888207628111460542
+@General| com.tencent.smtt.utils.g.<init>(?:137) ==> 35290059
+@General| com.tencent.smtt.utils.g.<init>(?:147->114) ==> 0000000058127488820762811146054235290059
+@General| com.tencent.smtt.utils.g.<init>(?:137) ==> 33535428
+@General| com.tencent.smtt.utils.g.<init>(?:147->114) ==> 000000005812748882076281114605423529005933535428
+@General| com.tencent.smtt.utils.g.<init>(?:137) ==> 60155375
+@General| com.tencent.smtt.utils.g.<init>(?:147->114) ==> 00000000581274888207628111460542352900593353542860155375
+@General| com.tencent.smtt.utils.g.<init>(?:137) ==> 21311036
+@General| com.tencent.smtt.utils.g.<init>(?:147->114) ==> 0000000058127488820762811146054235290059335354286015537521311036
+@General| com.tencent.smtt.utils.g.<init>(?:137) ==> 56015018
+@General| com.tencent.smtt.utils.g.<init>(?:147->114) ==> 000000005812748882076281114605423529005933535428601553752131103656015018
+@General| com.tencent.smtt.utils.g.<init>(?:137) ==> 17950963
+@General| com.tencent.smtt.utils.g.<init>(?:147->114) ==> 00000000581274888207628111460542352900593353542860155375213110365601501817950963
+@General| com.tencent.smtt.utils.g.<init>(?:137) ==> 32757587
+@General| com.tencent.smtt.utils.g.<init>(?:147->114) ==> 0000000058127488820762811146054235290059335354286015537521311036560150181795096332757587
+@General| com.tencent.smtt.utils.g.<init>(?:137) ==> 55453090
+@General| com.tencent.smtt.utils.g.<init>(?:147->114) ==> 000000005812748882076281114605423529005933535428601553752131103656015018179509633275758755453090
+@General| com.tencent.smtt.utils.g.<init>(?:137) ==> 21290265
+@General| com.tencent.smtt.utils.g.<init>(?:147->158) ==> 00000000581274888207628111460542352900593353542860155375213110365601501817950963327575875545309021290265
+@General| com.tencent.smtt.utils.g.<init>(?:176) ==> 00000000581274888207628111460542352900593353542860155375213110365601501817950963327575875545309021290265855775731813341466884188
+@General| com.tencent.smtt.utils.g.<init>(?:187->190) ==> RSA/ECB/NoPadding
+@General| com.tencent.smtt.utils.g.<init>(?:208->211) ==> MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDcEQ3TCNWPBqgIiY7WQ/IqTOTTV2w8aZ/GPm68FK0
+@General| com.tencent.smtt.utils.g.<init>(?:221->224) ==> fAJBemZKtYR3Li46VJ+Hwnor7ZpQnblGWPFaLv5JoPqvavgB0GInuhm+T+syPs1mw0uPLWaqwvZsCfoaIvUuxy5xHJgmWARrK4/9pHyDxRlZte0PCIoR1ko5B8lVVH1X1dQIDAQAB
+@General| com.tencent.smtt.utils.g.<init>(?:252->255) ==> RSA
+@General| com.tencent.smtt.utils.g.<init>(?:302->305) ==> DESede
+@General| com.tencent.smtt.utils.g.<init>(?:321) ==> DESede/ECB/PKCS5Padding
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:253) ==> 541ee6de09f62246f4c12cc1bd752e8d6b555f986720fe24b1db3ef1ea8528c75d34a5a57623618aaf1b9beddeeb4b9218c0afdaa1cc7b48e41cae5c1cd6943c22a0b6c6812d7d5d9143a2431fea40ac3486b644780c73815a02684e15c1334806bd98db7c4d16de64d9781edee81d84497c721525fffab927ea58f20b4ebca3
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:291) ==> https://log.tbs.qq.com/ajax?c=pu&v=2&k=541ee6de09f62246f4c12cc1bd752e8d6b555f986720fe24b1db3ef1ea8528c75d34a5a57623618aaf1b9beddeeb4b9218c0afdaa1cc7b48e41cae5c1cd6943c22a0b6c6812d7d5d9143a2431fea40ac3486b644780c73815a02684e15c1334806bd98db7c4d16de64d9781edee81d84497c721525fffab927ea58f20b4ebca3
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:305->308) ==> POST
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:341) ==> close
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:344) ==> Connection
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:347) ==> close
+@General| com.tencent.smtt.sdk.stat.b.c(?:7->12) ==> APPNAME
+@General| com.tencent.smtt.sdk.stat.b.c(?:25) ==> TIME
+@General| com.tencent.smtt.sdk.stat.b.c(?:33->38) ==> QUA2
+@General| com.tencent.smtt.sdk.stat.b.c(?:51) ==> LC
+@General| com.tencent.smtt.sdk.stat.b.c(?:59->64) ==> GUID
+@General| com.tencent.smtt.sdk.stat.b.c(?:77) ==> IMEI
+@General| com.tencent.smtt.sdk.stat.b.c(?:85->90) ==> IMSI
+@General| com.tencent.smtt.sdk.stat.b.c(?:103) ==> MAC
+@General| com.tencent.smtt.sdk.stat.b.c(?:111->116) ==> PV
+@General| com.tencent.smtt.sdk.stat.b.c(?:129) ==> CORETYPE
+@General| com.tencent.smtt.sdk.stat.b.c(?:137->142) ==> APPVN
+@General| com.tencent.smtt.sdk.stat.b.c(?:155) ==> APPMETADATA
+@General| com.tencent.smtt.sdk.stat.b.c(?:163->168) ==> VERSION_CODE
+@General| com.tencent.smtt.sdk.stat.b.c(?:181) ==> CPU
+@General| com.tencent.smtt.sdk.stat.b.c(?:189) ==> com.tencent.mm
+@General| com.tencent.smtt.sdk.stat.b.c(?:202) ==> com.tencent.mobileqq
+@General| com.tencent.smtt.sdk.stat.b.c(?:215) ==> com.tencent.tbs
+@General| com.tencent.smtt.sdk.stat.b.c(?:250->241) ==> SIGNATURE
+@General| com.tencent.smtt.sdk.stat.b.c(?:362) ==> PROTOCOL_VERSION
+@General| com.tencent.smtt.sdk.stat.b.c(?:370->375) ==> ANDROID_ID
+@General[]| com.tencent.smtt.sdk.TbsShareManager.getHostCoreVersions(?:4) ==> new String[]{com.tencent.tbs,com.tencent.mm,com.tencent.mobileqq,com.qzone,com.tencent.qqlite}
+@General| com.tencent.smtt.sdk.TbsShareManager.getHostCoreVersions(?:17->20) ==> com.tencent.mm
+@General| com.tencent.smtt.sdk.TbsShareManager.getHostCoreVersions(?:51) ==> com.tencent.mobileqq
+@General| com.tencent.smtt.sdk.TbsShareManager.getHostCoreVersions(?:74->77) ==> com.qzone
+@General| com.tencent.smtt.sdk.TbsShareManager.getSharedTbsCoreVersion(?:1) ==> com.tencent.mm
+@General| com.tencent.smtt.sdk.TbsShareManager.getPackageContext(?:46) ==> com.tencent.mm
+@General| com.tencent.smtt.sdk.TbsShareManager.getHostCoreVersions(?:60) ==> com.tencent.mobileqq
+@General| com.tencent.smtt.sdk.TbsShareManager.getSharedTbsCoreVersion(?:1) ==> com.tencent.mobileqq
+@General| com.tencent.smtt.sdk.TbsShareManager.getPackageContext(?:46) ==> com.tencent.mobileqq
+@General| com.tencent.smtt.sdk.TbsShareManager.getHostCoreVersions(?:86) ==> com.qzone
+@General| com.tencent.smtt.sdk.TbsShareManager.getSharedTbsCoreVersion(?:1) ==> com.qzone
+@General| com.tencent.smtt.sdk.TbsShareManager.getPackageContext(?:46) ==> com.qzone
+@General| com.tencent.smtt.sdk.stat.b.c(?:396) ==> HOST_COREVERSION
+@General| com.tencent.smtt.sdk.stat.b.c(?:439->444) ==> WIFICONNECTEDTIME
+@General| com.tencent.smtt.sdk.stat.b.c(?:457) ==> CORE_EXIST
+@General| com.tencent.smtt.sdk.stat.b.c(?:471) ==> TBS_ERROR_CODE
+@General| com.tencent.smtt.sdk.TbsDownloadConfig.getDownloadInterruptCode(?:5->8->87->92) ==> tbs_download_interrupt_code
+@General| com.tencent.smtt.sdk.TbsDownloadConfig.getDownloadInterruptCode(?:134) ==> tbs_download_interrupt_time
+@General| com.tencent.smtt.sdk.TbsDownloadConfig.getDownloadInterruptCode(?:160) ==> com.tencent.mobileqq
+@General| com.tencent.smtt.sdk.TbsDownloadConfig.getDownloadInterruptCode(?:204->208) ==> tbs_install_interrupt_code
+@General| com.tencent.smtt.sdk.TbsDownloadConfig.uploadDownloadInterruptCodeIfNeeded(?:5) ==> com.tencent.mm
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:395->398) ==> utf-8
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:430) ==> application/x-www-form-urlencoded
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:433) ==> Content-Type
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:436) ==> application/x-www-form-urlencoded
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:444) ==> Content-Length
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:452) ==> 616
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:455) ==> Content-Length
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:458) ==> 616
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:486) ==> sdkreport
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:491) ==> Post successful!
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:494) ==> sdkreport
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:497) ==> Post successful!
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> Post successful!
+@General| com.tencent.smtt.utils.TbsLog.i(?:33) ==> TBS:Post successful!
+@General| com.tencent.smtt.utils.TbsLog.i(?:36) ==> sdkreport
+@General| com.tencent.smtt.utils.TbsLog.i(?:39) ==> TBS:Post successful!
+@General| com.tencent.smtt.utils.TbsLog.i(?:63) ==> sdkreport
+@General| com.tencent.smtt.utils.TbsLog.i(?:80) ==> Post successful!
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-sdkreport-TBS:Post successful!
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-sdkreport-TBS:Post successful!
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.907 pid=3733 tid=5501(I)-sdkreport-TBS:Post successful!
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.907 pid=3733 tid=5501(I)-sdkreport-TBS:Post successful!
+
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:505) ==> sdkreport
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:515->518) ==> SIGNATURE is 
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:529) ==> SIGNATURE
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:536) ==> 61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:546) ==> sdkreport
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:549) ==> SIGNATURE is 61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> SIGNATURE is 61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:SIGNATURE is 61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-sdkreport-TBS:SIGNATURE is 61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.907 pid=3733 tid=5501(I)-sdkreport-TBS:SIGNATURE is 61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.907 pid=3733 tid=5501(I)-sdkreport-TBS:SIGNATURE is 61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:555) ==> 
+@General| com.tencent.smtt.sdk.stat.b.b(?:2) ==> 
+@General| com.tencent.smtt.utils.g.c(?:8->11) ==> DESede
+@General| com.tencent.smtt.utils.g.c(?:32) ==> DESede/ECB/PKCS5Padding
+@General| com.tencent.smtt.sdk.stat.b.b(?:178) ==> HttpUtils
+@General| com.tencent.smtt.sdk.stat.b.b(?:188->191) ==> getResponseFromConnection,response=
+@General| com.tencent.smtt.sdk.stat.b.b(?:205->208) ==> ;isUseRSA=
+@General| com.tencent.smtt.sdk.stat.b.b(?:224) ==> HttpUtils
+@General| com.tencent.smtt.sdk.stat.b.b(?:227) ==> getResponseFromConnection,response=;isUseRSA=true
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> getResponseFromConnection,response=;isUseRSA=true
+@General| com.tencent.smtt.utils.TbsLog.i(?:33) ==> TBS:getResponseFromConnection,response=;isUseRSA=true
+@General| com.tencent.smtt.utils.TbsLog.i(?:36) ==> HttpUtils
+@General| com.tencent.smtt.utils.TbsLog.i(?:39) ==> TBS:getResponseFromConnection,response=;isUseRSA=true
+@General| com.tencent.smtt.utils.TbsLog.i(?:63) ==> HttpUtils
+@General| com.tencent.smtt.utils.TbsLog.i(?:80) ==> getResponseFromConnection,response=;isUseRSA=true
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-HttpUtils-TBS:getResponseFromConnection,response=;isUseRSA=true
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-HttpUtils-TBS:getResponseFromConnection,response=;isUseRSA=true
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.913 pid=3733 tid=5501(I)-HttpUtils-TBS:getResponseFromConnection,response=;isUseRSA=true
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.913 pid=3733 tid=5501(I)-HttpUtils-TBS:getResponseFromConnection,response=;isUseRSA=true
+
+@General| com.tencent.smtt.sdk.stat.b$1.run(?:564) ==> 
+@General| com.tencent.smtt.sdk.TbsPVConfig.getConfigFileName(?:2) ==> tbs_pv_config
+@General| com.tencent.smtt.sdk.TbsBaseConfig.refreshSyncMap(?:8) ==> tbs_pv_config
+@General| com.tencent.smtt.sdk.TbsBaseConfig.a(?:13) ==> tbs_pv_config
+@General| com.tencent.smtt.sdk.TbsBaseConfig.writeTbsDownloadInfo(?:3) ==> TbsBaseConfig
+@General| com.tencent.smtt.sdk.TbsBaseConfig.writeTbsDownloadInfo(?:8) ==> writeTbsDownloadInfo #1
+@General| com.tencent.smtt.sdk.TbsBaseConfig.writeTbsDownloadInfo(?:11) ==> TbsBaseConfig
+@General| com.tencent.smtt.sdk.TbsBaseConfig.writeTbsDownloadInfo(?:14) ==> writeTbsDownloadInfo #1
+@General| com.tencent.smtt.utils.TbsLog.i(?:36->63) ==> TbsBaseConfig
+@General| com.tencent.smtt.utils.TbsLog.i(?:93) ==> (I)-TbsBaseConfig-TBS:writeTbsDownloadInfo #1
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:16) ==> 2026-03-04_07:33:58.914
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsBaseConfig-TBS:writeTbsDownloadInfo #1
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.914 pid=3733 tid=5501(I)-TbsBaseConfig-TBS:writeTbsDownloadInfo #1
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.914 pid=3733 tid=5501(I)-TbsBaseConfig-TBS:writeTbsDownloadInfo #1
+
+@General| com.tencent.smtt.sdk.TbsBaseConfig.writeTbsDownloadInfo(?:27) ==> tbs_pv_config
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.clearUploadCode(?:4) ==> tbs_needdownload_code
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.clearUploadCode(?:19) ==> tbs_startdownload_code
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.clearUploadCode(?:33) ==> tbs_needdownload_return
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.clearUploadCode(?:47) ==> tbs_needdownload_sent
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.clearUploadCode(?:61) ==> tbs_startdownload_sent
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.clearUploadCode(?:75) ==> tbs_local_core_version
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:16) ==> 2026-03-04_07:33:58.916
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.916 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo #1
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.916 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo #1
+
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:108) ==> tbs_startdownload_code
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:111) ==> 0
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:138) ==> tbs_startdownload_code
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:165) ==> writeTbsDownloadInfo key is tbs_startdownload_code value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> writeTbsDownloadInfo key is tbs_startdownload_code value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:writeTbsDownloadInfo key is tbs_startdownload_code value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_startdownload_code value is 0
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_startdownload_code value is 0
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.917 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_startdownload_code value is 0
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.917 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_startdownload_code value is 0
+
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:165) ==> writeTbsDownloadInfo key is tbs_needdownload_return value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> writeTbsDownloadInfo key is tbs_needdownload_return value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:writeTbsDownloadInfo key is tbs_needdownload_return value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_return value is 0
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_return value is 0
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.918 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_return value is 0
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.918 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_return value is 0
+
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:108->138) ==> tbs_startdownload_sent
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> writeTbsDownloadInfo key is tbs_startdownload_sent value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:writeTbsDownloadInfo key is tbs_startdownload_sent value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_startdownload_sent value is 0
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.918 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_startdownload_sent value is 0
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.918 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_startdownload_sent value is 0
+
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:165) ==> writeTbsDownloadInfo key is tbs_needdownload_code value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> writeTbsDownloadInfo key is tbs_needdownload_code value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 0
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 0
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.919 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 0
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.919 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_code value is 0
+
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:108->138) ==> tbs_needdownload_sent
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> writeTbsDownloadInfo key is tbs_needdownload_sent value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:writeTbsDownloadInfo key is tbs_needdownload_sent value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_sent value is 0
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.919 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_sent value is 0
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.919 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_needdownload_sent value is 0
+
+@General| com.tencent.smtt.sdk.TbsDownloadUpload.writeTbsDownloadInfo(?:108->138) ==> tbs_local_core_version
+@General| com.tencent.smtt.utils.TbsLog.i(?:23) ==> writeTbsDownloadInfo key is tbs_local_core_version value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:33->39) ==> TBS:writeTbsDownloadInfo key is tbs_local_core_version value is 0
+@General| com.tencent.smtt.utils.TbsLog.i(?:90->93) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_local_core_version value is 0
+@General| com.tencent.smtt.utils.TbsLogClient.writeLog(?:58) ==> (I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_local_core_version value is 0
+@General| com.tencent.smtt.utils.TbsLogClient.writeLogToDisk(?:23) ==> 2026-03-04_07:33:58.920 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_local_core_version value is 0
+
+@General| com.tencent.smtt.utils.LogFileUtils.writeDataToStorage(?:6) ==> 2026-03-04_07:33:58.920 pid=3733 tid=5501(I)-TbsDownloadUpload-TBS:writeTbsDownloadInfo key is tbs_local_core_version value is 0
+
+@General| com.umeng.commonsdk.statistics.common.ULog.i(ULog.java:230) ==> befort ekv map, event is {"id":"$$_onUMengEnterForeground","ts":1772580839633,"__t":2049}
+@General| com.umeng.commonsdk.statistics.common.ULog.i(ULog.java:230) ==> ----->>>>>ekv event json is {"id":"$$_onUMengEnterForeground","ts":1772580839633,"__t":2049,"activityName":"com.peopletech.main.mvp.ui.activity.MainActivity@1c623a2","pid":3733,"isMainProcess":1,"pairUUID":"86dfebb5-c2cd-425a-b412-5b95fc83572a","__i":"46ECA88D0C5A8D5F05691ACAEFF7DD14","ds":0,"pn":"com.renda.activity"}
+@General| com.uc.crashsdk.a.a.a(ProGuard:51) ==> crashsdk
+@General| com.uc.crashsdk.a.a.a(ProGuard:51) ==> Unexp log not enabled, skip update unexp info!
+@General| com.igexin.push.core.i.onActivityStarted(?:24->27) ==> GALC|
+@General| com.igexin.push.core.i.onActivityStarted(?:49->52) ==>  onAStart 
+@General| com.igexin.push.core.i.onActivityStarted(?:85->90) ==> GALC|>>>>>> FG
+@General| com.igexin.push.f.j.a(?:12) ==> i
+@General| com.mob.mcl.c.j.onResumed(TcpHelper.java:5) ==> com.peopletech.main.mvp.ui.activity.MainActivity@1c623a2
+@General| com.mob.guard.impl.d.onResumed(SourceFile:7) ==> com.peopletech.main.mvp.ui.activity.MainActivity@1c623a2
+@General| com.mob.commons.a$5.onFBChanged(CltsInitializer.java:461) ==> App goes fg.
+@General| com.mob.tools.log.NLog.d(NLog.java:119->121) ==> App goes fg.
+@General| com.mob.tools.log.NLog.println(NLog.java:306) ==> 3733-3769(Thread-7) App goes fg.
+@General| com.mob.commons.logcollector.DefaultLogsCollector.log(DefaultLogsCollector.java:67) ==> 3733-3769(Thread-7) App goes fg.
+@General| com.peopletech.commonview.base.BaseViewActivity.nightModeConfig(BaseViewActivity.java:161) ==> isNightMode
+@General| com.peopletech.mine.manager.SettingsManager.isNightMode(?:2->72) ==> night_mode_status
+@General| com.peopletech.main.mvp.ui.activity.MainActivity.onResume(MainActivity.java:215->216) ==> addFloatingAudioView
