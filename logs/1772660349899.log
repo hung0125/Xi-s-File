@@ -1,0 +1,1417 @@
+@General| com.zkrg.adk.core.base.BaseActivity.getResources(BaseActivity.kt:3->4) ==> resources
+@General| com.blankj.utilcode.util.Utils.getSpUtils4Utils(Utils.java:1) ==> Utils
+@General| com.blankj.utilcode.util.SPUtils.getInstance(SPUtils.java:3->4->8) ==> Utils
+@General| com.blankj.utilcode.util.LanguageUtils.applyLanguage(LanguageUtils.java:19) ==> KEY_LOCALE
+@General| com.blankj.utilcode.util.SPUtils.getString(?:4) ==> 
+@General| com.blankj.utilcode.util.SPUtils.getString(SPUtils.java:1) ==> KEY_LOCALE
+@General| com.blankj.utilcode.util.SPUtils.getString(SPUtils.java:1) ==> 
+@General| com.blankj.utilcode.util.SPUtils.getString(SPUtils.java:3) ==> KEY_LOCALE
+@General| com.blankj.utilcode.util.SPUtils.getString(SPUtils.java:3) ==> 
+@General| com.blankj.utilcode.util.LanguageUtils.applyLanguage(LanguageUtils.java:19) ==> 
+@General| com.blankj.utilcode.util.Utils$ActivityLifecycleImpl.setTopActivity(Utils.java:1) ==> com.zkrg.adk.main.activity.SplashActivity
+@General| com.blankj.utilcode.util.Utils$ActivityLifecycleImpl.setTopActivity(Utils.java:1) ==> com.blankj.utilcode.util.PermissionUtils$PermissionActivity
+@General| com.zkrg.adk.core.base.BaseActivity.setActivity(?:2->5) ==> <set-?>
+@General| com.zkrg.adk.main.activity.SplashActivity.initView(SplashActivity.kt:1) ==> first
+@General| com.zkrg.adk.main.activity.SplashActivity.initView(SplashActivity.kt:1) ==> 
+@General| com.zkrg.adk.main.activity.SplashActivity.initView(SplashActivity.kt:2) ==> first
+@General| com.zkrg.adk.main.activity.SplashActivity.initView(SplashActivity.kt:2) ==> 
+@General| com.zkrg.adk.main.activity.SplashActivity.d(?:2->1) ==> layout_inflater
+@General| com.zkrg.adk.main.activity.SplashActivity.d(SplashActivity.kt:6) ==> null cannot be cast to non-null type android.widget.TextView
+@General| com.blankj.utilcode.util.SpanUtils.<clinit>(?:2->1) ==> line.separator
+@General| com.blankj.utilcode.util.SpanUtils.<init>(SpanUtils.java:7) ==> 
+@General| com.zkrg.adk.main.activity.SplashActivity.d(SplashActivity.kt:12) ==> 		亲爱的用户：
+
+		感谢您的使用！我们非常重视您的个人信息和隐私安全。为了更好地保障您的个人权益，请您充分阅读并理解
+@General| com.zkrg.adk.main.activity.SplashActivity.d(SplashActivity.kt:13) ==> 《用户隐私协议》
+@General| com.zkrg.adk.main.activity.SplashActivity.d(SplashActivity.kt:15) ==> ，同意并全部接受全部条款后开始使用我们的产品和服务。
+@UIText| com.blankj.utilcode.util.SpanUtils.create(SpanUtils.java:3) ==> 		亲爱的用户：
+
+		感谢您的使用！我们非常重视您的个人信息和隐私安全。为了更好地保障您的个人权益，请您充分阅读并理解《用户隐私协议》，同意并全部接受全部条款后开始使用我们的产品和服务。
+@General| com.zkrg.adk.main.activity.SplashActivity$c.onClick(SplashActivity.kt:2) ==> first
+@General| com.zkrg.adk.main.activity.SplashActivity$c.onClick(SplashActivity.kt:3) ==> 1
+@General| com.zkrg.adk.main.activity.SplashActivity$c.onClick(SplashActivity.kt:4) ==> first
+@General| com.zkrg.adk.main.activity.SplashActivity$c.onClick(SplashActivity.kt:4) ==> 1
+@General| com.zkrg.adk.main.activity.SplashActivity.a(SplashActivity.kt:2) ==> https://www.idangke.cn
+@General| okhttp3.Protocol.<clinit>(Protocol.java:1) ==> HTTP_1_0
+@General| okhttp3.Protocol.<clinit>(Protocol.java:1) ==> http/1.0
+@General| okhttp3.Protocol.<init>(Protocol.java:1) ==> HTTP_1_0
+@General| okhttp3.Protocol.<clinit>(Protocol.java:2) ==> HTTP_1_1
+@General| okhttp3.Protocol.<clinit>(Protocol.java:2) ==> http/1.1
+@General| okhttp3.Protocol.<init>(Protocol.java:1) ==> HTTP_1_1
+@General| okhttp3.Protocol.<clinit>(Protocol.java:3) ==> SPDY_3
+@General| okhttp3.Protocol.<clinit>(Protocol.java:3) ==> spdy/3.1
+@General| okhttp3.Protocol.<init>(Protocol.java:1) ==> SPDY_3
+@General| okhttp3.Protocol.<clinit>(Protocol.java:4) ==> HTTP_2
+@General| okhttp3.Protocol.<clinit>(Protocol.java:4) ==> h2
+@General| okhttp3.Protocol.<init>(Protocol.java:1) ==> HTTP_2
+@General| okhttp3.Protocol.<clinit>(Protocol.java:5) ==> H2_PRIOR_KNOWLEDGE
+@General| okhttp3.Protocol.<clinit>(Protocol.java:5) ==> h2_prior_knowledge
+@General| okhttp3.Protocol.<init>(Protocol.java:1) ==> H2_PRIOR_KNOWLEDGE
+@General| okhttp3.Protocol.<clinit>(Protocol.java:6) ==> QUIC
+@General| okhttp3.Protocol.<clinit>(Protocol.java:6) ==> quic
+@General| okhttp3.Protocol.<init>(Protocol.java:1) ==> QUIC
+@General| okio.s.<clinit>(?:2->1) ==> UTF-8
+@General| okhttp3.f0.c.<clinit>(Util.java:5) ==> efbbbf
+@General| okhttp3.f0.c.<clinit>(Util.java:5->6) ==> feff
+@General| okhttp3.f0.c.<clinit>(Util.java:7) ==> fffe
+@General| okhttp3.f0.c.<clinit>(Util.java:7->8) ==> 0000ffff
+@General| okhttp3.f0.c.<clinit>(Util.java:9) ==> ffff0000
+@General| okhttp3.f0.c.<clinit>(Util.java:9->10) ==> UTF-8
+@General| okhttp3.f0.c.<clinit>(Util.java:11) ==> ISO-8859-1
+@General| okhttp3.f0.c.<clinit>(Util.java:11->12) ==> UTF-16BE
+@General| okhttp3.f0.c.<clinit>(Util.java:13) ==> UTF-16LE
+@General| okhttp3.f0.c.<clinit>(Util.java:13->14) ==> UTF-32BE
+@General| okhttp3.f0.c.<clinit>(Util.java:15) ==> UTF-32LE
+@General| okhttp3.f0.c.<clinit>(Util.java:15->16) ==> GMT
+@General| okhttp3.f0.c.<clinit>(Util.java:19->20) ==> ([0-9a-fA-F]*:[0-9a-fA-F:.]*)|([\d.]+)
+@General| okhttp3.h.<clinit>(CipherSuite.java:3) ==> SSL_RSA_WITH_NULL_MD5
+@General| okhttp3.h.a(CipherSuite.java:10) ==> SSL_RSA_WITH_NULL_MD5
+@General| okhttp3.h.<clinit>(CipherSuite.java:3->4) ==> SSL_RSA_WITH_NULL_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:4->5) ==> SSL_RSA_EXPORT_WITH_RC4_40_MD5
+@General| okhttp3.h.<clinit>(CipherSuite.java:5->6) ==> SSL_RSA_WITH_RC4_128_MD5
+@General| okhttp3.h.<clinit>(CipherSuite.java:6->7) ==> SSL_RSA_WITH_RC4_128_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:7->8) ==> SSL_RSA_EXPORT_WITH_DES40_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:8->9) ==> SSL_RSA_WITH_DES_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:9->10) ==> SSL_RSA_WITH_3DES_EDE_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:10->11) ==> SSL_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:11->12) ==> SSL_DHE_DSS_WITH_DES_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:12->13) ==> SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:13->14) ==> SSL_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:14->15) ==> SSL_DHE_RSA_WITH_DES_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:15->16) ==> SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:16->17) ==> SSL_DH_anon_EXPORT_WITH_RC4_40_MD5
+@General| okhttp3.h.<clinit>(CipherSuite.java:17->18) ==> SSL_DH_anon_WITH_RC4_128_MD5
+@General| okhttp3.h.<clinit>(CipherSuite.java:18->19) ==> SSL_DH_anon_EXPORT_WITH_DES40_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:19->20) ==> SSL_DH_anon_WITH_DES_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:20->21) ==> SSL_DH_anon_WITH_3DES_EDE_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:21->22) ==> TLS_KRB5_WITH_DES_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:22->23) ==> TLS_KRB5_WITH_3DES_EDE_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:23->24) ==> TLS_KRB5_WITH_RC4_128_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:24->25) ==> TLS_KRB5_WITH_DES_CBC_MD5
+@General| okhttp3.h.<clinit>(CipherSuite.java:25->26) ==> TLS_KRB5_WITH_3DES_EDE_CBC_MD5
+@General| okhttp3.h.<clinit>(CipherSuite.java:26->27) ==> TLS_KRB5_WITH_RC4_128_MD5
+@General| okhttp3.h.<clinit>(CipherSuite.java:27->28) ==> TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:28->29) ==> TLS_KRB5_EXPORT_WITH_RC4_40_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:29->30) ==> TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5
+@General| okhttp3.h.<clinit>(CipherSuite.java:30->31) ==> TLS_KRB5_EXPORT_WITH_RC4_40_MD5
+@General| okhttp3.h.<clinit>(CipherSuite.java:31->32) ==> TLS_RSA_WITH_AES_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:32->33) ==> TLS_DHE_DSS_WITH_AES_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:33->34) ==> TLS_DHE_RSA_WITH_AES_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:34->35) ==> TLS_DH_anon_WITH_AES_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:35->36) ==> TLS_RSA_WITH_AES_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:36->37) ==> TLS_DHE_DSS_WITH_AES_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:37->38) ==> TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:38->39) ==> TLS_DH_anon_WITH_AES_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:39->40) ==> TLS_RSA_WITH_NULL_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:40->41) ==> TLS_RSA_WITH_AES_128_CBC_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:41->42) ==> TLS_RSA_WITH_AES_256_CBC_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:42->43) ==> TLS_DHE_DSS_WITH_AES_128_CBC_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:43->44) ==> TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:44->45) ==> TLS_DHE_DSS_WITH_CAMELLIA_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:45->46) ==> TLS_DHE_RSA_WITH_CAMELLIA_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:46->47) ==> TLS_DHE_RSA_WITH_AES_128_CBC_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:47->48) ==> TLS_DHE_DSS_WITH_AES_256_CBC_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:48->49) ==> TLS_DHE_RSA_WITH_AES_256_CBC_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:49->50) ==> TLS_DH_anon_WITH_AES_128_CBC_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:50->51) ==> TLS_DH_anon_WITH_AES_256_CBC_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:51->52) ==> TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:52->53) ==> TLS_DHE_DSS_WITH_CAMELLIA_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:53->54) ==> TLS_DHE_RSA_WITH_CAMELLIA_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:54->55) ==> TLS_PSK_WITH_RC4_128_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:55->56) ==> TLS_PSK_WITH_3DES_EDE_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:56->57) ==> TLS_PSK_WITH_AES_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:57->58) ==> TLS_PSK_WITH_AES_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:58->59) ==> TLS_RSA_WITH_SEED_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:59->60) ==> TLS_RSA_WITH_AES_128_GCM_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:60->61) ==> TLS_RSA_WITH_AES_256_GCM_SHA384
+@General| okhttp3.h.<clinit>(CipherSuite.java:61->62) ==> TLS_DHE_RSA_WITH_AES_128_GCM_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:62->63) ==> TLS_DHE_RSA_WITH_AES_256_GCM_SHA384
+@General| okhttp3.h.<clinit>(CipherSuite.java:63->64) ==> TLS_DHE_DSS_WITH_AES_128_GCM_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:64->65) ==> TLS_DHE_DSS_WITH_AES_256_GCM_SHA384
+@General| okhttp3.h.<clinit>(CipherSuite.java:65->66) ==> TLS_DH_anon_WITH_AES_128_GCM_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:66->67) ==> TLS_DH_anon_WITH_AES_256_GCM_SHA384
+@General| okhttp3.h.<clinit>(CipherSuite.java:67->68) ==> TLS_EMPTY_RENEGOTIATION_INFO_SCSV
+@General| okhttp3.h.<clinit>(CipherSuite.java:68->69) ==> TLS_FALLBACK_SCSV
+@General| okhttp3.h.<clinit>(CipherSuite.java:69->70) ==> TLS_ECDH_ECDSA_WITH_NULL_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:70->71) ==> TLS_ECDH_ECDSA_WITH_RC4_128_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:71->72) ==> TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:72->73) ==> TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:73->74) ==> TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:74->75) ==> TLS_ECDHE_ECDSA_WITH_NULL_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:75->76) ==> TLS_ECDHE_ECDSA_WITH_RC4_128_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:76->77) ==> TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:77->78) ==> TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:78->79) ==> TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:79->80) ==> TLS_ECDH_RSA_WITH_NULL_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:80->81) ==> TLS_ECDH_RSA_WITH_RC4_128_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:81->82) ==> TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:82->83) ==> TLS_ECDH_RSA_WITH_AES_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:83->84) ==> TLS_ECDH_RSA_WITH_AES_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:84->85) ==> TLS_ECDHE_RSA_WITH_NULL_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:85->86) ==> TLS_ECDHE_RSA_WITH_RC4_128_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:86->87) ==> TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:87->88) ==> TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:88->89) ==> TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:89->90) ==> TLS_ECDH_anon_WITH_NULL_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:90->91) ==> TLS_ECDH_anon_WITH_RC4_128_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:91->92) ==> TLS_ECDH_anon_WITH_3DES_EDE_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:92->93) ==> TLS_ECDH_anon_WITH_AES_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:93->94) ==> TLS_ECDH_anon_WITH_AES_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:94->95) ==> TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:95->96) ==> TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384
+@General| okhttp3.h.<clinit>(CipherSuite.java:96->97) ==> TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:97->98) ==> TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384
+@General| okhttp3.h.<clinit>(CipherSuite.java:98->99) ==> TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:99->100) ==> TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+@General| okhttp3.h.<clinit>(CipherSuite.java:100->101) ==> TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:101->102) ==> TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384
+@General| okhttp3.h.<clinit>(CipherSuite.java:102->103) ==> TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:103->104) ==> TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384
+@General| okhttp3.h.<clinit>(CipherSuite.java:104->105) ==> TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:105->106) ==> TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384
+@General| okhttp3.h.<clinit>(CipherSuite.java:106->107) ==> TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:107->108) ==> TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+@General| okhttp3.h.<clinit>(CipherSuite.java:108->109) ==> TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:109->110) ==> TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384
+@General| okhttp3.h.<clinit>(CipherSuite.java:110->111) ==> TLS_ECDHE_PSK_WITH_AES_128_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:111->112) ==> TLS_ECDHE_PSK_WITH_AES_256_CBC_SHA
+@General| okhttp3.h.<clinit>(CipherSuite.java:112->113) ==> TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:113->114) ==> TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:114->115) ==> TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:115->116) ==> TLS_ECDHE_PSK_WITH_CHACHA20_POLY1305_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:116->117) ==> TLS_AES_128_GCM_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:117->118) ==> TLS_AES_256_GCM_SHA384
+@General| okhttp3.h.<clinit>(CipherSuite.java:118->119) ==> TLS_CHACHA20_POLY1305_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:119->120) ==> TLS_AES_128_CCM_SHA256
+@General| okhttp3.h.<clinit>(CipherSuite.java:120->121) ==> TLS_AES_256_CCM_8_SHA256
+@General[]| okhttp3.k$a.a(ConnectionSpec.java:5) ==> new String[]{TLS_AES_128_GCM_SHA256,TLS_AES_256_GCM_SHA384,TLS_CHACHA20_POLY1305_SHA256,TLS_AES_128_CCM_SHA256,TLS_AES_256_CCM_8_SHA256,TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256}
+@General| okhttp3.TlsVersion.<clinit>(TlsVersion.java:1) ==> TLS_1_3
+@General| okhttp3.TlsVersion.<clinit>(TlsVersion.java:1) ==> TLSv1.3
+@General| okhttp3.TlsVersion.<init>(TlsVersion.java:1) ==> TLS_1_3
+@General| okhttp3.TlsVersion.<clinit>(TlsVersion.java:2) ==> TLS_1_2
+@General| okhttp3.TlsVersion.<clinit>(TlsVersion.java:2) ==> TLSv1.2
+@General| okhttp3.TlsVersion.<init>(TlsVersion.java:1) ==> TLS_1_2
+@General| okhttp3.TlsVersion.<clinit>(TlsVersion.java:3) ==> TLS_1_1
+@General| okhttp3.TlsVersion.<clinit>(TlsVersion.java:3) ==> TLSv1.1
+@General| okhttp3.TlsVersion.<init>(TlsVersion.java:1) ==> TLS_1_1
+@General| okhttp3.TlsVersion.<clinit>(TlsVersion.java:4) ==> TLS_1_0
+@General| okhttp3.TlsVersion.<clinit>(TlsVersion.java:4) ==> TLSv1
+@General| okhttp3.TlsVersion.<init>(TlsVersion.java:1) ==> TLS_1_0
+@General| okhttp3.TlsVersion.<clinit>(TlsVersion.java:5) ==> SSL_3_0
+@General| okhttp3.TlsVersion.<clinit>(TlsVersion.java:5) ==> SSLv3
+@General| okhttp3.TlsVersion.<init>(TlsVersion.java:1) ==> SSL_3_0
+@General[]| okhttp3.k$a.a(ConnectionSpec.java:16) ==> new String[]{TLSv1.3,TLSv1.2}
+@General[]| okhttp3.k$a.a(ConnectionSpec.java:5) ==> new String[]{TLS_AES_128_GCM_SHA256,TLS_AES_256_GCM_SHA384,TLS_CHACHA20_POLY1305_SHA256,TLS_AES_128_CCM_SHA256,TLS_AES_256_CCM_8_SHA256,TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA,TLS_RSA_WITH_AES_128_GCM_SHA256,TLS_RSA_WITH_AES_256_GCM_SHA384,TLS_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_256_CBC_SHA,SSL_RSA_WITH_3DES_EDE_CBC_SHA}
+@General[]| okhttp3.k$a.a(ConnectionSpec.java:16) ==> new String[]{TLSv1.3,TLSv1.2,TLSv1.1,TLSv1}
+@General[]| okhttp3.k$a.a(ConnectionSpec.java:16) ==> new String[]{TLSv1}
+@General| okhttp3.j.<clinit>(ConnectionPool.java:1->2) ==> OkHttp ConnectionPool
+@General| retrofit2.m.d(?:2->1) ==> android.os.Build
+@General| okhttp3.f0.h.a.b(AndroidPlatform.java:15) ==> com.android.org.conscrypt.SSLParametersImpl
+@General| okhttp3.f0.h.a.b(AndroidPlatform.java:17) ==> setUseSessionTickets
+@General| okhttp3.f0.h.a.b(AndroidPlatform.java:18) ==> setHostname
+@General| okhttp3.f0.h.a.e(?:2->1) ==> GMSCore_OpenSSL
+@General| okhttp3.f0.h.a.e(AndroidPlatform.java:2) ==> android.net.Network
+@General| okhttp3.f0.h.a.b(AndroidPlatform.java:20) ==> getAlpnSelectedProtocol
+@General| okhttp3.f0.h.a.b(AndroidPlatform.java:21) ==> setAlpnProtocols
+@General| okhttp3.f0.h.a$c.a(?:2->5) ==> dalvik.system.CloseGuard
+@General| okhttp3.f0.h.a$c.a(AndroidPlatform.java:6) ==> get
+@General| okhttp3.f0.h.a$c.a(AndroidPlatform.java:6->7) ==> open
+@General| okhttp3.f0.h.a$c.a(AndroidPlatform.java:8) ==> warnIfOpen
+@General| okhttp3.f0.h.f.<clinit>(Platform.java:2) ==> okhttp3.x
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:35->36) ==> TLS
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:28) ==> android.net.http.X509TrustManagerExtensions
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:30->31) ==> checkServerTrusted
+@General| retrofit2.q$b.a(Retrofit.java:1) ==> client == null
+@General| retrofit2.q$b.a(?:2) ==> factory == null
+@General| retrofit2.q$b.a(Retrofit.java:3) ==> baseUrl == null
+@General| retrofit2.q$b.a(Retrofit.java:4) ==> https://www.idangke.cn
+@General| okhttp3.t$a.<init>(HttpUrl.java:1) ==> 
+@General| okhttp3.t.d(HttpUrl.java:6) ==> https://www.idangke.cn
+@General| okhttp3.t$a.a(HttpUrl.java:19->20->21) ==> https://www.idangke.cn
+@General| okhttp3.t$a.a(HttpUrl.java:22) ==> https:
+@General| okhttp3.t$a.a(HttpUrl.java:22) ==> https
+@General| okhttp3.t$a.a(HttpUrl.java:29) ==> https://www.idangke.cn
+@General| okhttp3.t$a.a(HttpUrl.java:38) ==> @/\?#
+@General| okhttp3.t$a.a(HttpUrl.java:39) ==> https://www.idangke.cn
+@General| okhttp3.t$a.a(HttpUrl.java:39) ==> @/\?#
+@General| okhttp3.t$a.a(HttpUrl.java:47->53->74) ==> https://www.idangke.cn
+@General| okhttp3.t$a.a(HttpUrl.java:74->75) ==> www.idangke.cn
+@General| okhttp3.f0.c.a(Util.java:44->46) ==> www.idangke.cn
+@General| okhttp3.t$a.a(HttpUrl.java:53) ==> www.idangke.cn
+@General| okhttp3.t$a.a(HttpUrl.java:54) ==> https
+@General| okhttp3.t.c(?:2) ==> http
+@General| okhttp3.t.c(HttpUrl.java:1) ==> https
+@General| okhttp3.t$a.a(HttpUrl.java:55) ==> ?#
+@General| okhttp3.t$a.a(HttpUrl.java:56) ==> https://www.idangke.cn
+@General| okhttp3.t$a.a(HttpUrl.java:56) ==> ?#
+@General| okhttp3.t$a.a(HttpUrl.java:57) ==> https://www.idangke.cn
+@General| okhttp3.t.<init>(HttpUrl.java:3) ==> 
+@General| okhttp3.t.a(HttpUrl.java:12->23) ==> 
+@General| okhttp3.t.a(HttpUrl.java:16) ==> 
+@General| okhttp3.t$a.toString(HttpUrl.java:3) ==> https
+@General| okhttp3.t$a.toString(HttpUrl.java:3->4) ==> ://
+@General| okhttp3.t$a.toString(HttpUrl.java:20) ==> https
+@General| okhttp3.t.b(HttpUrl.java:7) ==> 
+@General| okhttp3.t$a.toString(HttpUrl.java:30) ==> https://www.idangke.cn/
+@General| okhttp3.t.<init>(HttpUrl.java:14) ==> https://www.idangke.cn/
+@General| retrofit2.q$b.a(Retrofit.java:5) ==> baseUrl == null
+@General| retrofit2.q$b.a(Retrofit.java:7) ==> 
+@General| retrofit2.q$b.a(Retrofit.java:10->11) ==> factory == null
+@General| com.blankj.utilcode.util.LogUtils.<clinit>(LogUtils.java:2) ==> file.separator
+@General| com.blankj.utilcode.util.LogUtils.<clinit>(LogUtils.java:2) ==> /
+@General| com.blankj.utilcode.util.LogUtils.<clinit>(LogUtils.java:2->3) ==> line.separator
+@General| com.blankj.utilcode.util.LogUtils$Config.<init>(LogUtils.java:2) ==> util
+@General| com.blankj.utilcode.util.LogUtils$Config.<init>(LogUtils.java:3) ==> .txt
+@General| com.blankj.utilcode.util.LogUtils$Config.<init>(LogUtils.java:6) ==> 
+@General| com.blankj.utilcode.util.Utils.getCurrentProcessNameByFile(Utils.java:1) ==> /proc/
+@General| com.blankj.utilcode.util.Utils.getCurrentProcessNameByFile(Utils.java:1) ==> /cmdline
+@General| com.blankj.utilcode.util.Utils.getCurrentProcessNameByFile(Utils.java:1) ==> /proc/23031/cmdline
+@General| com.blankj.utilcode.util.Utils.getCurrentProcessName(Utils.java:1) ==> com.zkrg.adk
+@General| com.blankj.utilcode.util.LogUtils$Config.<init>(LogUtils.java:18) ==> com.zkrg.adk
+@General| com.blankj.utilcode.util.LogUtils$Config.<init>(LogUtils.java:20) ==> mounted
+@General| com.blankj.utilcode.util.LogUtils$Config.<init>(LogUtils.java:20) ==> log
+@General| com.blankj.utilcode.util.LogUtils$Config.<init>(LogUtils.java:22) ==> /
+@General| com.blankj.utilcode.util.LogUtils$Config.<init>(LogUtils.java:22) ==> log
+@General| com.blankj.utilcode.util.LogUtils$Config.<init>(LogUtils.java:22) ==> /storage/emulated/0/Android/data/com.zkrg.adk/cache/log/
+@General| retrofit2.o$a.<clinit>(?:2->1) ==> \{([a-zA-Z][a-zA-Z0-9_-]*)\}
+@General| retrofit2.o$a.<clinit>(RequestFactory.java:2) ==> [a-zA-Z][a-zA-Z0-9_-]*
+@General| retrofit2.o$a.a(RequestFactory.java:32) ==> user/getIsOpenList.action
+@General| retrofit2.o$a.a(RequestFactory.java:32) ==> POST
+@General| retrofit2.o$a.a(RequestFactory.java:64) ==> user/getIsOpenList.action
+@General| retrofit2.q.a(?:2->12) ==> returnType == null
+@General| retrofit2.q.a(Retrofit.java:13) ==> annotations == null
+@General| retrofit2.s.b(?:2->1) ==> type == null
+@General| retrofit2.q.a(?:2->45) ==> type == null
+@General| retrofit2.q.a(Retrofit.java:46) ==> annotations == null
+@General| retrofit2.j.a(?:2->1) ==> callback == null
+@General| retrofit2.n.<clinit>(RequestBuilder.java:2) ==> (.*/)?(\.|%2e|%2E){1,2}(/.*)?
+@General| retrofit2.o.a(RequestFactory.java:5) ==> POST
+@General| retrofit2.o.a(RequestFactory.java:5) ==> user/getIsOpenList.action
+@General| okhttp3.z$a.<init>(Request.java:2) ==> GET
+@General| retrofit2.n.a(RequestBuilder.java:34) ==> user/getIsOpenList.action
+@General| okhttp3.t.b(HttpUrl.java:8) ==> user/getIsOpenList.action
+@General| okhttp3.t.a(HttpUrl.java:11) ==> user/getIsOpenList.action
+@General| okhttp3.t$a.a(HttpUrl.java:19->20->21->29) ==> user/getIsOpenList.action
+@General| okhttp3.t$a.a(HttpUrl.java:31) ==> 
+@General| okhttp3.t.b(HttpUrl.java:1) ==> 
+@General| okhttp3.t$a.a(HttpUrl.java:32) ==> 
+@General| okhttp3.t.d(HttpUrl.java:2) ==> ?#
+@General| okhttp3.t.d(HttpUrl.java:2->4) ==> https://www.idangke.cn/
+@General| okhttp3.t$a.a(HttpUrl.java:56->57) ==> user/getIsOpenList.action
+@General| okhttp3.t$a.d(HttpUrl.java:10) ==> /\
+@General| okhttp3.t$a.d(HttpUrl.java:11) ==> user/getIsOpenList.action
+@General| okhttp3.t$a.d(HttpUrl.java:11) ==> /\
+@General| okhttp3.t$a.d(HttpUrl.java:12) ==> user/getIsOpenList.action
+@General| okhttp3.t$a.a(?:2) ==>  "<>^`{}|/\?#
+@General| okhttp3.t$a.a(HttpUrl.java:66) ==> user/getIsOpenList.action
+@General| okhttp3.t$a.a(HttpUrl.java:66) ==>  "<>^`{}|/\?#
+@General| okhttp3.t.a(HttpUrl.java:42) ==> user
+@General| okhttp3.t$a.a(HttpUrl.java:66->67) ==> user
+@General| okhttp3.t$a.f(HttpUrl.java:1) ==> %2e
+@General| okhttp3.t$a.a(HttpUrl.java:68) ==> user
+@General| okhttp3.t$a.g(?:2) ==> ..
+@General| okhttp3.t$a.g(HttpUrl.java:1->2) ==> %2e.
+@General| okhttp3.t$a.g(HttpUrl.java:3) ==> .%2e
+@General| okhttp3.t$a.g(HttpUrl.java:3->4) ==> %2e%2e
+@General| okhttp3.t.a(HttpUrl.java:42) ==> getIsOpenList.action
+@General| okhttp3.t$a.a(HttpUrl.java:66->67->68) ==> getIsOpenList.action
+@General| okhttp3.t.a(HttpUrl.java:12->23) ==> user
+@General| okhttp3.t.a(HttpUrl.java:12->23) ==> getIsOpenList.action
+@General| okhttp3.t.b(HttpUrl.java:7) ==> getIsOpenList.action
+@General| okhttp3.t$a.toString(HttpUrl.java:30) ==> https://www.idangke.cn/user/getIsOpenList.action
+@General| okhttp3.t.<init>(HttpUrl.java:14) ==> https://www.idangke.cn/user/getIsOpenList.action
+@General| retrofit2.n.a(RequestBuilder.java:48) ==> POST
+@General| okhttp3.z$a.a(Request.java:7) ==> method 
+@General| okhttp3.z$a.a(Request.java:8) ==> POST
+@General| okhttp3.f0.f.f.b(?:2) ==> GET
+@General| okhttp3.f0.f.f.b(HttpMethod.java:1) ==> HEAD
+@General| okhttp3.y.d(RealCall.java:1) ==> response.body().close()
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:22) ==> response.body().close()
+@General| okhttp3.t.m(?:2->1) ==> /...
+@General| okhttp3.t$a.a(HttpUrl.java:19->20->21->29) ==> /...
+@General| okhttp3.t.d(HttpUrl.java:4) ==> https://www.idangke.cn/user/getIsOpenList.action
+@General| okhttp3.t.d(HttpUrl.java:5) ==> user
+@General| okhttp3.t.d(HttpUrl.java:5) ==> getIsOpenList.action
+@General| okhttp3.t$a.a(HttpUrl.java:56->57) ==> /...
+@General| okhttp3.t$a.d(HttpUrl.java:12) ==> /...
+@General| okhttp3.t$a.a(HttpUrl.java:66) ==> /...
+@General| okhttp3.t.a(HttpUrl.java:42) ==> ...
+@General| okhttp3.t$a.a(HttpUrl.java:66->67->68) ==> ...
+@General| okhttp3.t.m(HttpUrl.java:2) ==> 
+@General| okhttp3.t$a.e(?:8) ==>  "':;<=>@[]^`{}|/\?#
+@General| okhttp3.t$a.e(HttpUrl.java:1) ==> 
+@General| okhttp3.t$a.e(HttpUrl.java:1) ==>  "':;<=>@[]^`{}|/\?#
+@General| okhttp3.t.a(HttpUrl.java:61) ==> 
+@General| okhttp3.t.a(HttpUrl.java:61) ==>  "':;<=>@[]^`{}|/\?#
+@General| okhttp3.t.a(HttpUrl.java:42) ==> 
+@General| okhttp3.t.m(HttpUrl.java:3) ==> 
+@General| okhttp3.t$a.c(?:8) ==>  "':;<=>@[]^`{}|/\?#
+@General| okhttp3.t$a.c(HttpUrl.java:1) ==> 
+@General| okhttp3.t$a.c(HttpUrl.java:1) ==>  "':;<=>@[]^`{}|/\?#
+@General| okhttp3.t.a(HttpUrl.java:16->12->23) ==> ...
+@General| okhttp3.t$a.toString(HttpUrl.java:30) ==> https://www.idangke.cn/...
+@General| okhttp3.t.<init>(HttpUrl.java:14) ==> https://www.idangke.cn/...
+@General| okhttp3.t.m(HttpUrl.java:5) ==> https://www.idangke.cn/...
+@General| okhttp3.y.b(RealCall.java:1) ==> https://www.idangke.cn/...
+@General| okhttp3.y$b.<init>(RealCall.java:2) ==> https://www.idangke.cn/...
+@General| okhttp3.y$b.<init>(RealCall.java:2) ==> OkHttp %s
+@General| okhttp3.f0.b.<init>(NamedRunnable.java:2) ==> OkHttp %s
+@General| okhttp3.f0.c.a(Util.java:47) ==> OkHttp %s
+@General| okhttp3.f0.c.a(Util.java:47) ==> OkHttp https://www.idangke.cn/...
+@General| okhttp3.f0.b.<init>(NamedRunnable.java:2) ==> OkHttp https://www.idangke.cn/...
+@General| okhttp3.n.a(Dispatcher.java:2->3) ==> OkHttp Dispatcher
+@General| okhttp3.f0.c$b.newThread(Util.java:1) ==> OkHttp Dispatcher
+@General| okhttp3.f0.b.run(NamedRunnable.java:1) ==> OkHttp Dispatcher
+@General| okhttp3.f0.b.run(NamedRunnable.java:2) ==> OkHttp https://www.idangke.cn/...
+@General| okhttp3.f0.f.g.a(RealInterceptorChain.java:5) ==> network interceptor 
+@General| okhttp3.f0.f.g.a(RealInterceptorChain.java:7) ==>  must call proceed() exactly once
+@General| okhttp3.q.<clinit>(?:2->1) ==> application/x-www-form-urlencoded
+@General| okhttp3.v.<clinit>(MediaType.java:1) ==> ([a-zA-Z0-9-!#$%&'*+.^_`{|}~]+)/([a-zA-Z0-9-!#$%&'*+.^_`{|}~]+)
+@General| okhttp3.v.<clinit>(MediaType.java:1->2) ==> ;\s*(?:([a-zA-Z0-9-!#$%&'*+.^_`{|}~]+)=(?:([a-zA-Z0-9-!#$%&'*+.^_`{|}~]+)|"([^"]*)"))?
+@General| okhttp3.v.a(MediaType.java:4) ==> x-www-form-urlencoded
+@General| okhttp3.v.a(MediaType.java:20) ==> application/x-www-form-urlencoded
+@General| okhttp3.v.a(MediaType.java:20) ==> application
+@General| okhttp3.v.a(MediaType.java:20) ==> x-www-form-urlencoded
+@General| okio.c.a(Buffer.java:21) ==> 
+@General| okhttp3.v.b(MediaType.java:1) ==> application/x-www-form-urlencoded;charset=UTF-8
+@General| okhttp3.v.a(MediaType.java:8) ==> " for: "
+@General| okhttp3.v.a(MediaType.java:9->10) ==> charset
+@General| okhttp3.v.a(MediaType.java:11->12) ==> '
+@General| okhttp3.v.a(MediaType.java:20->23) ==> UTF-8
+@General| okhttp3.z$a.a(Request.java:6) ==> POST
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> --> POST https://www.idangke.cn/user/getIsOpenList.action
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> OkHttp
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Content-Length: 0
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{}
+@General| okhttp3.s.a(Headers.java:1) ==> Content-Encoding
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> --> END POST (0-byte body)
+@General| okhttp3.t.h(HttpUrl.java:1) ==> https
+@General| okhttp3.f0.f.j.a(RetryAndFollowUpInterceptor.java:9->11) ==> www.idangke.cn
+@General| okhttp3.a.<init>(Address.java:3) ==> https
+@General| okhttp3.t$a.d(?:4->1) ==> http
+@General| okhttp3.t$a.d(HttpUrl.java:3) ==> https
+@General| okhttp3.a.<init>(Address.java:4) ==> www.idangke.cn
+@General| okhttp3.t$a.b(HttpUrl.java:1) ==> www.idangke.cn
+@General| okhttp3.t.i(HttpUrl.java:3->4) ==> 
+@General| okhttp3.t$a.c(HttpUrl.java:5) ==> []
+@General| okhttp3.t$a.c(HttpUrl.java:6) ==> 
+@General| okhttp3.t$a.c(HttpUrl.java:6) ==> []
+@General| okhttp3.t.a(HttpUrl.java:61) ==> []
+@General| okhttp3.t$a.b(HttpUrl.java:5) ==> https
+@General| okhttp3.t.o(HttpUrl.java:1->2) ==> https://www.idangke.cn/
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:3) ==> Content-Length
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:5) ==> application/x-www-form-urlencoded;charset=UTF-8
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:5) ==> Content-Type
+@General| okhttp3.z$a.b(Request.java:7) ==> Content-Type
+@General| okhttp3.z$a.b(Request.java:7) ==> application/x-www-form-urlencoded;charset=UTF-8
+@General| okhttp3.s$a.c(Headers.java:1) ==> Content-Type
+@General| okhttp3.s$a.c(Headers.java:2) ==> application/x-www-form-urlencoded;charset=UTF-8
+@General| okhttp3.s$a.c(Headers.java:2->3->4) ==> Content-Type
+@General| okhttp3.s$a.b(Headers.java:2) ==> application/x-www-form-urlencoded;charset=UTF-8
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:6) ==> Transfer-Encoding
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:7) ==> 0
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:7) ==> Content-Length
+@General| okhttp3.z$a.b(Request.java:7) ==> Content-Length
+@General| okhttp3.z$a.b(Request.java:7) ==> 0
+@General| okhttp3.s$a.c(Headers.java:1) ==> Content-Length
+@General| okhttp3.s$a.c(Headers.java:2) ==> 0
+@General| okhttp3.s$a.c(Headers.java:2->3) ==> Content-Length
+@General| okhttp3.s$a.c(Headers.java:4) ==> Content-Length
+@General| okhttp3.s$a.c(Headers.java:4) ==> 0
+@General| okhttp3.s$a.b(Headers.java:2) ==> 0
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:8) ==> Transfer-Encoding
+@General| okhttp3.z$a.a(Request.java:4) ==> Transfer-Encoding
+@General| okhttp3.s$a.b(Headers.java:4) ==> Content-Length
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:10->11) ==> Host
+@General| okhttp3.s.a(Headers.java:1) ==> Host
+@General| okhttp3.f0.c.a(Util.java:23) ==> www.idangke.cn
+@General| okhttp3.f0.c.a(Util.java:23) ==> :
+@General| okhttp3.f0.c.a(Util.java:25) ==> www.idangke.cn
+@General| okhttp3.f0.c.a(Util.java:26) ==> https
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:12) ==> www.idangke.cn
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:12) ==> Host
+@General| okhttp3.z$a.b(Request.java:7) ==> Host
+@General| okhttp3.z$a.b(Request.java:7) ==> www.idangke.cn
+@General| okhttp3.s$a.c(Headers.java:1) ==> Host
+@General| okhttp3.s$a.c(Headers.java:2) ==> www.idangke.cn
+@General| okhttp3.s$a.c(Headers.java:2->3->4) ==> Host
+@General| okhttp3.s$a.b(Headers.java:2) ==> www.idangke.cn
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:12->13) ==> Connection
+@General| okhttp3.s.a(Headers.java:1) ==> Connection
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:13) ==> Keep-Alive
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:14) ==> Connection
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:14) ==> Keep-Alive
+@General| okhttp3.z$a.b(Request.java:7) ==> Connection
+@General| okhttp3.z$a.b(Request.java:7) ==> Keep-Alive
+@General| okhttp3.s$a.c(Headers.java:1) ==> Connection
+@General| okhttp3.s$a.c(Headers.java:2) ==> Keep-Alive
+@General| okhttp3.s$a.c(Headers.java:2->3) ==> Connection
+@General| okhttp3.s$a.c(Headers.java:4) ==> Connection
+@General| okhttp3.s$a.c(Headers.java:4) ==> Keep-Alive
+@General| okhttp3.s$a.b(Headers.java:2) ==> Keep-Alive
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:14->15) ==> Accept-Encoding
+@General| okhttp3.s.a(Headers.java:1) ==> Accept-Encoding
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:15) ==> gzip
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:15) ==> Range
+@General| okhttp3.z.a(Request.java:1) ==> Range
+@General| okhttp3.s.a(Headers.java:1) ==> Range
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:16) ==> Accept-Encoding
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:16) ==> gzip
+@General| okhttp3.z$a.b(Request.java:7) ==> Accept-Encoding
+@General| okhttp3.z$a.b(Request.java:7) ==> gzip
+@General| okhttp3.s$a.c(Headers.java:1) ==> Accept-Encoding
+@General| okhttp3.s$a.c(Headers.java:2) ==> gzip
+@General| okhttp3.s$a.c(Headers.java:2->3) ==> Accept-Encoding
+@General| okhttp3.s$a.c(Headers.java:4) ==> Accept-Encoding
+@General| okhttp3.s$a.c(Headers.java:4) ==> gzip
+@General| okhttp3.s$a.b(Headers.java:2) ==> gzip
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:19->20) ==> User-Agent
+@General| okhttp3.s.a(Headers.java:1) ==> User-Agent
+@General| okhttp3.f0.d.a(?:2) ==> okhttp/3.12.0
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:21) ==> okhttp/3.12.0
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:21) ==> User-Agent
+@General| okhttp3.z$a.b(Request.java:7) ==> User-Agent
+@General| okhttp3.z$a.b(Request.java:7) ==> okhttp/3.12.0
+@General| okhttp3.s$a.c(Headers.java:1) ==> User-Agent
+@General| okhttp3.s$a.c(Headers.java:2) ==> okhttp/3.12.0
+@General| okhttp3.s$a.c(Headers.java:2->3) ==> User-Agent
+@General| okhttp3.s$a.c(Headers.java:4) ==> User-Agent
+@General| okhttp3.s$a.c(Headers.java:4) ==> okhttp/3.12.0
+@General| okhttp3.s$a.b(Headers.java:2) ==> okhttp/3.12.0
+@General| okhttp3.d.a(CacheControl.java:3) ==> Content-Type
+@General| okhttp3.d.a(CacheControl.java:4) ==> application/x-www-form-urlencoded;charset=UTF-8
+@General| okhttp3.d.a(CacheControl.java:4->5) ==> Cache-Control
+@General| okhttp3.d.a(CacheControl.java:6) ==> Pragma
+@General| okhttp3.d.a(CacheControl.java:3) ==> Content-Length
+@General| okhttp3.d.a(CacheControl.java:4) ==> 0
+@General| okhttp3.d.a(CacheControl.java:3) ==> Host
+@General| okhttp3.d.a(CacheControl.java:4) ==> www.idangke.cn
+@General| okhttp3.d.a(CacheControl.java:3) ==> Connection
+@General| okhttp3.d.a(CacheControl.java:4) ==> Keep-Alive
+@General| okhttp3.d.a(CacheControl.java:3) ==> Accept-Encoding
+@General| okhttp3.d.a(CacheControl.java:4) ==> gzip
+@General| okhttp3.d.a(CacheControl.java:3) ==> User-Agent
+@General| okhttp3.d.a(CacheControl.java:4) ==> okhttp/3.12.0
+@General| okhttp3.internal.connection.a.intercept(ConnectInterceptor.java:4) ==> POST
+@General| okhttp3.internal.connection.a.intercept(ConnectInterceptor.java:4) ==> GET
+@General| okhttp3.internal.connection.e.a(RouteSelector.java:22->26->27) ==> www.idangke.cn
+@General| okhttp3.internal.connection.e.a(RouteSelector.java:29) ==> www.idangke.cn
+@General| okhttp3.f0.h.a.a(?:2) ==> Exception in connect
+@General| okio.k.<clinit>(Okio.java:1) ==> okio.k
+@General| okhttp3.internal.connection.c.a(RealConnection.java:88) ==> www.idangke.cn
+@General[]| okhttp3.k.a(ConnectionSpec.java:9) ==> new String[]{TLSv1,TLSv1.1,TLSv1.2}
+@General[]| okhttp3.k.a(ConnectionSpec.java:10) ==> new String[]{TLSv1.3,TLSv1.2,TLSv1.1,TLSv1}
+@General[]| okhttp3.k.a(ConnectionSpec.java:10) ==> new String[]{TLSv1,TLSv1.1,TLSv1.2}
+@General| okhttp3.f0.c$a.compare(Util.java:1) ==> TLSv1.3
+@General| okhttp3.f0.c$a.compare(Util.java:1) ==> TLSv1
+@General| okhttp3.f0.c$a.a(Util.java:1) ==> TLSv1
+@General| okhttp3.f0.c$a.compare(Util.java:1) ==> TLSv1.1
+@General| okhttp3.f0.c$a.a(Util.java:1) ==> TLSv1.1
+@General| okhttp3.f0.c$a.compare(Util.java:1) ==> TLSv1.2
+@General| okhttp3.f0.c$a.a(Util.java:1) ==> TLSv1.2
+@General[]| okhttp3.k.a(ConnectionSpec.java:12) ==> new String[]{TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA,TLS_RSA_WITH_AES_128_GCM_SHA256,TLS_RSA_WITH_AES_256_GCM_SHA384,TLS_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_256_CBC_SHA,TLS_EMPTY_RENEGOTIATION_INFO_SCSV}
+@General[]| okhttp3.k.a(ConnectionSpec.java:13) ==> new String[]{TLS_AES_128_GCM_SHA256,TLS_AES_256_GCM_SHA384,TLS_CHACHA20_POLY1305_SHA256,TLS_AES_128_CCM_SHA256,TLS_AES_256_CCM_8_SHA256,TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA,TLS_RSA_WITH_AES_128_GCM_SHA256,TLS_RSA_WITH_AES_256_GCM_SHA384,TLS_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_256_CBC_SHA,SSL_RSA_WITH_3DES_EDE_CBC_SHA}
+@General[]| okhttp3.k.a(ConnectionSpec.java:13) ==> new String[]{TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA,TLS_RSA_WITH_AES_128_GCM_SHA256,TLS_RSA_WITH_AES_256_GCM_SHA384,TLS_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_256_CBC_SHA,TLS_EMPTY_RENEGOTIATION_INFO_SCSV}
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_AES_128_GCM_SHA256
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_RSA_WITH_AES_128_GCM_SHA256
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_RSA_WITH_AES_256_GCM_SHA384
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_RSA_WITH_AES_128_CBC_SHA
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_RSA_WITH_AES_256_CBC_SHA
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_EMPTY_RENEGOTIATION_INFO_SCSV
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_AES_256_GCM_SHA384
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_CHACHA20_POLY1305_SHA256
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_AES_128_CCM_SHA256
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_AES_256_CCM_8_SHA256
+@General[]| okhttp3.k.b(ConnectionSpec.java:3) ==> new String[]{TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA,TLS_RSA_WITH_AES_128_GCM_SHA256,TLS_RSA_WITH_AES_256_GCM_SHA384,TLS_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_256_CBC_SHA,TLS_EMPTY_RENEGOTIATION_INFO_SCSV}
+@General[]| okhttp3.k.b(ConnectionSpec.java:3) ==> new String[]{TLS_AES_128_GCM_SHA256,TLS_AES_256_GCM_SHA384,TLS_CHACHA20_POLY1305_SHA256,TLS_AES_128_CCM_SHA256,TLS_AES_256_CCM_8_SHA256,TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA,TLS_RSA_WITH_AES_128_GCM_SHA256,TLS_RSA_WITH_AES_256_GCM_SHA384,TLS_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_256_CBC_SHA,SSL_RSA_WITH_3DES_EDE_CBC_SHA}
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> SSL_RSA_WITH_3DES_EDE_CBC_SHA
+@General[]| okhttp3.k.b(ConnectionSpec.java:3) ==> new String[]{TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA,TLS_RSA_WITH_AES_128_GCM_SHA256,TLS_RSA_WITH_AES_256_GCM_SHA384,TLS_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_256_CBC_SHA}
+@General[]| okhttp3.k.b(ConnectionSpec.java:6) ==> new String[]{TLSv1,TLSv1.1,TLSv1.2}
+@General[]| okhttp3.k.b(ConnectionSpec.java:6) ==> new String[]{TLSv1.3,TLSv1.2,TLSv1.1,TLSv1}
+@General| okhttp3.f0.c$a.a(Util.java:1) ==> TLSv1.3
+@General[]| okhttp3.k.b(ConnectionSpec.java:8) ==> new String[]{TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_PSK_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256,TLS_ECDHE_PSK_WITH_AES_128_CBC_SHA,TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA,TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384,TLS_ECDHE_PSK_WITH_AES_256_CBC_SHA,TLS_RSA_WITH_AES_128_GCM_SHA256,TLS_RSA_WITH_AES_256_GCM_SHA384,TLS_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_128_CBC_SHA256,TLS_PSK_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_256_CBC_SHA,TLS_RSA_WITH_AES_256_CBC_SHA256,TLS_PSK_WITH_AES_256_CBC_SHA,SSL_RSA_WITH_3DES_EDE_CBC_SHA,TLS_EMPTY_RENEGOTIATION_INFO_SCSV,TLS_FALLBACK_SCSV}
+@General| okhttp3.k.b(ConnectionSpec.java:9) ==> TLS_FALLBACK_SCSV
+@General[]| okhttp3.k.b(ConnectionSpec.java:9) ==> new String[]{TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_PSK_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256,TLS_ECDHE_PSK_WITH_AES_128_CBC_SHA,TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA,TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384,TLS_ECDHE_PSK_WITH_AES_256_CBC_SHA,TLS_RSA_WITH_AES_128_GCM_SHA256,TLS_RSA_WITH_AES_256_GCM_SHA384,TLS_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_128_CBC_SHA256,TLS_PSK_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_256_CBC_SHA,TLS_RSA_WITH_AES_256_CBC_SHA256,TLS_PSK_WITH_AES_256_CBC_SHA,SSL_RSA_WITH_3DES_EDE_CBC_SHA,TLS_EMPTY_RENEGOTIATION_INFO_SCSV,TLS_FALLBACK_SCSV}
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_FALLBACK_SCSV
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_PSK_WITH_CHACHA20_POLY1305_SHA256
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_PSK_WITH_AES_128_CBC_SHA
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_ECDHE_PSK_WITH_AES_256_CBC_SHA
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_RSA_WITH_AES_128_CBC_SHA256
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_PSK_WITH_AES_128_CBC_SHA
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_RSA_WITH_AES_256_CBC_SHA256
+@General| okhttp3.h$a.compare(CipherSuite.java:1) ==> TLS_PSK_WITH_AES_256_CBC_SHA
+@General[]| okhttp3.k.b(ConnectionSpec.java:12) ==> new String[]{TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA,TLS_RSA_WITH_AES_128_GCM_SHA256,TLS_RSA_WITH_AES_256_GCM_SHA384,TLS_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_256_CBC_SHA}
+@General[]| okhttp3.k.b(ConnectionSpec.java:13) ==> new String[]{TLSv1,TLSv1.1,TLSv1.2}
+@General[]| okhttp3.k.a(ConnectionSpec.java:4) ==> new String[]{TLSv1,TLSv1.1,TLSv1.2}
+@General[]| okhttp3.k.a(ConnectionSpec.java:6) ==> new String[]{TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA,TLS_RSA_WITH_AES_128_GCM_SHA256,TLS_RSA_WITH_AES_256_GCM_SHA384,TLS_RSA_WITH_AES_128_CBC_SHA,TLS_RSA_WITH_AES_256_CBC_SHA}
+@General| okhttp3.internal.connection.c.a(RealConnection.java:93) ==> www.idangke.cn
+@General| okhttp3.f0.h.e.a(OptionalMethod.java:9->12) ==> setUseSessionTickets
+@General| okhttp3.f0.h.e.a(OptionalMethod.java:12) ==> setHostname
+@General| okhttp3.f0.h.e.a(OptionalMethod.java:9->12) ==> setAlpnProtocols
+@General| okhttp3.f0.h.f.b(Platform.java:12) ==> h2
+@General| okio.c.a(Buffer.java:44) ==> h2
+@General| okhttp3.f0.h.f.b(Platform.java:11->12) ==> http/1.1
+@General| okhttp3.r.a(Handshake.java:1) ==> TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+@General| okhttp3.r.a(Handshake.java:1) ==> SSL_NULL_WITH_NULL_NULL
+@General| okhttp3.r.a(Handshake.java:3) ==> TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+@General| okhttp3.r.a(Handshake.java:4) ==> TLSv1.2
+@General| okhttp3.r.a(Handshake.java:4) ==> NONE
+@General| okhttp3.r.a(Handshake.java:6) ==> TLSv1.2
+@General| okhttp3.TlsVersion.forJavaName(TlsVersion.java:1) ==> TLSv1.2
+@General| okhttp3.internal.connection.c.a(RealConnection.java:97) ==> www.idangke.cn
+@General| okhttp3.f0.j.d.verify(OkHostnameVerifier.java:2) ==> www.idangke.cn
+@General| okhttp3.f0.j.d.a(OkHostnameVerifier.java:1->3) ==> www.idangke.cn
+@General| okhttp3.f0.j.d.b(OkHostnameVerifier.java:4) ==> www.idangke.cn
+@General| okhttp3.f0.j.d.a(OkHostnameVerifier.java:20) ==> .
+@General| okhttp3.f0.j.d.a(OkHostnameVerifier.java:20->21) ==> ..
+@General| okhttp3.f0.j.d.a(OkHostnameVerifier.java:23) ==> ..
+@General| okhttp3.f0.j.d.a(OkHostnameVerifier.java:24) ==> .
+@General| okhttp3.f0.j.d.a(OkHostnameVerifier.java:25) ==> www.idangke.cn
+@General| okhttp3.f0.j.d.a(OkHostnameVerifier.java:25) ==> www.idangke.cn.
+@General| okhttp3.f0.j.d.a(OkHostnameVerifier.java:26) ==> .
+@General| okhttp3.f0.j.d.a(OkHostnameVerifier.java:27) ==> www.idangke.cn
+@General| okhttp3.f0.j.d.a(OkHostnameVerifier.java:27->28) ==> www.idangke.cn.
+@General| okhttp3.internal.connection.c.a(RealConnection.java:100) ==> www.idangke.cn
+@General| okhttp3.g.a(CertificatePinner.java:1) ==> www.idangke.cn
+@General| okhttp3.f0.h.e.a(OptionalMethod.java:9->12) ==> getAlpnSelectedProtocol
+@General| okhttp3.f0.c$b.newThread(Util.java:1) ==> OkHttp ConnectionPool
+@General| okhttp3.f0.f.i.a(RequestLine.java:2) ==> POST
+@General| okhttp3.t.c(HttpUrl.java:4) ==> ?#
+@General| okhttp3.t.c(HttpUrl.java:4) ==> https://www.idangke.cn/user/getIsOpenList.action
+@General| okhttp3.t.c(HttpUrl.java:5) ==> /user/getIsOpenList.action
+@General| okhttp3.f0.f.i.a(RequestLine.java:9->6) ==> /user/getIsOpenList.action
+@General| okhttp3.f0.f.i.a(RequestLine.java:7) ==>  HTTP/1.1
+@General| okhttp3.f0.f.i.a(RequestLine.java:8) ==> POST /user/getIsOpenList.action HTTP/1.1
+@General| okhttp3.f0.g.a.a(Http1Codec.java:7->8->23) ==> POST /user/getIsOpenList.action HTTP/1.1
+@General| okio.c.a(Buffer.java:44) ==> POST /user/getIsOpenList.action HTTP/1.1
+@General| okhttp3.f0.g.a.a(Http1Codec.java:23) ==> 
+
+@General| okio.l.a(RealBufferedSink.java:7) ==> 
+
+@General| okio.c.a(Buffer.java:44) ==> 
+
+@General| okhttp3.f0.g.a.a(Http1Codec.java:25) ==> Content-Type
+@General| okio.l.a(RealBufferedSink.java:7) ==> Content-Type
+@General| okio.c.a(Buffer.java:44) ==> Content-Type
+@General| okhttp3.f0.g.a.a(Http1Codec.java:25->26) ==> : 
+@General| okio.c.a(Buffer.java:44) ==> : 
+@General| okhttp3.f0.g.a.a(Http1Codec.java:27) ==> application/x-www-form-urlencoded;charset=UTF-8
+@General| okio.l.a(RealBufferedSink.java:7) ==> application/x-www-form-urlencoded;charset=UTF-8
+@General| okio.c.a(Buffer.java:44) ==> application/x-www-form-urlencoded;charset=UTF-8
+@General| okhttp3.f0.g.a.a(Http1Codec.java:28) ==> 
+
+@General| okhttp3.f0.g.a.a(Http1Codec.java:25) ==> Content-Length
+@General| okio.l.a(RealBufferedSink.java:7) ==> Content-Length
+@General| okio.c.a(Buffer.java:44) ==> Content-Length
+@General| okhttp3.f0.g.a.a(Http1Codec.java:27) ==> 0
+@General| okio.l.a(RealBufferedSink.java:7) ==> 0
+@General| okio.c.a(Buffer.java:44) ==> 0
+@General| okhttp3.f0.g.a.a(Http1Codec.java:25) ==> Host
+@General| okio.l.a(RealBufferedSink.java:7) ==> Host
+@General| okio.c.a(Buffer.java:44) ==> Host
+@General| okhttp3.f0.g.a.a(Http1Codec.java:27) ==> www.idangke.cn
+@General| okio.l.a(RealBufferedSink.java:7) ==> www.idangke.cn
+@General| okio.c.a(Buffer.java:44) ==> www.idangke.cn
+@General| okhttp3.f0.g.a.a(Http1Codec.java:25) ==> Connection
+@General| okio.l.a(RealBufferedSink.java:7) ==> Connection
+@General| okio.c.a(Buffer.java:44) ==> Connection
+@General| okhttp3.f0.g.a.a(Http1Codec.java:27) ==> Keep-Alive
+@General| okio.l.a(RealBufferedSink.java:7) ==> Keep-Alive
+@General| okio.c.a(Buffer.java:44) ==> Keep-Alive
+@General| okhttp3.f0.g.a.a(Http1Codec.java:25) ==> Accept-Encoding
+@General| okio.l.a(RealBufferedSink.java:7) ==> Accept-Encoding
+@General| okio.c.a(Buffer.java:44) ==> Accept-Encoding
+@General| okhttp3.f0.g.a.a(Http1Codec.java:27) ==> gzip
+@General| okio.l.a(RealBufferedSink.java:7) ==> gzip
+@General| okio.c.a(Buffer.java:44) ==> gzip
+@General| okhttp3.f0.g.a.a(Http1Codec.java:25) ==> User-Agent
+@General| okio.l.a(RealBufferedSink.java:7) ==> User-Agent
+@General| okio.c.a(Buffer.java:44) ==> User-Agent
+@General| okhttp3.f0.g.a.a(Http1Codec.java:27) ==> okhttp/3.12.0
+@General| okio.l.a(RealBufferedSink.java:7) ==> okhttp/3.12.0
+@General| okio.c.a(Buffer.java:44) ==> okhttp/3.12.0
+@General| okhttp3.f0.g.a.a(Http1Codec.java:29) ==> 
+
+@General| okhttp3.f0.f.b.intercept(CallServerInterceptor.java:10) ==> POST
+@General| okhttp3.f0.f.b.intercept(CallServerInterceptor.java:10->11) ==> Expect
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{Content-Type,application/x-www-form-urlencoded;charset=UTF-8,Content-Length,0,Host,www.idangke.cn,Connection,Keep-Alive,Accept-Encoding,gzip,User-Agent,okhttp/3.12.0}
+@General| okhttp3.s.a(Headers.java:1) ==> Expect
+@General| okhttp3.s.a(Headers.java:6) ==> User-Agent
+@General| okhttp3.s.a(Headers.java:6) ==> Accept-Encoding
+@General| okhttp3.s.a(Headers.java:6) ==> Connection
+@General| okhttp3.s.a(Headers.java:6) ==> Host
+@General| okhttp3.s.a(Headers.java:6) ==> Content-Length
+@General| okhttp3.s.a(Headers.java:6) ==> Content-Type
+@General| okhttp3.f0.f.b.intercept(CallServerInterceptor.java:11) ==> 100-continue
+@General| okhttp3.f0.g.a.a(?:2->1) ==> Transfer-Encoding
+@General| okhttp3.s.a(Headers.java:1) ==> Transfer-Encoding
+@General| okhttp3.f0.g.a.a(Http1Codec.java:1) ==> chunked
+@General| okio.a$c.<init>(?:2->1) ==> Okio Watchdog
+@General| okio.c.i(Buffer.java:3) ==> HTTP/1.1 200 
+@General| okio.m.b(RealBufferedSource.java:2) ==> HTTP/1.1 200 
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> HTTP/1.1 200 
+@General| okhttp3.f0.g.a.a(Http1Codec.java:34) ==> HTTP/1.1 200 
+@General| okhttp3.f0.f.k.a(?:2->1) ==> HTTP/1.
+@General| okhttp3.f0.f.k.a(StatusLine.java:11) ==> 200
+@General| okhttp3.f0.f.k.a(StatusLine.java:14->16) ==> 
+@General| okio.c.h(Buffer.java:2) ==> Server: nginx
+@General| okio.c.i(Buffer.java:3) ==> Server: nginx
+@General| okio.m.b(RealBufferedSource.java:2) ==> Server: nginx
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Server: nginx
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Server: nginx
+@General| okhttp3.s$a.a(?:2->1) ==> :
+@General| okhttp3.s$a.a(Headers.java:2) ==>  nginx
+@General| okhttp3.s$a.b(Headers.java:2) ==> nginx
+@General| okio.c.h(Buffer.java:2) ==> Date: Wed, 04 Mar 2026 13:33:26 GMT
+@General| okio.c.i(Buffer.java:3) ==> Date: Wed, 04 Mar 2026 13:33:26 GMT
+@General| okio.m.b(RealBufferedSource.java:2) ==> Date: Wed, 04 Mar 2026 13:33:26 GMT
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Date: Wed, 04 Mar 2026 13:33:26 GMT
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Date: Wed, 04 Mar 2026 13:33:26 GMT
+@General| okhttp3.s$a.a(Headers.java:2) ==> Date
+@General| okhttp3.s$a.a(Headers.java:2) ==>  Wed, 04 Mar 2026 13:33:26 GMT
+@General| okhttp3.s$a.b(Headers.java:2) ==> Wed, 04 Mar 2026 13:33:26 GMT
+@General| okio.c.h(Buffer.java:2) ==> Content-Type: application/json;charset=UTF-8
+@General| okio.c.i(Buffer.java:3) ==> Content-Type: application/json;charset=UTF-8
+@General| okio.m.b(RealBufferedSource.java:2) ==> Content-Type: application/json;charset=UTF-8
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Content-Type: application/json;charset=UTF-8
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Content-Type: application/json;charset=UTF-8
+@General| okhttp3.s$a.a(Headers.java:2) ==> Content-Type
+@General| okhttp3.s$a.a(Headers.java:2) ==>  application/json;charset=UTF-8
+@General| okhttp3.s$a.b(Headers.java:2) ==> application/json;charset=UTF-8
+@General| okio.c.h(Buffer.java:2) ==> Transfer-Encoding: chunked
+@General| okio.c.i(Buffer.java:3) ==> Transfer-Encoding: chunked
+@General| okio.m.b(RealBufferedSource.java:2) ==> Transfer-Encoding: chunked
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Transfer-Encoding: chunked
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Transfer-Encoding: chunked
+@General| okhttp3.s$a.a(Headers.java:2) ==> Transfer-Encoding
+@General| okhttp3.s$a.a(Headers.java:2) ==>  chunked
+@General| okhttp3.s$a.b(Headers.java:2) ==> chunked
+@General| okio.c.h(Buffer.java:2) ==> Connection: keep-alive
+@General| okio.c.i(Buffer.java:3) ==> Connection: keep-alive
+@General| okio.m.b(RealBufferedSource.java:2) ==> Connection: keep-alive
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Connection: keep-alive
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Connection: keep-alive
+@General| okhttp3.s$a.a(Headers.java:2) ==> Connection
+@General| okhttp3.s$a.a(Headers.java:2) ==>  keep-alive
+@General| okhttp3.s$a.b(Headers.java:2) ==> keep-alive
+@General| okio.c.h(Buffer.java:2) ==> 
+@General| okio.c.i(Buffer.java:3) ==> 
+@General| okio.m.b(RealBufferedSource.java:2) ==> 
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> 
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2) ==> 
+@General| okhttp3.f0.g.a.a(Http1Codec.java:9->10) ==> Content-Type
+@General| okhttp3.b0.a(Response.java:1) ==> Content-Type
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{Server,nginx,Date,Wed, 04 Mar 2026 13:33:26 GMT,Content-Type,application/json;charset=UTF-8,Transfer-Encoding,chunked,Connection,keep-alive}
+@General| okhttp3.s.a(Headers.java:1) ==> Content-Type
+@General| okhttp3.s.a(Headers.java:6) ==> Transfer-Encoding
+@General| okhttp3.s.a(Headers.java:1) ==> application/json;charset=UTF-8
+@General| okhttp3.b0.a(Response.java:1) ==> application/json;charset=UTF-8
+@General| okhttp3.b0.b(Response.java:1) ==> application/json;charset=UTF-8
+@General| okhttp3.f0.g.a.a(Http1Codec.java:10) ==> application/json;charset=UTF-8
+@General| okhttp3.f0.f.e.<clinit>(?:2->1) ==> "\
+@General| okhttp3.f0.f.e.<clinit>(HttpHeaders.java:2) ==> 	 ,=
+@General| okhttp3.f0.f.e.b(HttpHeaders.java:1) ==> POST
+@General| okhttp3.f0.f.e.b(HttpHeaders.java:1) ==> HEAD
+@General| okhttp3.f0.g.a.a(Http1Codec.java:13->14) ==> Transfer-Encoding
+@General| okhttp3.b0.a(Response.java:1) ==> Transfer-Encoding
+@General| okhttp3.s.a(Headers.java:1) ==> chunked
+@General| okhttp3.b0.a(Response.java:1) ==> chunked
+@General| okhttp3.b0.b(Response.java:1) ==> chunked
+@General| okhttp3.f0.g.a.a(Http1Codec.java:14) ==> chunked
+@General| okhttp3.f0.g.a.a(Http1Codec.java:16) ==> application/json;charset=UTF-8
+@General| okhttp3.f0.f.b.intercept(CallServerInterceptor.java:51) ==> Connection
+@General| okhttp3.s.a(Headers.java:1) ==> Keep-Alive
+@General| okhttp3.z.a(Request.java:1) ==> Keep-Alive
+@General| okhttp3.f0.f.b.intercept(CallServerInterceptor.java:51) ==> Keep-Alive
+@General| okhttp3.f0.f.b.intercept(CallServerInterceptor.java:51) ==> close
+@General| okhttp3.f0.f.b.intercept(CallServerInterceptor.java:52) ==> Connection
+@General| okhttp3.b0.b(Response.java:1) ==> Connection
+@General| okhttp3.b0.a(Response.java:1) ==> Connection
+@General| okhttp3.s.a(Headers.java:1) ==> keep-alive
+@General| okhttp3.b0.a(Response.java:1) ==> keep-alive
+@General| okhttp3.b0.b(Response.java:1) ==> keep-alive
+@General| okhttp3.f0.f.b.intercept(CallServerInterceptor.java:52) ==> keep-alive
+@General| okhttp3.f0.f.g.a(RealInterceptorChain.java:13) ==> interceptor 
+@General| okhttp3.b0$a.b(?:4->2) ==> networkResponse
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:26) ==> Content-Encoding
+@General| okhttp3.b0.b(Response.java:1) ==> Content-Encoding
+@General| okhttp3.b0.a(Response.java:1) ==> Content-Encoding
+@General| okhttp3.s.a(Headers.java:6) ==> Date
+@General| okhttp3.s.a(Headers.java:6) ==> Server
+@General| okhttp3.f0.f.j.a(RetryAndFollowUpInterceptor.java:24) ==> POST
+@General| okhttp3.f0.f.j.a(RetryAndFollowUpInterceptor.java:24) ==> GET
+@General| okio.m.d(RealBufferedSource.java:2) ==> 
+@General| okhttp3.f0.f.h.m(RealResponseBody.java:1) ==> application/json;charset=UTF-8
+@General| okhttp3.v.b(MediaType.java:1) ==> application/json;charset=UTF-8
+@General| okhttp3.v.a(MediaType.java:4) ==> json
+@General| okhttp3.v.a(MediaType.java:20) ==> application/json;charset=UTF-8
+@General| okhttp3.v.a(MediaType.java:20) ==> json
+@General| okhttp3.c0.a(ResponseBody.java:5) ==> {"msg":"数据返回成功！","code":"1","data":{"isopencon":"","isopendelete":1,"isopenregist":1,"isopendangxiao":0}}
+@General| okio.c.a(Buffer.java:73->75) ==> {"msg":"数据返回成功！","code":"1","data":{"isopencon":"","isopendelete":1,"isopenregist":1,"isopendangxiao":0}}
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Server: nginx
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Date: Wed, 04 Mar 2026 13:33:26 GMT
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Content-Type: application/json;charset=UTF-8
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Transfer-Encoding: chunked
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Connection: keep-alive
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> {"msg":"数据返回成功！","code":"1","data":{"isopencon":"","isopendelete":1,"isopenregist":1,"isopendangxiao":0}}
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> <-- END HTTP (119-byte body)
+@General| retrofit2.p.a(?:2->1) ==> rawResponse == null
+@General| com.zkrg.adk.main.activity.SplashActivity$a.a(?:2->5) ==> result
+@General| com.zkrg.adk.core.utils.Preference.<init>(?:5) ==> name
+@General| com.zkrg.adk.core.utils.Preference.getValue(?:2->5) ==> property
+@General| com.zkrg.adk.core.utils.Preference$Companion$prefs$2.invoke(Preference.kt:2) ==> kotlin_mvp_file
+@General| com.zkrg.adk.core.utils.Preference.getSharedPreferences(Preference.kt:3) ==> token
+@General| com.zkrg.adk.core.utils.Preference.getSharedPreferences(Preference.kt:3) ==> 
+@General| com.zkrg.adk.core.utils.Preference.getSharedPreferences(Preference.kt:3) ==> getString(name, default)!!
+@General| com.zkrg.adk.main.activity.SplashActivity$e.call(SplashActivity.kt:1) ==> 
+@General| com.blankj.utilcode.util.Utils$ActivityLifecycleImpl.setTopActivity(Utils.java:1) ==> com.zkrg.adk.main.activity.LoginActivity
+@General| com.zkrg.adk.main.activity.LoginActivity.initView(LoginActivity.kt:1) ==> tv_cbdw
+@General| com.zkrg.adk.main.activity.LoginActivity.initView(LoginActivity.kt:1->2) ==> layout_zbdw
+@General| com.blankj.utilcode.util.KeyboardUtils.getDecorViewInvisibleHeight(KeyboardUtils.java:4) ==> getDecorViewInvisibleHeight: 
+@General| com.blankj.utilcode.util.KeyboardUtils.getNavBarHeight(KeyboardUtils.java:1) ==> navigation_bar_height
+@General| com.blankj.utilcode.util.KeyboardUtils.getNavBarHeight(KeyboardUtils.java:1) ==> dimen
+@General| com.blankj.utilcode.util.KeyboardUtils.getNavBarHeight(KeyboardUtils.java:1) ==> android
+@General| com.blankj.utilcode.util.KeyboardUtils.getNavBarHeight(KeyboardUtils.java:2) ==> navigation_bar_height
+@General| com.blankj.utilcode.util.KeyboardUtils.getNavBarHeight(KeyboardUtils.java:2) ==> dimen
+@General| com.blankj.utilcode.util.KeyboardUtils.getNavBarHeight(KeyboardUtils.java:2) ==> android
+@General| com.blankj.utilcode.util.KeyboardUtils.getStatusBarHeight(KeyboardUtils.java:1) ==> status_bar_height
+@General| com.blankj.utilcode.util.KeyboardUtils.getStatusBarHeight(KeyboardUtils.java:1) ==> dimen
+@General| com.blankj.utilcode.util.KeyboardUtils.getStatusBarHeight(KeyboardUtils.java:1) ==> android
+@General| com.blankj.utilcode.util.KeyboardUtils.getStatusBarHeight(KeyboardUtils.java:2) ==> status_bar_height
+@General| com.blankj.utilcode.util.KeyboardUtils.getStatusBarHeight(KeyboardUtils.java:2) ==> dimen
+@General| com.blankj.utilcode.util.KeyboardUtils.getStatusBarHeight(KeyboardUtils.java:2) ==> android
+@General| com.blankj.utilcode.util.Utils.fixSoftInputLeaks(Utils.java:1) ==> input_method
+@General| com.blankj.utilcode.util.Utils.fixSoftInputLeaks(Utils.java:1) ==> mLastSrvView
+@General| com.blankj.utilcode.util.Utils.fixSoftInputLeaks(Utils.java:1) ==> mCurRootView
+@General| com.blankj.utilcode.util.Utils.fixSoftInputLeaks(Utils.java:1) ==> mServedView
+@General| com.blankj.utilcode.util.Utils.fixSoftInputLeaks(Utils.java:1) ==> mNextServedView
+@General| com.blankj.utilcode.util.Utils.fixSoftInputLeaks(Utils.java:4) ==> mLastSrvView
+@General| com.blankj.utilcode.util.Utils.fixSoftInputLeaks(Utils.java:4) ==> mCurRootView
+@General| com.blankj.utilcode.util.Utils.fixSoftInputLeaks(Utils.java:4) ==> mServedView
+@General| com.blankj.utilcode.util.Utils.fixSoftInputLeaks(Utils.java:4) ==> mNextServedView
+@General| com.zkrg.adk.core.base.BaseActivity.dispatchTouchEvent(?:2->5) ==> ev
+@General| com.zkrg.adk.core.base.BaseActivity.dispatchTouchEvent(BaseActivity.kt:4) ==> input_method
+@General| com.zkrg.adk.main.activity.LoginActivity.onClick(?:2->5) ==> v
+@General| com.zkrg.adk.core.base.BaseActivity.onClick(?:5) ==> v
+@General| com.zkrg.adk.core.base.BaseActivity.processClick(?:2->5) ==> v
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:1->2) ==> 请先同意用户隐私协议
+@General| com.blankj.utilcode.util.ToastUtils.show(?:2) ==> null
+@General| com.blankj.utilcode.util.ToastUtils.show(ToastUtils.java:8) ==> 请先同意用户隐私协议
+@General| com.blankj.utilcode.util.ToastUtils$ToastFactory.makeNormalToast(?:2) ==> 
+@UIText| com.blankj.utilcode.util.ToastUtils$ToastFactory.makeNormalToast(ToastUtils.java:2) ==> 请先同意用户隐私协议
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:3) ==> etAccount
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:3) ==> user123
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:3) ==> 请输入用户名
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:3) ==> getString(R.string.hint_input_account)
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:4) ==> etPwd
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:4) ==> password123
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:4) ==> 请输入密码（最少6个字符）
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:4) ==> getString(R.string.hint_input_pwd)
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:5) ==> etAccount
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:5) ==> user123
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:5) ==> etPwd
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:5) ==> password123
+@General| retrofit2.o$a.a(RequestFactory.java:45) ==> Only one encoding annotation is allowed.
+@General| retrofit2.o$a.a(RequestFactory.java:32->64) ==> /user/login.action
+@General| retrofit2.o$a.a(RequestFactory.java:121) ==> <String>)
+@General| retrofit2.o$a.a(RequestFactory.java:121) ==>  must include generic type (e.g., 
+@General| retrofit2.o$a.a(RequestFactory.java:170) ==> Map must include generic types (e.g., Map<String, String>)
+@General| retrofit2.o$a.a(RequestFactory.java:233) ==> account
+@General| retrofit2.q.c(?:2->1) ==> type == null
+@General| retrofit2.q.c(Retrofit.java:2) ==> annotations == null
+@General| retrofit2.o$a.a(RequestFactory.java:254) ==> account
+@General| retrofit2.l$d.<init>(ParameterHandler.java:1->2) ==> name == null
+@General| retrofit2.o$a.a(RequestFactory.java:254) ==> password
+@General| retrofit2.o.a(RequestFactory.java:5) ==> /user/login.action
+@General| retrofit2.a$d.a(BuiltInConverters.java:2) ==> user123
+@General| retrofit2.l$d.a(ParameterHandler.java:2) ==> account
+@General| retrofit2.l$d.a(ParameterHandler.java:2) ==> user123
+@General| retrofit2.n.a(RequestBuilder.java:27) ==> account
+@General| retrofit2.n.a(RequestBuilder.java:27) ==> user123
+@General| okhttp3.q$a.a(FormBody.java:1) ==>  "':;<=>@[]^`{}|/\?#&!$(),~
+@General| okhttp3.q$a.a(FormBody.java:1) ==> account
+@General| okhttp3.t.a(HttpUrl.java:59) ==> account
+@General| okhttp3.t.a(HttpUrl.java:59) ==>  "':;<=>@[]^`{}|/\?#&!$(),~
+@General| okhttp3.t.a(HttpUrl.java:42) ==> account
+@General| okhttp3.q$a.a(FormBody.java:2) ==>  "':;<=>@[]^`{}|/\?#&!$(),~
+@General| okhttp3.q$a.a(FormBody.java:2) ==> user123
+@General| okhttp3.t.a(HttpUrl.java:59->42) ==> user123
+@General| retrofit2.l$d.a(ParameterHandler.java:2) ==> password
+@General| retrofit2.l$d.a(ParameterHandler.java:2) ==> password123
+@General| retrofit2.n.a(RequestBuilder.java:27) ==> password
+@General| retrofit2.n.a(RequestBuilder.java:27) ==> password123
+@General| okhttp3.q$a.a(FormBody.java:1) ==> password
+@General| okhttp3.t.a(HttpUrl.java:59->42) ==> password
+@General| okhttp3.t.a(HttpUrl.java:59->42) ==> password123
+@General| okhttp3.t.b(HttpUrl.java:8) ==> /user/login.action
+@General| okhttp3.t.a(HttpUrl.java:11) ==> /user/login.action
+@General| okhttp3.t$a.a(HttpUrl.java:19->20->21->29->56->57) ==> /user/login.action
+@General| okhttp3.t$a.d(HttpUrl.java:12) ==> /user/login.action
+@General| okhttp3.t$a.a(HttpUrl.java:66) ==> /user/login.action
+@General| okhttp3.t.a(HttpUrl.java:42) ==> login.action
+@General| okhttp3.t$a.a(HttpUrl.java:66->67->68) ==> login.action
+@General| okhttp3.t.a(HttpUrl.java:12->23) ==> login.action
+@General| okhttp3.t$a.toString(HttpUrl.java:30) ==> https://www.idangke.cn/user/login.action
+@General| okhttp3.t.<init>(HttpUrl.java:14) ==> https://www.idangke.cn/user/login.action
+@General| okhttp3.t.d(HttpUrl.java:2->4) ==> https://www.idangke.cn/user/login.action
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:7) ==> 登录中
+@General| com.zkrg.adk.main.activity.LoginActivity.b(LoginActivity.kt:7) ==> getString(R.string.dialog_login_loading)
+@General| com.zkrg.adk.core.base.BaseActivity.dialog(?:2->5) ==> tips
+@General| okio.c.a(Buffer.java:44) ==> account
+@General| okhttp3.q.a(FormBody.java:9) ==> user123
+@General| okio.c.a(Buffer.java:44) ==> user123
+@General| okhttp3.q.a(FormBody.java:7) ==> password
+@General| okio.c.a(Buffer.java:44) ==> password
+@General| okhttp3.q.a(FormBody.java:9) ==> password123
+@General| okio.c.a(Buffer.java:44) ==> password123
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> --> POST https://www.idangke.cn/user/login.action
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Content-Length: 37
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> account=user123&password=password123&
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> --> END POST (37-byte body)
+@General| com.qmuiteam.qmui.widget.dialog.QMUITipDialogView.<init>(QMUITipDialogView.java:12) ==> qmui_skin_support_tip_dialog_bg
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:7) ==> 37
+@General| okhttp3.z$a.b(Request.java:7) ==> 37
+@General| okhttp3.s$a.c(Headers.java:2->4) ==> 37
+@General| com.qmuiteam.qmui.widget.dialog.QMUITipDialog$Builder.a(QMUITipDialog.java:15) ==> qmui_skin_support_tip_dialog_loading_color
+@UIText| com.qmuiteam.qmui.widget.dialog.QMUITipDialog$Builder.a(QMUITipDialog.java:38) ==> 登录中
+@General| com.qmuiteam.qmui.widget.dialog.QMUITipDialog$Builder.a(QMUITipDialog.java:40) ==> qmui_skin_support_tip_dialog_text_color
+@General| okhttp3.d.a(CacheControl.java:4) ==> 37
+@General| okhttp3.internal.connection.c.a(RealConnection.java:142) ==> www.idangke.cn
+@General| com.zkrg.adk.core.base.BaseActivity.dialog(BaseActivity.kt:5->6) ==> dialog
+@General| okhttp3.t.c(HttpUrl.java:5) ==> /user/login.action
+@General| okhttp3.f0.f.i.a(RequestLine.java:9->6) ==> /user/login.action
+@General| okhttp3.f0.g.a.a(Http1Codec.java:7->8->23) ==> POST /user/login.action HTTP/1.1
+@General| okio.c.a(Buffer.java:44) ==> POST /user/login.action HTTP/1.1
+@General| okhttp3.f0.g.a.a(Http1Codec.java:27) ==> 37
+@General| okio.l.a(RealBufferedSink.java:7) ==> 37
+@General| okio.c.a(Buffer.java:44) ==> 37
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{Content-Type,application/x-www-form-urlencoded;charset=UTF-8,Content-Length,37,Host,www.idangke.cn,Connection,Keep-Alive,Accept-Encoding,gzip,User-Agent,okhttp/3.12.0}
+@General| okio.c.h(Buffer.java:2) ==> Date: Wed, 04 Mar 2026 13:37:03 GMT
+@General| okio.c.i(Buffer.java:3) ==> Date: Wed, 04 Mar 2026 13:37:03 GMT
+@General| okio.m.b(RealBufferedSource.java:2) ==> Date: Wed, 04 Mar 2026 13:37:03 GMT
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Date: Wed, 04 Mar 2026 13:37:03 GMT
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Date: Wed, 04 Mar 2026 13:37:03 GMT
+@General| okhttp3.s$a.a(Headers.java:2) ==>  Wed, 04 Mar 2026 13:37:03 GMT
+@General| okhttp3.s$a.b(Headers.java:2) ==> Wed, 04 Mar 2026 13:37:03 GMT
+@General| okio.c.h(Buffer.java:2) ==> Set-Cookie: rememberMe=deleteMe; Path=/; Max-Age=0; Expires=Tue, 03-Mar-2026 13:37:03 GMT; SameSite=lax
+@General| okio.c.i(Buffer.java:3) ==> Set-Cookie: rememberMe=deleteMe; Path=/; Max-Age=0; Expires=Tue, 03-Mar-2026 13:37:03 GMT; SameSite=lax
+@General| okio.m.b(RealBufferedSource.java:2) ==> Set-Cookie: rememberMe=deleteMe; Path=/; Max-Age=0; Expires=Tue, 03-Mar-2026 13:37:03 GMT; SameSite=lax
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Set-Cookie: rememberMe=deleteMe; Path=/; Max-Age=0; Expires=Tue, 03-Mar-2026 13:37:03 GMT; SameSite=lax
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Set-Cookie: rememberMe=deleteMe; Path=/; Max-Age=0; Expires=Tue, 03-Mar-2026 13:37:03 GMT; SameSite=lax
+@General| okhttp3.s$a.a(Headers.java:2) ==> Set-Cookie
+@General| okhttp3.s$a.a(Headers.java:2) ==>  rememberMe=deleteMe; Path=/; Max-Age=0; Expires=Tue, 03-Mar-2026 13:37:03 GMT; SameSite=lax
+@General| okhttp3.s$a.b(Headers.java:2) ==> rememberMe=deleteMe; Path=/; Max-Age=0; Expires=Tue, 03-Mar-2026 13:37:03 GMT; SameSite=lax
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{Server,nginx,Date,Wed, 04 Mar 2026 13:37:03 GMT,Content-Type,application/json;charset=UTF-8,Transfer-Encoding,chunked,Connection,keep-alive,Set-Cookie,rememberMe=deleteMe; Path=/; Max-Age=0; Expires=Tue, 03-Mar-2026 13:37:03 GMT; SameSite=lax}
+@General| okhttp3.s.a(Headers.java:6) ==> Set-Cookie
+@General| okhttp3.c0.a(ResponseBody.java:5) ==> {"msg":"账号或密码错误，请重新输入！","code":"0"}
+@General| okio.c.a(Buffer.java:73->75) ==> {"msg":"账号或密码错误，请重新输入！","code":"0"}
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Date: Wed, 04 Mar 2026 13:37:03 GMT
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Set-Cookie: rememberMe=deleteMe; Path=/; Max-Age=0; Expires=Tue, 03-Mar-2026 13:37:03 GMT; SameSite=lax
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> {"msg":"账号或密码错误，请重新输入！","code":"0"}
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> <-- END HTTP (63-byte body)
+@General| com.blankj.utilcode.util.ToastUtils.showShort(ToastUtils.java:4) ==> 账号或密码错误，请重新输入！
+@General| com.blankj.utilcode.util.ToastUtils.show(ToastUtils.java:8) ==> 账号或密码错误，请重新输入！
+@UIText| com.blankj.utilcode.util.ToastUtils$ToastFactory.makeNormalToast(ToastUtils.java:2) ==> 账号或密码错误，请重新输入！
+@General| com.blankj.utilcode.util.Utils$ActivityLifecycleImpl.setTopActivity(Utils.java:1) ==> com.zkrg.adk.main.activity.ForgotPwdActivity
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.onClick(?:2->5) ==> v
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.c(ForgotPwdActivity.kt:1) ==> 137123456789
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.c(ForgotPwdActivity.kt:1) ==> 请输入手机号
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.c(ForgotPwdActivity.kt:1) ==> getString(R.string.hint_input_phone)
+@General| com.blankj.utilcode.util.ScreenUtils.getScreenWidth(ScreenUtils.java:1) ==> window
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.d(ForgotPwdActivity.kt:3->4) ==> View.inflate(activity, R… * 0.8).toInt()
+        }
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.d(ForgotPwdActivity.kt:7) ==> https://www.idangke.cn
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.d(ForgotPwdActivity.kt:7) ==> etPhone
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.d(ForgotPwdActivity.kt:7) ==> 137123456789
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.d(ForgotPwdActivity.kt:7) ==> /enCode/newverifyCode?phone=%s
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.d(ForgotPwdActivity.kt:7) ==> /enCode/newverifyCode?phone=137123456789
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.d(ForgotPwdActivity.kt:7) ==> java.lang.String.format(this, *args)
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.d(ForgotPwdActivity.kt:7) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.bumptech.glide.Glide.getRetriever(?:2->1) ==> You cannot start a load on a not yet attached View or a Fragment where getActivity() returns null (which usually occurs when getActivity() is called before the Fragment is attached or after the Fragment is destroyed).
+@General| com.bumptech.glide.Glide.getAnnotationGeneratedGlideModules(Glide.java:1) ==> com.bumptech.glide.GeneratedAppGlideModuleImpl
+@General| com.bumptech.glide.GeneratedAppGlideModuleImpl.<init>(GeneratedAppGlideModuleImpl.java:2->3) ==> Glide
+@General| com.bumptech.glide.Glide.initializeGlide(Glide.java:15) ==> Glide
+@General| com.bumptech.glide.Priority.<clinit>(Priority.java:1) ==> IMMEDIATE
+@General| com.bumptech.glide.Priority.<init>(Priority.java:1) ==> IMMEDIATE
+@General| com.bumptech.glide.Priority.<clinit>(Priority.java:2) ==> HIGH
+@General| com.bumptech.glide.Priority.<init>(Priority.java:1) ==> HIGH
+@General| com.bumptech.glide.Priority.<clinit>(Priority.java:3) ==> NORMAL
+@General| com.bumptech.glide.Priority.<init>(Priority.java:1) ==> NORMAL
+@General| com.bumptech.glide.Priority.<clinit>(Priority.java:4) ==> LOW
+@General| com.bumptech.glide.Priority.<init>(Priority.java:1) ==> LOW
+@General| com.zkrg.adk.core.glide.CustomGlideModule.applyOptions(CustomGlideModule.java:1->2) ==> activity
+@General| com.bumptech.glide.MemoryCategory.<clinit>(MemoryCategory.java:1) ==> LOW
+@General| com.bumptech.glide.MemoryCategory.<init>(MemoryCategory.java:1) ==> LOW
+@General| com.bumptech.glide.MemoryCategory.<clinit>(MemoryCategory.java:2) ==> NORMAL
+@General| com.bumptech.glide.MemoryCategory.<init>(MemoryCategory.java:1) ==> NORMAL
+@General| com.bumptech.glide.MemoryCategory.<clinit>(MemoryCategory.java:3) ==> HIGH
+@General| com.bumptech.glide.MemoryCategory.<init>(MemoryCategory.java:1) ==> HIGH
+@General| com.bumptech.glide.Registry.<init>(Registry.java:11) ==> Gif
+@General| com.bumptech.glide.Registry.<init>(Registry.java:11) ==> Bitmap
+@General| com.bumptech.glide.Registry.<init>(Registry.java:11) ==> BitmapDrawable
+@General| com.bumptech.glide.Registry.setResourceDecoderBucketPriorityList(Registry.java:2) ==> legacy_prepend_all
+@General| com.bumptech.glide.Registry.setResourceDecoderBucketPriorityList(Registry.java:3) ==> legacy_append
+@General| com.bumptech.glide.Glide.<init>(Glide.java:38->39) ==> Bitmap
+@General| com.bumptech.glide.Glide.<init>(Glide.java:40->41->43->45) ==> Bitmap
+@General| com.bumptech.glide.Glide.<init>(Glide.java:47) ==> BitmapDrawable
+@General| com.bumptech.glide.Registry.append(Registry.java:3) ==> BitmapDrawable
+@General| com.bumptech.glide.Glide.<init>(Glide.java:48->49) ==> BitmapDrawable
+@General| com.bumptech.glide.Glide.<init>(Glide.java:51) ==> Gif
+@General| com.bumptech.glide.Registry.append(Registry.java:3) ==> Gif
+@General| com.bumptech.glide.Glide.<init>(Glide.java:52) ==> Gif
+@General| com.bumptech.glide.Glide.<init>(Glide.java:56) ==> Bitmap
+@General| com.bumptech.glide.Registry.append(?:2->3) ==> legacy_append
+@General| cc.shinichi.library.f.c.c(SSLSocketClient.java:1) ==> SSL
+@General| okhttp3.f0.h.a.b(AndroidPlatform.java:23) ==> findTrustAnchorByIssuerAndSignature
+@General| okhttp3.x$b.a(?:2->1) ==> timeout
+@General| okhttp3.x$b.c(OkHttpClient.java:1) ==> timeout
+@General| okhttp3.x$b.b(?:2->1) ==> timeout
+@General| com.zkrg.adk.core.glide.GlideRequest.load(GlideRequest.java:7) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.bumptech.glide.load.model.stream.HttpUriLoader.<clinit>(HttpUriLoader.java:1) ==> http
+@General| com.bumptech.glide.load.model.stream.HttpUriLoader.<clinit>(HttpUriLoader.java:1) ==> https
+@General| com.bumptech.glide.load.model.UriLoader.<clinit>(UriLoader.java:1) ==> file
+@General| com.bumptech.glide.load.model.UriLoader.<clinit>(UriLoader.java:1) ==> android.resource
+@General| com.bumptech.glide.load.model.UriLoader.<clinit>(UriLoader.java:1) ==> content
+@General| com.bumptech.glide.load.model.UrlUriLoader.<clinit>(UrlUriLoader.java:1) ==> http
+@General| com.bumptech.glide.load.model.UrlUriLoader.<clinit>(UrlUriLoader.java:1) ==> https
+@General| com.zkrg.adk.core.glide.CustomBaseGlideUrlLoader.<clinit>(CustomBaseGlideUrlLoader.java:1->2) ==> __w-((?:-?\d+)+)__
+@General| com.bumptech.glide.load.model.DataUrlLoader.handles(DataUrlLoader.java:1) ==> data:image
+@General| com.bumptech.glide.load.model.StringLoader.handles(StringLoader.java:1) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.zkrg.adk.core.glide.CustomBaseGlideUrlLoader.handles(CustomBaseGlideUrlLoader.java:1) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.bumptech.glide.load.model.StringLoader.buildLoadData(StringLoader.java:1->2) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.bumptech.glide.load.model.StringLoader.parseUri(StringLoader.java:5) ==> https
+@General| com.bumptech.glide.load.model.stream.HttpUriLoader.handles(HttpUriLoader.java:2) ==> https
+@General| com.bumptech.glide.load.model.stream.HttpUriLoader.buildLoadData(HttpUriLoader.java:2) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.bumptech.glide.load.model.LazyHeaders$Builder.getSanitizedUserAgent(?:2->1) ==> http.agent
+@General| com.bumptech.glide.load.model.LazyHeaders$Builder.getSanitizedUserAgent(LazyHeaders.java:8) ==> Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)
+@General| com.bumptech.glide.load.model.LazyHeaders$Builder.<clinit>(LazyHeaders.java:1->4) ==> Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)
+@General| com.bumptech.glide.load.model.GlideUrl.<init>(GlideUrl.java:2->9) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.bumptech.glide.load.model.AssetUriLoader.handles(AssetUriLoader.java:2) ==> file
+@General| com.bumptech.glide.load.model.UriLoader.handles(UriLoader.java:2) ==> https
+@General| com.bumptech.glide.load.model.UrlUriLoader.handles(UrlUriLoader.java:2) ==> https
+@General| com.bumptech.glide.load.model.UrlUriLoader.buildLoadData(UrlUriLoader.java:2) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.zkrg.adk.core.glide.CustomBaseGlideUrlLoader.getUrl(CustomBaseGlideUrlLoader.java:1) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.bumptech.glide.load.model.stream.BaseGlideUrlLoader.buildLoadData(BaseGlideUrlLoader.java:3->5) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.bumptech.glide.load.model.GlideUrl.getSafeStringUrl(GlideUrl.java:5) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.bumptech.glide.load.model.GlideUrl.getSafeStringUrl(GlideUrl.java:5) ==> @#&=*+-_.,:!?()/~'%;$
+@General| com.bumptech.glide.load.model.GlideUrl.toStringUrl(GlideUrl.java:1) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| okhttp3.z$a.b(?:8->1) ==> ws:
+@General| okhttp3.z$a.b(Request.java:3) ==> wss:
+@General| okhttp3.z$a.b(Request.java:5) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| okhttp3.t.d(HttpUrl.java:6) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| okhttp3.t$a.a(HttpUrl.java:19->20->21->29->39->47->53->74->56->57) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| okhttp3.t$a.d(HttpUrl.java:12) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| okhttp3.t$a.a(HttpUrl.java:66) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| okhttp3.t.a(HttpUrl.java:42) ==> enCode
+@General| okhttp3.t$a.a(HttpUrl.java:66->67->68) ==> enCode
+@General| okhttp3.t$a.a(HttpUrl.java:66->67->68) ==> newverifyCode
+@General| okhttp3.t$a.a(HttpUrl.java:59) ==>  "'<>#
+@General| okhttp3.t$a.a(HttpUrl.java:60) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| okhttp3.t$a.a(HttpUrl.java:60) ==>  "'<>#
+@General| okhttp3.t.a(HttpUrl.java:42) ==> phone=137123456789
+@General| okhttp3.t$a.a(HttpUrl.java:60) ==> phone=137123456789
+@General| okhttp3.t.e(HttpUrl.java:10) ==> phone
+@General| okhttp3.t.e(HttpUrl.java:11) ==> 137123456789
+@General| okhttp3.t.a(HttpUrl.java:16->12->23) ==> enCode
+@General| okhttp3.t.a(HttpUrl.java:12->23) ==> newverifyCode
+@General| okhttp3.t.a(HttpUrl.java:12->23) ==> phone
+@General| okhttp3.t.a(HttpUrl.java:12->23) ==> 137123456789
+@General| okhttp3.t.b(HttpUrl.java:7) ==> newverifyCode
+@General| okhttp3.t.a(HttpUrl.java:5) ==> phone
+@General| okhttp3.t.a(HttpUrl.java:7) ==> 137123456789
+@General| okhttp3.t$a.toString(HttpUrl.java:30) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| okhttp3.t.<init>(HttpUrl.java:14) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.bumptech.glide.load.model.LazyHeaders.buildHeaderValue(LazyHeaders.java:4->6->9) ==> Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)
+@General| okhttp3.z$a.a(Request.java:3) ==> User-Agent
+@General| okhttp3.z$a.a(Request.java:3) ==> Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)
+@General| okhttp3.s$a.a(Headers.java:6) ==> User-Agent
+@General| okhttp3.s$a.a(Headers.java:7) ==> Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)
+@General| okhttp3.s$a.a(Headers.java:7->8) ==> User-Agent
+@General| okhttp3.s$a.b(Headers.java:2) ==> Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)
+@General| okhttp3.t.d(HttpUrl.java:2->4) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| okhttp3.t.d(HttpUrl.java:5) ==> newverifyCode
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{User-Agent,Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)}
+@General| okhttp3.s$a.b(Headers.java:4) ==> User-Agent
+@General| okhttp3.s.a(Headers.java:1) ==> Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)
+@General| okhttp3.z.a(Request.java:1) ==> Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:20) ==> Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)
+@General| okhttp3.d.a(CacheControl.java:4) ==> Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)
+@General| okhttp3.internal.connection.c.a(RealConnection.java:151) ==> www.idangke.cn
+@General| okhttp3.f0.f.i.a(RequestLine.java:2) ==> GET
+@General| okhttp3.t.c(HttpUrl.java:4) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| okhttp3.t.c(HttpUrl.java:5) ==> /enCode/newverifyCode
+@General| okhttp3.f0.f.i.a(RequestLine.java:9) ==> /enCode/newverifyCode
+@General| okhttp3.t.e(HttpUrl.java:3) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| okhttp3.t.e(HttpUrl.java:4) ==> phone=137123456789
+@General| okhttp3.f0.f.i.a(RequestLine.java:10) ==> phone=137123456789
+@General| okhttp3.f0.f.i.a(RequestLine.java:11) ==> /enCode/newverifyCode
+@General| okhttp3.f0.f.i.a(RequestLine.java:11) ==> phone=137123456789
+@General| okhttp3.f0.f.i.a(RequestLine.java:11->6) ==> /enCode/newverifyCode?phone=137123456789
+@General| okhttp3.f0.g.a.a(Http1Codec.java:7->8->23) ==> GET /enCode/newverifyCode?phone=137123456789 HTTP/1.1
+@General| okio.c.a(Buffer.java:44) ==> GET /enCode/newverifyCode?phone=137123456789 HTTP/1.1
+@General| okhttp3.f0.g.a.a(Http1Codec.java:27) ==> Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)
+@General| okio.l.a(RealBufferedSink.java:7) ==> Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)
+@General| okio.c.a(Buffer.java:44) ==> Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI)
+@General| okhttp3.f0.f.b.intercept(CallServerInterceptor.java:10) ==> GET
+@General| okio.c.h(Buffer.java:2) ==> Date: Wed, 04 Mar 2026 13:37:27 GMT
+@General| okio.c.i(Buffer.java:3) ==> Date: Wed, 04 Mar 2026 13:37:27 GMT
+@General| okio.m.b(RealBufferedSource.java:2) ==> Date: Wed, 04 Mar 2026 13:37:27 GMT
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Date: Wed, 04 Mar 2026 13:37:27 GMT
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Date: Wed, 04 Mar 2026 13:37:27 GMT
+@General| okhttp3.s$a.a(Headers.java:2) ==>  Wed, 04 Mar 2026 13:37:27 GMT
+@General| okhttp3.s$a.b(Headers.java:2) ==> Wed, 04 Mar 2026 13:37:27 GMT
+@General| okio.c.h(Buffer.java:2) ==> Content-Length: 6324
+@General| okio.c.i(Buffer.java:3) ==> Content-Length: 6324
+@General| okio.m.b(RealBufferedSource.java:2) ==> Content-Length: 6324
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Content-Length: 6324
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Content-Length: 6324
+@General| okhttp3.s$a.a(Headers.java:2) ==> Content-Length
+@General| okhttp3.s$a.a(Headers.java:2) ==>  6324
+@General| okhttp3.s$a.b(Headers.java:2) ==> 6324
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{Server,nginx,Date,Wed, 04 Mar 2026 13:37:27 GMT,Content-Length,6324,Connection,keep-alive}
+@General| okhttp3.f0.f.e.b(HttpHeaders.java:1) ==> GET
+@General| okhttp3.f0.f.e.a(?:2) ==> Content-Length
+@General| okhttp3.s.a(Headers.java:1) ==> 6324
+@General| okhttp3.f0.f.e.a(HttpHeaders.java:2->3) ==> 6324
+@General| cc.shinichi.library.f.e.c$b.intercept(ProgressManager.java:4) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| cc.shinichi.library.f.e.d$a$a.run(ProgressResponseBody.java:1) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| cc.shinichi.library.f.e.c$a.a(ProgressManager.java:1) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.bumptech.glide.load.model.GlideUrl.equals(GlideUrl.java:3) ==> https://www.idangke.cn/enCode/newverifyCode?phone=137123456789
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity$d.onClick(ForgotPwdActivity.kt:1) ==> layout.etPicCode
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity$d.onClick(ForgotPwdActivity.kt:1->7) ==> 7893
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:2) ==> etPhone
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:2) ==> 137123456789
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:2) ==> 7893
+@General| retrofit2.o$a.a(RequestFactory.java:32->64) ==> /user/identifyingCode.action
+@General| retrofit2.o$a.a(RequestFactory.java:254) ==> phone
+@General| retrofit2.o$a.a(RequestFactory.java:233->254) ==> vcode
+@General| retrofit2.a$d.a(BuiltInConverters.java:2) ==> 137123456789
+@General| retrofit2.l$d.a(ParameterHandler.java:2) ==> phone
+@General| retrofit2.l$d.a(ParameterHandler.java:2) ==> 137123456789
+@General| retrofit2.n.a(RequestBuilder.java:27) ==> phone
+@General| retrofit2.n.a(RequestBuilder.java:27) ==> 137123456789
+@General| okhttp3.q$a.a(FormBody.java:1) ==> phone
+@General| okhttp3.t.a(HttpUrl.java:59->42) ==> phone
+@General| okhttp3.t.a(HttpUrl.java:59->42) ==> 137123456789
+@General| retrofit2.l$d.a(ParameterHandler.java:2) ==> vcode
+@General| retrofit2.l$d.a(ParameterHandler.java:2) ==> 7893
+@General| retrofit2.n.a(RequestBuilder.java:27) ==> vcode
+@General| retrofit2.n.a(RequestBuilder.java:27) ==> 7893
+@General| okhttp3.q$a.a(FormBody.java:1) ==> vcode
+@General| okhttp3.t.a(HttpUrl.java:59->42) ==> vcode
+@General| okhttp3.t.a(HttpUrl.java:59->42) ==> 7893
+@General| okhttp3.t.b(HttpUrl.java:8) ==> /user/identifyingCode.action
+@General| okhttp3.t.a(HttpUrl.java:11) ==> /user/identifyingCode.action
+@General| okhttp3.t$a.a(HttpUrl.java:19->20->21->29->56->57) ==> /user/identifyingCode.action
+@General| okhttp3.t$a.d(HttpUrl.java:12) ==> /user/identifyingCode.action
+@General| okhttp3.t$a.a(HttpUrl.java:66) ==> /user/identifyingCode.action
+@General| okhttp3.t.a(HttpUrl.java:42) ==> identifyingCode.action
+@General| okhttp3.t$a.a(HttpUrl.java:66->67->68) ==> identifyingCode.action
+@General| okhttp3.t.a(HttpUrl.java:12->23) ==> identifyingCode.action
+@General| okhttp3.t$a.toString(HttpUrl.java:30) ==> https://www.idangke.cn/user/identifyingCode.action
+@General| okhttp3.t.<init>(HttpUrl.java:14) ==> https://www.idangke.cn/user/identifyingCode.action
+@General| okhttp3.t.d(HttpUrl.java:2->4) ==> https://www.idangke.cn/user/identifyingCode.action
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:3) ==> 发送中
+@UIText| com.qmuiteam.qmui.widget.dialog.QMUITipDialog$Builder.a(QMUITipDialog.java:38) ==> 发送中
+@General| okhttp3.q.a(FormBody.java:7) ==> phone
+@General| okio.c.a(Buffer.java:44) ==> phone
+@General| okhttp3.q.a(FormBody.java:9) ==> 137123456789
+@General| okio.c.a(Buffer.java:44) ==> 137123456789
+@General| okhttp3.q.a(FormBody.java:7) ==> vcode
+@General| okio.c.a(Buffer.java:44) ==> vcode
+@General| okhttp3.q.a(FormBody.java:9) ==> 7893
+@General| okio.c.a(Buffer.java:44) ==> 7893
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> --> POST https://www.idangke.cn/user/identifyingCode.action
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Content-Length: 30
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> phone=137123456789&vcode=7893&
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> --> END POST (30-byte body)
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:7) ==> 30
+@General| okhttp3.z$a.b(Request.java:7) ==> 30
+@General| okhttp3.s$a.c(Headers.java:2->4) ==> 30
+@General| okhttp3.d.a(CacheControl.java:4) ==> 30
+@General| okhttp3.t.c(HttpUrl.java:4) ==> https://www.idangke.cn/user/identifyingCode.action
+@General| okhttp3.t.c(HttpUrl.java:5) ==> /user/identifyingCode.action
+@General| okhttp3.f0.f.i.a(RequestLine.java:9->6) ==> /user/identifyingCode.action
+@General| okhttp3.f0.g.a.a(Http1Codec.java:7->8->23) ==> POST /user/identifyingCode.action HTTP/1.1
+@General| okio.c.a(Buffer.java:44) ==> POST /user/identifyingCode.action HTTP/1.1
+@General| okhttp3.f0.g.a.a(Http1Codec.java:27) ==> 30
+@General| okio.l.a(RealBufferedSink.java:7) ==> 30
+@General| okio.c.a(Buffer.java:44) ==> 30
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{Content-Type,application/x-www-form-urlencoded;charset=UTF-8,Content-Length,30,Host,www.idangke.cn,Connection,Keep-Alive,Accept-Encoding,gzip,User-Agent,okhttp/3.12.0}
+@General| okio.c.h(Buffer.java:2) ==> Date: Wed, 04 Mar 2026 13:37:31 GMT
+@General| okio.c.i(Buffer.java:3) ==> Date: Wed, 04 Mar 2026 13:37:31 GMT
+@General| okio.m.b(RealBufferedSource.java:2) ==> Date: Wed, 04 Mar 2026 13:37:31 GMT
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Date: Wed, 04 Mar 2026 13:37:31 GMT
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Date: Wed, 04 Mar 2026 13:37:31 GMT
+@General| okhttp3.s$a.a(Headers.java:2) ==>  Wed, 04 Mar 2026 13:37:31 GMT
+@General| okhttp3.s$a.b(Headers.java:2) ==> Wed, 04 Mar 2026 13:37:31 GMT
+@General| okio.c.h(Buffer.java:2) ==> Set-Cookie: sid=2b3a844f-92f1-4eff-9baa-6ad99cae8a23; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:37:31 GMT; HttpOnly; SameSite=lax
+@General| okio.c.i(Buffer.java:3) ==> Set-Cookie: sid=2b3a844f-92f1-4eff-9baa-6ad99cae8a23; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:37:31 GMT; HttpOnly; SameSite=lax
+@General| okio.m.b(RealBufferedSource.java:2) ==> Set-Cookie: sid=2b3a844f-92f1-4eff-9baa-6ad99cae8a23; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:37:31 GMT; HttpOnly; SameSite=lax
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Set-Cookie: sid=2b3a844f-92f1-4eff-9baa-6ad99cae8a23; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:37:31 GMT; HttpOnly; SameSite=lax
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Set-Cookie: sid=2b3a844f-92f1-4eff-9baa-6ad99cae8a23; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:37:31 GMT; HttpOnly; SameSite=lax
+@General| okhttp3.s$a.a(Headers.java:2) ==>  sid=2b3a844f-92f1-4eff-9baa-6ad99cae8a23; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:37:31 GMT; HttpOnly; SameSite=lax
+@General| okhttp3.s$a.b(Headers.java:2) ==> sid=2b3a844f-92f1-4eff-9baa-6ad99cae8a23; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:37:31 GMT; HttpOnly; SameSite=lax
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{Server,nginx,Date,Wed, 04 Mar 2026 13:37:31 GMT,Content-Type,application/json;charset=UTF-8,Transfer-Encoding,chunked,Connection,keep-alive,Set-Cookie,sid=2b3a844f-92f1-4eff-9baa-6ad99cae8a23; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:37:31 GMT; HttpOnly; SameSite=lax}
+@General| okhttp3.c0.a(ResponseBody.java:5) ==> {"msg":"不在IP范围内,发送短信失败！","code":"0"}
+@General| okio.c.a(Buffer.java:73->75) ==> {"msg":"不在IP范围内,发送短信失败！","code":"0"}
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Date: Wed, 04 Mar 2026 13:37:31 GMT
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Set-Cookie: sid=2b3a844f-92f1-4eff-9baa-6ad99cae8a23; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:37:31 GMT; HttpOnly; SameSite=lax
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> {"msg":"不在IP范围内,发送短信失败！","code":"0"}
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> <-- END HTTP (60-byte body)
+@General| com.blankj.utilcode.util.ToastUtils.showShort(ToastUtils.java:4) ==> 不在IP范围内,发送短信失败！
+@General| com.blankj.utilcode.util.ToastUtils.show(ToastUtils.java:8) ==> 不在IP范围内,发送短信失败！
+@UIText| com.blankj.utilcode.util.ToastUtils$ToastFactory.makeNormalToast(ToastUtils.java:2) ==> 不在IP范围内,发送短信失败！
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:5) ==> etAccount
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:5) ==> 
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:5) ==> 请输入用户名
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:5) ==> getString(R.string.hint_input_account)
+@General| com.blankj.utilcode.util.ToastUtils.showShort(ToastUtils.java:4) ==> 请输入用户名
+@General| com.blankj.utilcode.util.ToastUtils.show(ToastUtils.java:8) ==> 请输入用户名
+@UIText| com.blankj.utilcode.util.ToastUtils$ToastFactory.makeNormalToast(ToastUtils.java:2) ==> 请输入用户名
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:5) ==> 123
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:6) ==> etPhone
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:6) ==> 137123456789
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:6) ==> 请输入手机号
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:6) ==> getString(R.string.hint_input_phone)
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:7) ==> etCode
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:7) ==> 123
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:7) ==> 请输入验证码
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:7) ==> getString(R.string.hint_input_code)
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:8) ==> etPwd
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:8) ==> 
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:8) ==> 请输入密码（最少6个字符）
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:8) ==> getString(R.string.hint_input_pwd)
+@General| com.blankj.utilcode.util.ToastUtils.showShort(ToastUtils.java:4) ==> 请输入密码（最少6个字符）
+@General| com.blankj.utilcode.util.ToastUtils.show(ToastUtils.java:8) ==> 请输入密码（最少6个字符）
+@UIText| com.blankj.utilcode.util.ToastUtils$ToastFactory.makeNormalToast(ToastUtils.java:2) ==> 请输入密码（最少6个字符）
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:8) ==> password123
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:9) ==> etPwd2
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:9) ==> password123
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:9) ==> 请确认密码
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:9) ==> getString(R.string.hint_confirm_password)
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:10) ==> etPwd
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:10) ==> password123
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:12) ==> etPwd
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:12) ==> password123
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:12) ==> etPwd2
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:15) ==> etAccount
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:15) ==> 123
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:16) ==> etPhone
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:16) ==> 137123456789
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:17) ==> etCode
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:17) ==> 123
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:18) ==> etPwd
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:18) ==> password123
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:19) ==> 123
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:19) ==> 137123456789
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:19) ==> password123
+@General| retrofit2.o$a.a(RequestFactory.java:32->64) ==> user/forgetPassword.action
+@General| retrofit2.o$a.a(RequestFactory.java:254) ==> code
+@General| retrofit2.o.a(RequestFactory.java:5) ==> user/forgetPassword.action
+@General| retrofit2.a$d.a(BuiltInConverters.java:2) ==> 123
+@General| retrofit2.l$d.a(ParameterHandler.java:2) ==> 123
+@General| retrofit2.n.a(RequestBuilder.java:27) ==> 123
+@General| okhttp3.q$a.a(FormBody.java:2) ==> 123
+@General| okhttp3.t.a(HttpUrl.java:59->42) ==> 123
+@General| retrofit2.n.a(RequestBuilder.java:27) ==> code
+@General| okhttp3.q$a.a(FormBody.java:1) ==> code
+@General| okhttp3.t.a(HttpUrl.java:59->42) ==> code
+@General| okhttp3.t.b(HttpUrl.java:8) ==> user/forgetPassword.action
+@General| okhttp3.t.a(HttpUrl.java:11) ==> user/forgetPassword.action
+@General| okhttp3.t$a.a(HttpUrl.java:19->20->21->29->56->57) ==> user/forgetPassword.action
+@General| okhttp3.t$a.d(HttpUrl.java:12) ==> user/forgetPassword.action
+@General| okhttp3.t$a.a(HttpUrl.java:66) ==> user/forgetPassword.action
+@General| okhttp3.t.a(HttpUrl.java:42) ==> forgetPassword.action
+@General| okhttp3.t$a.a(HttpUrl.java:66->67->68) ==> forgetPassword.action
+@General| okhttp3.t.a(HttpUrl.java:12->23) ==> forgetPassword.action
+@General| okhttp3.t$a.toString(HttpUrl.java:30) ==> https://www.idangke.cn/user/forgetPassword.action
+@General| okhttp3.t.<init>(HttpUrl.java:14) ==> https://www.idangke.cn/user/forgetPassword.action
+@General| okhttp3.t.d(HttpUrl.java:2->4) ==> https://www.idangke.cn/user/forgetPassword.action
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:21) ==> 注册中
+@General| okhttp3.q.a(FormBody.java:9) ==> 123
+@General| okio.c.a(Buffer.java:44) ==> 123
+@General| okhttp3.q.a(FormBody.java:7) ==> code
+@General| okio.c.a(Buffer.java:44) ==> code
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:21) ==> getString(R.string.dialog_register_loading)
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> --> POST https://www.idangke.cn/user/forgetPassword.action
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Content-Length: 61
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> account=123&phone=137123456789&code=123&password=password123&
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> --> END POST (61-byte body)
+@UIText| com.qmuiteam.qmui.widget.dialog.QMUITipDialog$Builder.a(QMUITipDialog.java:38) ==> 注册中
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:7) ==> 61
+@General| okhttp3.z$a.b(Request.java:7) ==> 61
+@General| okhttp3.s$a.c(Headers.java:2->4) ==> 61
+@General| okhttp3.d.a(CacheControl.java:4) ==> 61
+@General| okhttp3.t.c(HttpUrl.java:4) ==> https://www.idangke.cn/user/forgetPassword.action
+@General| okhttp3.t.c(HttpUrl.java:5) ==> /user/forgetPassword.action
+@General| okhttp3.f0.f.i.a(RequestLine.java:9->6) ==> /user/forgetPassword.action
+@General| okhttp3.f0.g.a.a(Http1Codec.java:7->8->23) ==> POST /user/forgetPassword.action HTTP/1.1
+@General| okio.c.a(Buffer.java:44) ==> POST /user/forgetPassword.action HTTP/1.1
+@General| okhttp3.f0.g.a.a(Http1Codec.java:27) ==> 61
+@General| okio.l.a(RealBufferedSink.java:7) ==> 61
+@General| okio.c.a(Buffer.java:44) ==> 61
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{Content-Type,application/x-www-form-urlencoded;charset=UTF-8,Content-Length,61,Host,www.idangke.cn,Connection,Keep-Alive,Accept-Encoding,gzip,User-Agent,okhttp/3.12.0}
+@General| okio.c.h(Buffer.java:2) ==> Date: Wed, 04 Mar 2026 13:38:01 GMT
+@General| okio.c.i(Buffer.java:3) ==> Date: Wed, 04 Mar 2026 13:38:01 GMT
+@General| okio.m.b(RealBufferedSource.java:2) ==> Date: Wed, 04 Mar 2026 13:38:01 GMT
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Date: Wed, 04 Mar 2026 13:38:01 GMT
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Date: Wed, 04 Mar 2026 13:38:01 GMT
+@General| okhttp3.s$a.a(Headers.java:2) ==>  Wed, 04 Mar 2026 13:38:01 GMT
+@General| okhttp3.s$a.b(Headers.java:2) ==> Wed, 04 Mar 2026 13:38:01 GMT
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{Server,nginx,Date,Wed, 04 Mar 2026 13:38:01 GMT,Content-Type,application/json;charset=UTF-8,Transfer-Encoding,chunked,Connection,keep-alive}
+@General| okhttp3.c0.a(ResponseBody.java:5) ==> {"msg":"手机号错误","code":"0"}
+@General| okio.c.a(Buffer.java:73->75) ==> {"msg":"手机号错误","code":"0"}
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Date: Wed, 04 Mar 2026 13:38:01 GMT
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> {"msg":"手机号错误","code":"0"}
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> <-- END HTTP (36-byte body)
+@General| com.blankj.utilcode.util.ToastUtils.showShort(ToastUtils.java:4) ==> 手机号错误
+@General| com.blankj.utilcode.util.ToastUtils.show(ToastUtils.java:8) ==> 手机号错误
+@UIText| com.blankj.utilcode.util.ToastUtils$ToastFactory.makeNormalToast(ToastUtils.java:2) ==> 手机号错误
+@General| com.zkrg.adk.main.activity.ForgotPwdActivity.a(ForgotPwdActivity.kt:6->16->19) ==> 138123456789
+@General| retrofit2.l$d.a(ParameterHandler.java:2) ==> 138123456789
+@General| retrofit2.n.a(RequestBuilder.java:27) ==> 138123456789
+@General| okhttp3.q$a.a(FormBody.java:2) ==> 138123456789
+@General| okhttp3.t.a(HttpUrl.java:59->42) ==> 138123456789
+@General| okio.c.a(Buffer.java:44) ==> 138123456789
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> account=123&phone=138123456789&code=123&password=password123&
+@General| okio.c.h(Buffer.java:2) ==> Date: Wed, 04 Mar 2026 13:38:19 GMT
+@General| okio.c.i(Buffer.java:3) ==> Date: Wed, 04 Mar 2026 13:38:19 GMT
+@General| okio.m.b(RealBufferedSource.java:2) ==> Date: Wed, 04 Mar 2026 13:38:19 GMT
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Date: Wed, 04 Mar 2026 13:38:19 GMT
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Date: Wed, 04 Mar 2026 13:38:19 GMT
+@General| okhttp3.s$a.a(Headers.java:2) ==>  Wed, 04 Mar 2026 13:38:19 GMT
+@General| okhttp3.s$a.b(Headers.java:2) ==> Wed, 04 Mar 2026 13:38:19 GMT
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{Server,nginx,Date,Wed, 04 Mar 2026 13:38:19 GMT,Content-Type,application/json;charset=UTF-8,Transfer-Encoding,chunked,Connection,keep-alive}
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> <-- 200 https://www.idangke.cn/user/forgetPassword.action (68ms)
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Date: Wed, 04 Mar 2026 13:38:19 GMT
+@General| com.blankj.utilcode.util.Utils$ActivityLifecycleImpl.setTopActivity(Utils.java:1) ==> com.zkrg.adk.main.activity.RegisterActivity
+@General| com.zkrg.adk.main.activity.RegisterActivity.initView(RegisterActivity.kt:1->3) ==> tv_tips
+@General| com.zkrg.adk.main.activity.RegisterActivity.initView(RegisterActivity.kt:4->5) ==> layout_zbdw
+@General| com.zkrg.adk.main.activity.RegisterActivity.setListener(RegisterActivity.kt:5) ==> tv_service
+@General| com.zkrg.adk.main.activity.RegisterActivity.setListener(RegisterActivity.kt:5) ==> tv_service.paint
+@General| com.zkrg.adk.main.activity.RegisterActivity.setListener(RegisterActivity.kt:6) ==> tv_service
+@General| com.zkrg.adk.main.activity.RegisterActivity.setListener(RegisterActivity.kt:6) ==> tv_service.paint
+@General| com.zkrg.adk.main.activity.RegisterActivity.onClick(?:2->5) ==> v
+@General| com.zkrg.adk.main.activity.RegisterActivity.b(RegisterActivity.kt:1) ==> 2131231
+@General| com.zkrg.adk.main.activity.RegisterActivity.b(RegisterActivity.kt:1) ==> 请输入手机号
+@General| com.zkrg.adk.main.activity.RegisterActivity.b(RegisterActivity.kt:1) ==> getString(R.string.hint_input_phone)
+@General| com.zkrg.adk.main.activity.RegisterActivity.d(RegisterActivity.kt:3->4) ==> View.inflate(activity, R… * 0.8).toInt()
+        }
+@General| com.zkrg.adk.main.activity.RegisterActivity.d(RegisterActivity.kt:7) ==> https://www.idangke.cn
+@General| com.zkrg.adk.main.activity.RegisterActivity.d(RegisterActivity.kt:7) ==> etPhone
+@General| com.zkrg.adk.main.activity.RegisterActivity.d(RegisterActivity.kt:7) ==> 2131231
+@General| com.zkrg.adk.main.activity.RegisterActivity.d(RegisterActivity.kt:7) ==> /enCode/newverifyCode?phone=%s
+@General| com.zkrg.adk.main.activity.RegisterActivity.d(RegisterActivity.kt:7) ==> /enCode/newverifyCode?phone=2131231
+@General| com.zkrg.adk.main.activity.RegisterActivity.d(RegisterActivity.kt:7) ==> java.lang.String.format(this, *args)
+@General| com.zkrg.adk.main.activity.RegisterActivity.d(RegisterActivity.kt:7) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| com.bumptech.glide.RequestManager.load(RequestManager.java:12) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| com.zkrg.adk.core.glide.GlideRequest.load(GlideRequest.java:7) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| com.bumptech.glide.load.model.DataUrlLoader.handles(DataUrlLoader.java:1) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| com.bumptech.glide.load.model.StringLoader.handles(StringLoader.java:1) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| com.zkrg.adk.core.glide.CustomBaseGlideUrlLoader.handles(CustomBaseGlideUrlLoader.java:1) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| com.bumptech.glide.load.model.StringLoader.buildLoadData(StringLoader.java:1->2) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| com.bumptech.glide.load.model.stream.HttpUriLoader.buildLoadData(HttpUriLoader.java:2) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| com.bumptech.glide.load.model.GlideUrl.<init>(GlideUrl.java:2->9) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| com.zkrg.adk.core.glide.CustomBaseGlideUrlLoader.getUrl(CustomBaseGlideUrlLoader.java:1) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| com.bumptech.glide.load.model.stream.BaseGlideUrlLoader.buildLoadData(BaseGlideUrlLoader.java:3->5) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| com.bumptech.glide.load.model.GlideUrl.toStringUrl(GlideUrl.java:1) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| okhttp3.z$a.b(Request.java:5) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| okhttp3.t.d(HttpUrl.java:6) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| okhttp3.t$a.a(HttpUrl.java:19->20->21->29->39->47->53->74->56->57) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| okhttp3.t$a.d(HttpUrl.java:12) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| okhttp3.t$a.a(HttpUrl.java:66->59->60) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| okhttp3.t$a.a(HttpUrl.java:60) ==> phone=2131231
+@General| okhttp3.t.e(HttpUrl.java:11) ==> 2131231
+@General| okhttp3.t.a(HttpUrl.java:16->12->23->7) ==> 2131231
+@General| okhttp3.t.<init>(HttpUrl.java:14) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| okhttp3.t.d(HttpUrl.java:2->4) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| okhttp3.t.e(HttpUrl.java:3) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| okhttp3.t.e(HttpUrl.java:4) ==> phone=2131231
+@General| okhttp3.f0.f.i.a(RequestLine.java:10->11) ==> phone=2131231
+@General| okhttp3.f0.f.i.a(RequestLine.java:6) ==> /enCode/newverifyCode?phone=2131231
+@General| okhttp3.f0.f.i.a(RequestLine.java:8) ==> GET /enCode/newverifyCode?phone=2131231 HTTP/1.1
+@General| okhttp3.f0.g.a.a(Http1Codec.java:7->8->23) ==> GET /enCode/newverifyCode?phone=2131231 HTTP/1.1
+@General| okio.c.a(Buffer.java:44) ==> GET /enCode/newverifyCode?phone=2131231 HTTP/1.1
+@General| okio.c.h(Buffer.java:2) ==> Date: Wed, 04 Mar 2026 13:38:27 GMT
+@General| okio.c.i(Buffer.java:3) ==> Date: Wed, 04 Mar 2026 13:38:27 GMT
+@General| okio.m.b(RealBufferedSource.java:2) ==> Date: Wed, 04 Mar 2026 13:38:27 GMT
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Date: Wed, 04 Mar 2026 13:38:27 GMT
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Date: Wed, 04 Mar 2026 13:38:27 GMT
+@General| okhttp3.s$a.a(Headers.java:2) ==>  Wed, 04 Mar 2026 13:38:27 GMT
+@General| okhttp3.s$a.b(Headers.java:2) ==> Wed, 04 Mar 2026 13:38:27 GMT
+@General| okio.c.h(Buffer.java:2) ==> Content-Length: 7062
+@General| okio.c.i(Buffer.java:3) ==> Content-Length: 7062
+@General| okio.m.b(RealBufferedSource.java:2) ==> Content-Length: 7062
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Content-Length: 7062
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Content-Length: 7062
+@General| okhttp3.s$a.a(Headers.java:2) ==>  7062
+@General| okhttp3.s$a.b(Headers.java:2) ==> 7062
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{Server,nginx,Date,Wed, 04 Mar 2026 13:38:27 GMT,Content-Length,7062,Connection,keep-alive}
+@General| okhttp3.s.a(Headers.java:1) ==> 7062
+@General| okhttp3.f0.f.e.a(HttpHeaders.java:2->3) ==> 7062
+@General| cc.shinichi.library.f.e.d$a$a.run(ProgressResponseBody.java:1) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| cc.shinichi.library.f.e.c$a.a(ProgressManager.java:1) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| com.bumptech.glide.load.model.GlideUrl.equals(GlideUrl.java:3) ==> https://www.idangke.cn/enCode/newverifyCode?phone=2131231
+@General| com.zkrg.adk.main.activity.RegisterActivity$d.onClick(RegisterActivity.kt:1) ==> layout.etPicCode
+@General| com.zkrg.adk.main.activity.RegisterActivity$d.onClick(RegisterActivity.kt:1->7) ==> 6686
+@General| com.zkrg.adk.main.activity.RegisterActivity.a(RegisterActivity.kt:2) ==> etPhone
+@General| com.zkrg.adk.main.activity.RegisterActivity.a(RegisterActivity.kt:2) ==> 2131231
+@General| com.zkrg.adk.main.activity.RegisterActivity.a(RegisterActivity.kt:2) ==> 6686
+@General| retrofit2.a$d.a(BuiltInConverters.java:2) ==> 2131231
+@General| retrofit2.l$d.a(ParameterHandler.java:2) ==> 2131231
+@General| retrofit2.n.a(RequestBuilder.java:27) ==> 2131231
+@General| okhttp3.q$a.a(FormBody.java:2) ==> 2131231
+@General| okhttp3.t.a(HttpUrl.java:59->42) ==> 2131231
+@General| retrofit2.l$d.a(ParameterHandler.java:2) ==> 6686
+@General| retrofit2.n.a(RequestBuilder.java:27) ==> 6686
+@General| okhttp3.q$a.a(FormBody.java:2) ==> 6686
+@General| okhttp3.t.a(HttpUrl.java:59->42) ==> 6686
+@General| okhttp3.q.a(FormBody.java:9) ==> 2131231
+@General| okio.c.a(Buffer.java:44) ==> 2131231
+@General| okhttp3.q.a(FormBody.java:9) ==> 6686
+@General| okio.c.a(Buffer.java:44) ==> 6686
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Content-Length: 25
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> phone=2131231&vcode=6686&
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> --> END POST (25-byte body)
+@General| okhttp3.f0.f.a.intercept(BridgeInterceptor.java:7) ==> 25
+@General| okhttp3.z$a.b(Request.java:7) ==> 25
+@General| okhttp3.s$a.c(Headers.java:2->4) ==> 25
+@General| okhttp3.d.a(CacheControl.java:4) ==> 25
+@General| okhttp3.f0.g.a.a(Http1Codec.java:27) ==> 25
+@General| okio.l.a(RealBufferedSink.java:7) ==> 25
+@General| okio.c.a(Buffer.java:44) ==> 25
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{Content-Type,application/x-www-form-urlencoded;charset=UTF-8,Content-Length,25,Host,www.idangke.cn,Connection,Keep-Alive,Accept-Encoding,gzip,User-Agent,okhttp/3.12.0}
+@General| okio.c.h(Buffer.java:2) ==> Date: Wed, 04 Mar 2026 13:38:31 GMT
+@General| okio.c.i(Buffer.java:3) ==> Date: Wed, 04 Mar 2026 13:38:31 GMT
+@General| okio.m.b(RealBufferedSource.java:2) ==> Date: Wed, 04 Mar 2026 13:38:31 GMT
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Date: Wed, 04 Mar 2026 13:38:31 GMT
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Date: Wed, 04 Mar 2026 13:38:31 GMT
+@General| okhttp3.s$a.a(Headers.java:2) ==>  Wed, 04 Mar 2026 13:38:31 GMT
+@General| okhttp3.s$a.b(Headers.java:2) ==> Wed, 04 Mar 2026 13:38:31 GMT
+@General| okio.c.h(Buffer.java:2) ==> Set-Cookie: sid=e5d2500d-e1bc-4564-90e8-69587fbebae1; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:38:31 GMT; HttpOnly; SameSite=lax
+@General| okio.c.i(Buffer.java:3) ==> Set-Cookie: sid=e5d2500d-e1bc-4564-90e8-69587fbebae1; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:38:31 GMT; HttpOnly; SameSite=lax
+@General| okio.m.b(RealBufferedSource.java:2) ==> Set-Cookie: sid=e5d2500d-e1bc-4564-90e8-69587fbebae1; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:38:31 GMT; HttpOnly; SameSite=lax
+@General| okhttp3.f0.g.a.f(Http1Codec.java:1) ==> Set-Cookie: sid=e5d2500d-e1bc-4564-90e8-69587fbebae1; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:38:31 GMT; HttpOnly; SameSite=lax
+@General| okhttp3.f0.g.a.e(Http1Codec.java:2->3) ==> Set-Cookie: sid=e5d2500d-e1bc-4564-90e8-69587fbebae1; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:38:31 GMT; HttpOnly; SameSite=lax
+@General| okhttp3.s$a.a(Headers.java:2) ==>  sid=e5d2500d-e1bc-4564-90e8-69587fbebae1; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:38:31 GMT; HttpOnly; SameSite=lax
+@General| okhttp3.s$a.b(Headers.java:2) ==> sid=e5d2500d-e1bc-4564-90e8-69587fbebae1; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:38:31 GMT; HttpOnly; SameSite=lax
+@General[]| okhttp3.s.a(Headers.java:1) ==> new String[]{Server,nginx,Date,Wed, 04 Mar 2026 13:38:31 GMT,Content-Type,application/json;charset=UTF-8,Transfer-Encoding,chunked,Connection,keep-alive,Set-Cookie,sid=e5d2500d-e1bc-4564-90e8-69587fbebae1; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:38:31 GMT; HttpOnly; SameSite=lax}
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> <-- 200 https://www.idangke.cn/user/identifyingCode.action (212ms)
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Date: Wed, 04 Mar 2026 13:38:31 GMT
+@General| okhttp3.f0.h.a.a(AndroidPlatform.java:21) ==> Set-Cookie: sid=e5d2500d-e1bc-4564-90e8-69587fbebae1; Path=/; Max-Age=1800000; Expires=Wed, 25-Mar-2026 09:38:31 GMT; HttpOnly; SameSite=lax
